@@ -225,6 +225,7 @@
 
 ## Java 
 
+- [codejam](https://github.com/ckcz123/codejam) - Codejam, apac, kickstart, I/O for Women...  2017, 2016, 2015, 2014... All solutions here!
 - [slf4j](https://github.com/qos-ch/slf4j) - Simple Logging Facade for Java
 - [uranusdb](https://github.com/maxdemarzi/uranusdb) - Uranus DB
 - [janusgraph](https://github.com/JanusGraph/janusgraph) - JanusGraph: an open-source, distributed graph database
@@ -429,6 +430,7 @@
 
 ## Python 
 
+- [Google-Kick-Start](https://github.com/Harmon758/Google-Kick-Start) - Google Kick Start
 - [starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [fastapi-ml-skeleton](https://github.com/eightBEC/fastapi-ml-skeleton) - FastAPI Skeleton App to serve machine learning models production-ready.
 - [explain-ml](https://github.com/christophM/explain-ml) - 
@@ -607,7 +609,6 @@
 - [nom](https://github.com/Geal/nom) - Rust parser combinator framework
 - [iota](https://github.com/gchp/iota) - A terminal-based text editor written in Rust
 - [rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
-- [robinson](https://github.com/mbrubeck/robinson) - A toy web rendering engine
 - [servo](https://github.com/servo/servo) - The Servo Browser Engine
 
 ## Scala 

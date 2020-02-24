@@ -64,6 +64,7 @@
 
 ## C 
 
+- [darwin-xnu](https://github.com/apple/darwin-xnu) - The Darwin Kernel (mirror)
 - [mini-vm](https://github.com/philipaconrad/mini-vm) - A small, register-based virtual machine (bytecode interpreter) in C. [MIT License]
 - [simple.vm](https://github.com/skx/simple.vm) - Simple virtual machine which inteprets bytecode.
 - [bitwise](https://github.com/pervognsen/bitwise) - Bitwise is an educational project where we create the software/hardware stack for a computer from scratch.

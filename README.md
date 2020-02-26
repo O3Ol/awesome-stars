@@ -240,6 +240,7 @@
 
 ## JavaScript 
 
+- [playwright](https://github.com/microsoft/playwright) - Node library to automate Chromium, Firefox and WebKit with a single API
 - [snowpack](https://github.com/pikapkg/snowpack) - 📦✨ Build web applications with less tooling and 10x faster iteration. No bundler required.
 - [community-edition](https://github.com/ramboxapp/community-edition) - Free and Open Source messaging and emailing app that combines common web applications into one.
 - [1on1-questions](https://github.com/VGraupera/1on1-questions) - Mega list of 1 on 1 meeting questions compiled from a variety to sources
@@ -539,6 +540,8 @@
 
 ## Rust 
 
+- [rust-algorithms](https://github.com/xcaptain/rust-algorithms) - algorithms and data structures implemented in rust
+- [ytop](https://github.com/cjbassi/ytop) - A TUI system monitor written in Rust
 - [roa](https://github.com/Hexilee/roa) - async web framework inspired by koajs, lightweight but powerful.
 - [lyon](https://github.com/nical/lyon) - 2D graphics rendering on the GPU in rust using path tessellation.
 - [appinsights-rs](https://github.com/dmolokanov/appinsights-rs) - Application Insights SDK for Rust
@@ -669,6 +672,7 @@
 
 ## TypeScript 
 
+- [destiny](https://github.com/benawad/destiny) - Prettier for File Structures
 - [sigi](https://github.com/sigi-framework/sigi) - Well designed effect management framenwork for complex frontend app
 - [rust-playground](https://github.com/integer32llc/rust-playground) - The Rust Playground
 - [webiny-js](https://github.com/webiny/webiny-js) - Serverless CMS (GraphQL + React + Node.js + AWS Lambda)

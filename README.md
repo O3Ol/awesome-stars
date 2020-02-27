@@ -204,6 +204,7 @@
 
 ## HTML 
 
+- [computer-science-flash-cards](https://github.com/jwasham/computer-science-flash-cards) - Mini website for testing both general CS knowledge and enforce coding practice and common algorithm/data structure memorization.
 - [3d-force-graph](https://github.com/vasturiano/3d-force-graph) - 3D force-directed graph component using ThreeJS/WebGL
 - [machine-learning-systems-design](https://github.com/chiphuyen/machine-learning-systems-design) - A booklet on machine learning systems design with exercises
 - [craftinginterpreters](https://github.com/munificent/craftinginterpreters) - Repository for the book "Crafting Interpreters"
@@ -226,6 +227,7 @@
 
 ## Java 
 
+- [oshi](https://github.com/oshi/oshi) - Native Operating System and Hardware Information
 - [codejam](https://github.com/ckcz123/codejam) - Codejam, apac, kickstart, I/O for Women...  2017, 2016, 2015, 2014... All solutions here!
 - [slf4j](https://github.com/qos-ch/slf4j) - Simple Logging Facade for Java
 - [uranusdb](https://github.com/maxdemarzi/uranusdb) - Uranus DB
@@ -540,6 +542,8 @@
 
 ## Rust 
 
+- [rustop](https://github.com/wojciechkepka/rustop) - Rust based Linux system monitoring application
+- [heim](https://github.com/heim-rs/heim) - Cross-platform async library for system information fetching 🦀
 - [rust-algorithms](https://github.com/xcaptain/rust-algorithms) - algorithms and data structures implemented in rust
 - [ytop](https://github.com/cjbassi/ytop) - A TUI system monitor written in Rust
 - [roa](https://github.com/Hexilee/roa) - async web framework inspired by koajs, lightweight but powerful.
@@ -672,6 +676,7 @@
 
 ## TypeScript 
 
+- [gh-card](https://github.com/nwtgck/gh-card) - :octocat: GitHub Repository Card for Every Web Site
 - [destiny](https://github.com/benawad/destiny) - Prettier for File Structures
 - [sigi](https://github.com/sigi-framework/sigi) - Well designed effect management framenwork for complex frontend app
 - [rust-playground](https://github.com/integer32llc/rust-playground) - The Rust Playground

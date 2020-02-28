@@ -435,6 +435,8 @@
 
 ## Python 
 
+- [Z_knowledge_graph](https://github.com/Pelhans/Z_knowledge_graph) - Bulding kg from 0
+- [NLP-Knowledge-Graph](https://github.com/lihanghang/NLP-Knowledge-Graph) - 自然语言处理、知识图谱、对话系统三大技术研究与应用。
 - [Google-Kick-Start](https://github.com/Harmon758/Google-Kick-Start) - Google Kick Start
 - [starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [fastapi-ml-skeleton](https://github.com/eightBEC/fastapi-ml-skeleton) - FastAPI Skeleton App to serve machine learning models production-ready.
@@ -542,6 +544,9 @@
 
 ## Rust 
 
+- [rust-blog-demo](https://github.com/notryanb/rust-blog-demo) - Rocket & Diesel Blog
+- [leven](https://github.com/leven-the-blog/leven) - 😋 Make your own blog!
+- [blog.rust-lang.org](https://github.com/rust-lang/blog.rust-lang.org) - The Rust Programming Language Blog
 - [rustop](https://github.com/wojciechkepka/rustop) - Rust based Linux system monitoring application
 - [heim](https://github.com/heim-rs/heim) - Cross-platform async library for system information fetching 🦀
 - [rust-algorithms](https://github.com/xcaptain/rust-algorithms) - algorithms and data structures implemented in rust
@@ -676,6 +681,7 @@
 
 ## TypeScript 
 
+- [rome](https://github.com/facebookexperimental/rome) - An experimental JavaScript toolchain
 - [gh-card](https://github.com/nwtgck/gh-card) - :octocat: GitHub Repository Card for Every Web Site
 - [destiny](https://github.com/benawad/destiny) - Prettier for File Structures
 - [sigi](https://github.com/sigi-framework/sigi) - Well designed effect management framenwork for complex frontend app

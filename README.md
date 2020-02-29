@@ -242,6 +242,7 @@
 
 ## JavaScript 
 
+- [AutoKnowledge](https://github.com/GuitarmonYz/AutoKnowledge) - a full-stack bundle of a implementation of knowledge graph with graph database, using VUE, Echarts, Django, Neo4j
 - [playwright](https://github.com/microsoft/playwright) - Node library to automate Chromium, Firefox and WebKit with a single API
 - [snowpack](https://github.com/pikapkg/snowpack) - 📦✨ Build web applications with less tooling and 10x faster iteration. No bundler required.
 - [community-edition](https://github.com/ramboxapp/community-edition) - Free and Open Source messaging and emailing app that combines common web applications into one.
@@ -352,6 +353,7 @@
 
 ## Others 
 
+- [NLP-Knowledge-Graph](https://github.com/lihanghang/NLP-Knowledge-Graph) - 自然语言处理、知识图谱、对话系统三大技术研究与应用。
 - [awesome-cpp](https://github.com/fffaraz/awesome-cpp) - A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.
 - [degoogle](https://github.com/tycrek/degoogle) - A huge list of alternatives to Google products. Privacy tips, tricks, and links.
 - [nlp-datasets](https://github.com/niderhoff/nlp-datasets) - Alphabetical list of free/public domain datasets with text data for use in Natural Language Processing (NLP)
@@ -435,8 +437,8 @@
 
 ## Python 
 
+- [fastapi-realworld-example-app](https://github.com/nsidnev/fastapi-realworld-example-app) - Backend logic implementation for https://github.com/gothinkster/realworld with awesome FastAPI
 - [Z_knowledge_graph](https://github.com/Pelhans/Z_knowledge_graph) - Bulding kg from 0
-- [NLP-Knowledge-Graph](https://github.com/lihanghang/NLP-Knowledge-Graph) - 自然语言处理、知识图谱、对话系统三大技术研究与应用。
 - [Google-Kick-Start](https://github.com/Harmon758/Google-Kick-Start) - Google Kick Start
 - [starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [fastapi-ml-skeleton](https://github.com/eightBEC/fastapi-ml-skeleton) - FastAPI Skeleton App to serve machine learning models production-ready.
@@ -478,7 +480,7 @@
 - [signature_algorithm](https://github.com/gadfly0x/signature_algorithm) - 各种App、小程序、网站的请求签名或加密算法。 现已有：自如、小红书、蛋壳公寓、luckin coffee(瑞幸咖啡)、bangkokair(曼谷航空)
 - [mlcourse.ai](https://github.com/Yorko/mlcourse.ai) - Open Machine Learning Course
 - [nardis](https://github.com/yoongkang/nardis) - A small web framework based on ASGI
-- [falcon](https://github.com/falconry/falcon) - Avoid hard-to-debug, hard-to-scale magic with Falcon, the minimalist web framework for building incredibly fast, reliable, and scalable microservices, proxies, and app backends.
+- [falcon](https://github.com/falconry/falcon) - Too much magic makes your apps hard to debug and hard to scale. Falcon is the minimalist web framework for building incredibly fast, reliable, and scalable microservices, proxies, and app backends.
 - [poetry](https://github.com/python-poetry/poetry) - Python dependency management and packaging made easy.
 - [aioquic](https://github.com/aiortc/aioquic) - QUIC and HTTP/3 implementation in Python
 - [Computer-Networking-A-Top-Down-Approach-NOTES](https://github.com/moranzcw/Computer-Networking-A-Top-Down-Approach-NOTES) - 《计算机网络－自顶向下方法(原书第6版)》编程作业，Wireshark实验文档的翻译和解答。
@@ -544,6 +546,7 @@
 
 ## Rust 
 
+- [swc](https://github.com/swc-project/swc) - Super-fast typescript / javascript compiler written in rust
 - [rust-blog-demo](https://github.com/notryanb/rust-blog-demo) - Rocket & Diesel Blog
 - [leven](https://github.com/leven-the-blog/leven) - 😋 Make your own blog!
 - [blog.rust-lang.org](https://github.com/rust-lang/blog.rust-lang.org) - The Rust Programming Language Blog

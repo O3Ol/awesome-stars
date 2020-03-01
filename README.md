@@ -445,7 +445,7 @@
 - [explain-ml](https://github.com/christophM/explain-ml) - 
 - [clean-code-python](https://github.com/zedr/clean-code-python) - :bathtub: Clean Code concepts adapted for Python
 - [algo](https://github.com/wangzheng0822/algo) - 数据结构和算法必知必会的50个代码实现
-- [flask-file-upload](https://github.com/joegasewicz/flask-file-upload) - Easy file uploads for Flask
+- [flask-file-upload](https://github.com/joegasewicz/flask-file-upload) - Easy file uploads for Flask. Chat with us on Gitter -
 - [typer](https://github.com/tiangolo/typer) - Typer, build great CLIs. Easy to code. Based on Python type hints.
 - [quokka](https://github.com/quokkaproject/quokka) - LOOKING FOR NEW MAINTAINER - Quokka is a Content Management System - `docker run --rm -it -p 5000:5000 quokka/quokka`
 - [vulkn](https://github.com/VulknData/vulkn) - Love your Data. Love the Environment. Love VULKИ.

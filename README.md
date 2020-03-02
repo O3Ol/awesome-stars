@@ -381,7 +381,7 @@
 - [rediscover-flask](https://github.com/PsiACE/rediscover-flask) - Full Stack Web Development with Flask.
 - [the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
 - [app-release-checklist](https://github.com/oisin/app-release-checklist) - A checklist to pore over before you ship that amazing app that has taken ages to complete, but you don't want to rush out in case you commit a schoolboy error that will end up making you look dumber than you are.
-- [awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets) - A topic-centric list of HQ open datasets. PR ☛☛☛
+- [awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets) - A topic-centric list of HQ open datasets.
 - [100-days-of-code-frontend](https://github.com/nas5w/100-days-of-code-frontend) - Curriculum for learning front-end development during #100DaysOfCode.
 - [maintainers-wanted](https://github.com/pickhardt/maintainers-wanted) - List of projects looking for new lead maintainers, either abandoned or just looking for someone else to lead.
 - [awesome-maintainers](https://github.com/nayafia/awesome-maintainers) - Talks, blog posts, and interviews about the experience of being an open source maintainer
@@ -640,6 +640,7 @@
 
 ## Shell 
 
+- [xsk](https://github.com/ellbrid/xsk) - CMS and Web Server written in ShellScript
 - [bocker](https://github.com/p8952/bocker) - Docker implemented in around 100 lines of bash
 - [tldr](https://github.com/tldr-pages/tldr) - 📚 Simplified and community-driven man pages
 - [dokku](https://github.com/dokku/dokku) - A docker-powered PaaS that helps you build and manage the lifecycle of applications

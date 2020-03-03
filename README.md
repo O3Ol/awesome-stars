@@ -64,6 +64,7 @@
 
 ## C 
 
+- [FFmpeg](https://github.com/FFmpeg/FFmpeg) - Mirror of git://source.ffmpeg.org/ffmpeg.git
 - [darwin-xnu](https://github.com/apple/darwin-xnu) - The Darwin Kernel (mirror)
 - [mini-vm](https://github.com/philipaconrad/mini-vm) - A small, register-based virtual machine (bytecode interpreter) in C. [MIT License]
 - [simple.vm](https://github.com/skx/simple.vm) - Simple virtual machine which inteprets bytecode.
@@ -275,7 +276,7 @@
 - [upm](https://github.com/replit/upm) - 🌀 Universal Package Manager - Python, Node.js, Ruby, Emacs Lisp.
 - [flaskcode](https://github.com/sujeetkv/flaskcode) - A web based code editor on python flask framework.
 - [gitment](https://github.com/imsun/gitment) - A comment system based on GitHub Issues.
-- [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - The https://www.freecodecamp.org open source codebase and curriculum. Learn to code for free together with millions of people.
+- [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open source codebase and curriculum. Learn to code for free together with millions of people.
 - [realworld](https://github.com/gothinkster/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅
 - [30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) - Short JavaScript code snippets for all your development needs
 - [Librefox](https://github.com/intika/Librefox) - Librefox: Firefox with privacy enhancements

@@ -64,6 +64,7 @@
 
 ## C 
 
+- [coz](https://github.com/plasma-umass/coz) - Coz: Causal Profiling
 - [FFmpeg](https://github.com/FFmpeg/FFmpeg) - Mirror of git://source.ffmpeg.org/ffmpeg.git
 - [darwin-xnu](https://github.com/apple/darwin-xnu) - The Darwin Kernel (mirror)
 - [mini-vm](https://github.com/philipaconrad/mini-vm) - A small, register-based virtual machine (bytecode interpreter) in C. [MIT License]
@@ -243,6 +244,7 @@
 
 ## JavaScript 
 
+- [hapi](https://github.com/hapijs/hapi) - The Simple, Secure Framework Developers Trust
 - [AutoKnowledge](https://github.com/GuitarmonYz/AutoKnowledge) - a full-stack bundle of a implementation of knowledge graph with graph database, using VUE, Echarts, Django, Neo4j
 - [playwright](https://github.com/microsoft/playwright) - Node library to automate Chromium, Firefox and WebKit with a single API
 - [snowpack](https://github.com/pikapkg/snowpack) - 📦✨ Build web applications with less tooling and 10x faster iteration. No bundler required.
@@ -547,6 +549,7 @@
 
 ## Rust 
 
+- [iron](https://github.com/iron/iron) - An Extensible, Concurrent Web Framework for Rust
 - [swc](https://github.com/swc-project/swc) - Super-fast typescript / javascript compiler written in rust
 - [rust-blog-demo](https://github.com/notryanb/rust-blog-demo) - Rocket & Diesel Blog
 - [leven](https://github.com/leven-the-blog/leven) - 😋 Make your own blog!

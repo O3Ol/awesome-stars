@@ -64,6 +64,8 @@
 
 ## C 
 
+- [YACLox](https://github.com/alan0201tw/YACLox) - Yet Another Clox implementation, please refer to Bob Nystrom's craftinginterpreters (http://www.craftinginterpreters.com/)
+- [muon](https://github.com/nickmqb/muon) - Modern low-level programming language
 - [coz](https://github.com/plasma-umass/coz) - Coz: Causal Profiling
 - [FFmpeg](https://github.com/FFmpeg/FFmpeg) - Mirror of git://source.ffmpeg.org/ffmpeg.git
 - [darwin-xnu](https://github.com/apple/darwin-xnu) - The Darwin Kernel (mirror)
@@ -154,6 +156,7 @@
 
 ## CSS 
 
+- [course-starter-python](https://github.com/ines/course-starter-python) - 👩‍🏫🐍 Starter repo for building interactive Python courses
 - [ocaml-book](https://github.com/dmbaturin/ocaml-book) - A free culture OCaml textbook
 - [the-unix-workbench](https://github.com/seankross/the-unix-workbench) - :house_with_garden: A Book for Anyone to Get Started with Unix
 - [rubble](https://github.com/Kilerd/rubble) - a lightweight blog engine written by Rust.
@@ -356,6 +359,7 @@
 
 ## Others 
 
+- [fucking-algorithm](https://github.com/labuladong/fucking-algorithm) - 手把手撕LeetCode题目，扒各种算法套路的裤子，not only how，but also why. English version supported!
 - [NLP-Knowledge-Graph](https://github.com/lihanghang/NLP-Knowledge-Graph) - 自然语言处理、知识图谱、对话系统三大技术研究与应用。
 - [awesome-cpp](https://github.com/fffaraz/awesome-cpp) - A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.
 - [degoogle](https://github.com/tycrek/degoogle) - A huge list of alternatives to Google products. Privacy tips, tricks, and links.
@@ -549,6 +553,7 @@
 
 ## Rust 
 
+- [saphir](https://github.com/richerarc/saphir) - Fully async-await http server framework
 - [iron](https://github.com/iron/iron) - An Extensible, Concurrent Web Framework for Rust
 - [swc](https://github.com/swc-project/swc) - Super-fast typescript / javascript compiler written in rust
 - [rust-blog-demo](https://github.com/notryanb/rust-blog-demo) - Rocket & Diesel Blog

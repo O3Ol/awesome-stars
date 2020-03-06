@@ -243,7 +243,7 @@
 - [grakn](https://github.com/graknlabs/grakn) - Grakn Core: The Knowledge Graph
 - [audiveris](https://github.com/Audiveris/audiveris) - Latest generation of Audiveris OMR engine
 - [cbc](https://github.com/aamine/cbc) - Cb (C flat) compiler.  Cb is simplified C.
-- [fullstack-tutorial](https://github.com/frank-lam/fullstack-tutorial) - 🚀 fullstack tutorial 2019，后台技术栈/架构师之路/全栈开发社区，春招/秋招/校招/面试
+- [fullstack-tutorial](https://github.com/frank-lam/fullstack-tutorial) - 🚀 fullstack tutorial 2020，后台技术栈/架构师之路/全栈开发社区，春招/秋招/校招/面试
 
 ## JavaScript 
 
@@ -359,6 +359,7 @@
 
 ## Others 
 
+- [hacker-laws](https://github.com/dwmkerr/hacker-laws) - 💻📖 Laws, Theories, Principles and Patterns that developers will find useful. #hackerlaws
 - [fucking-algorithm](https://github.com/labuladong/fucking-algorithm) - 手把手撕LeetCode题目，扒各种算法套路的裤子，not only how，but also why. English version supported!
 - [NLP-Knowledge-Graph](https://github.com/lihanghang/NLP-Knowledge-Graph) - 自然语言处理、知识图谱、对话系统三大技术研究与应用。
 - [awesome-cpp](https://github.com/fffaraz/awesome-cpp) - A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.
@@ -444,6 +445,7 @@
 
 ## Python 
 
+- [system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 - [fastapi-realworld-example-app](https://github.com/nsidnev/fastapi-realworld-example-app) - Backend logic implementation for https://github.com/gothinkster/realworld with awesome FastAPI
 - [Z_knowledge_graph](https://github.com/Pelhans/Z_knowledge_graph) - Bulding kg from 0
 - [Google-Kick-Start](https://github.com/Harmon758/Google-Kick-Start) - Google Kick Start
@@ -452,7 +454,7 @@
 - [explain-ml](https://github.com/christophM/explain-ml) - 
 - [clean-code-python](https://github.com/zedr/clean-code-python) - :bathtub: Clean Code concepts adapted for Python
 - [algo](https://github.com/wangzheng0822/algo) - 数据结构和算法必知必会的50个代码实现
-- [flask-file-upload](https://github.com/joegasewicz/flask-file-upload) - Easy file uploads for Flask. Chat with us on Gitter -
+- [flask-file-upload](https://github.com/joegasewicz/flask-file-upload) - Easy file uploads for Flask.
 - [typer](https://github.com/tiangolo/typer) - Typer, build great CLIs. Easy to code. Based on Python type hints.
 - [quokka](https://github.com/quokkaproject/quokka) - LOOKING FOR NEW MAINTAINER - Quokka is a Content Management System - `docker run --rm -it -p 5000:5000 quokka/quokka`
 - [vulkn](https://github.com/VulknData/vulkn) - Love your Data. Love the Environment. Love VULKИ.
@@ -553,6 +555,7 @@
 
 ## Rust 
 
+- [cheats.rs](https://github.com/ralfbiedert/cheats.rs) - Rust Language Cheat Sheet - https://cheats.rs
 - [saphir](https://github.com/richerarc/saphir) - Fully async-await http server framework
 - [iron](https://github.com/iron/iron) - An Extensible, Concurrent Web Framework for Rust
 - [swc](https://github.com/swc-project/swc) - Super-fast typescript / javascript compiler written in rust

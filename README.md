@@ -434,6 +434,7 @@
 - [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
 - [test-your-sysadmin-skills](https://github.com/trimstray/test-your-sysadmin-skills) - A collection of Linux Sysadmin Test Questions and Answers. Test your knowledge and skills in different fields with these Q/A.
 - [project-based-learning](https://github.com/tuvtran/project-based-learning) - Curated list of project-based tutorials
+- [servo](https://github.com/servo/servo) - The Servo Browser Engine
 - [awesome-c](https://github.com/kozross/awesome-c) - A curated list of awesome C frameworks, libraries, resources and other shiny things. Inspired by all the other awesome-... projects out there.
 - [free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) - :books: 免费的计算机编程类中文书籍，欢迎投稿
 - [awesome-leetcode](https://github.com/tangweikun/awesome-leetcode) - :nail_care: A collection of awesome leetcode solutions
@@ -638,7 +639,6 @@
 - [nom](https://github.com/Geal/nom) - Rust parser combinator framework
 - [iota](https://github.com/gchp/iota) - A terminal-based text editor written in Rust
 - [rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
-- [servo](https://github.com/servo/servo) - The Servo Browser Engine
 
 ## Scala 
 

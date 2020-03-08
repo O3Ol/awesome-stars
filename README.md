@@ -64,6 +64,9 @@
 
 ## C 
 
+- [modern-compiler](https://github.com/ejacky/modern-compiler) - 现代编译原理（虎书）
+- [mac](https://github.com/felixangell/mac) - bytecode interpreter/virtual machine in c
+- [illumos-gate](https://github.com/illumos/illumos-gate) - An open-source Unix operating system
 - [YACLox](https://github.com/alan0201tw/YACLox) - Yet Another Clox implementation, please refer to Bob Nystrom's craftinginterpreters (http://www.craftinginterpreters.com/)
 - [muon](https://github.com/nickmqb/muon) - Modern low-level programming language
 - [coz](https://github.com/plasma-umass/coz) - Coz: Causal Profiling
@@ -209,6 +212,7 @@
 
 ## HTML 
 
+- [dragon-book-exercise-answers](https://github.com/fool2fish/dragon-book-exercise-answers) - Compilers Principles, Techniques, & Tools (purple dragon book) second edition exercise answers. 编译原理（紫龙书）第2版习题答案。
 - [computer-science-flash-cards](https://github.com/jwasham/computer-science-flash-cards) - Mini website for testing both general CS knowledge and enforce coding practice and common algorithm/data structure memorization.
 - [3d-force-graph](https://github.com/vasturiano/3d-force-graph) - 3D force-directed graph component using ThreeJS/WebGL
 - [machine-learning-systems-design](https://github.com/chiphuyen/machine-learning-systems-design) - A booklet on machine learning systems design with exercises
@@ -556,6 +560,7 @@
 
 ## Rust 
 
+- [awesome-rust](https://github.com/rust-unofficial/awesome-rust) - A curated list of Rust code and resources.
 - [cheats.rs](https://github.com/ralfbiedert/cheats.rs) - Rust Language Cheat Sheet - https://cheats.rs
 - [saphir](https://github.com/richerarc/saphir) - Fully async-await http server framework
 - [iron](https://github.com/iron/iron) - An Extensible, Concurrent Web Framework for Rust

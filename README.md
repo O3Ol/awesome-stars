@@ -64,6 +64,11 @@
 
 ## C 
 
+- [stddoc.c](https://github.com/r-lyeh/stddoc.c) - Tiny documentation generator for 60 programming languages. Using Markdeep.
+- [20-questions](https://github.com/mykeels/20-questions) - 20 questions for programming languages.
+- [felix](https://github.com/felix-lang/felix) - The Felix Programming Language
+- [umalloc](https://github.com/NanXiao/umalloc) - A tiny Unix dynamic memory allocator library.
+- [wof_alloc](https://github.com/eapache/wof_alloc) - Fast C/C++ memory allocator with free-all operation
 - [modern-compiler](https://github.com/ejacky/modern-compiler) - 现代编译原理（虎书）
 - [mac](https://github.com/felixangell/mac) - bytecode interpreter/virtual machine in c
 - [illumos-gate](https://github.com/illumos/illumos-gate) - An open-source Unix operating system
@@ -118,6 +123,7 @@
 
 ## C++ 
 
+- [leela-zero](https://github.com/leela-zero/leela-zero) - Go engine with no human-provided knowledge, modeled after the AlphaGo Zero paper.
 - [mimium](https://github.com/mimium-org/mimium) - mimium (MInimal Musical medIUM) a programming language as an infrastructure for sound and music.
 - [rethinkdb](https://github.com/rethinkdb/rethinkdb) - The open-source database for the realtime web.
 - [fineline-zero](https://github.com/caetanosauer/fineline-zero) - 
@@ -363,8 +369,10 @@
 
 ## Others 
 
+- [Application-Security-Engineer-Interview-Questions](https://github.com/security-prince/Application-Security-Engineer-Interview-Questions) - Some of the questions which i was asked when i was giving interviews for Application/Product Security roles. I am sure this is not an exhaustive list but i felt these questions were important to be asked and some were challenging to answer
+- [awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) - A curated list of awesome open source libraries to deploy, monitor, version and scale your machine learning
 - [hacker-laws](https://github.com/dwmkerr/hacker-laws) - 💻📖 Laws, Theories, Principles and Patterns that developers will find useful. #hackerlaws
-- [fucking-algorithm](https://github.com/labuladong/fucking-algorithm) - 手把手撕LeetCode题目，扒各种算法套路的裤子，not only how，but also why. English version supported!
+- [fucking-algorithm](https://github.com/labuladong/fucking-algorithm) - 手把手撕LeetCode题目，扒各种算法套路的裤子，not only how，but also why. Crack LeetCode, English version supported!
 - [NLP-Knowledge-Graph](https://github.com/lihanghang/NLP-Knowledge-Graph) - 自然语言处理、知识图谱、对话系统三大技术研究与应用。
 - [awesome-cpp](https://github.com/fffaraz/awesome-cpp) - A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.
 - [degoogle](https://github.com/tycrek/degoogle) - A huge list of alternatives to Google products. Privacy tips, tricks, and links.
@@ -450,6 +458,7 @@
 
 ## Python 
 
+- [interview_internal_reference](https://github.com/0voice/interview_internal_reference) - 2019年最新总结，阿里，腾讯，百度，美团，头条等技术面试题目，以及答案，专家出题人分析汇总。
 - [system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 - [fastapi-realworld-example-app](https://github.com/nsidnev/fastapi-realworld-example-app) - Backend logic implementation for https://github.com/gothinkster/realworld with awesome FastAPI
 - [Z_knowledge_graph](https://github.com/Pelhans/Z_knowledge_graph) - Bulding kg from 0

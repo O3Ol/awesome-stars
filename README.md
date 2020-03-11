@@ -64,6 +64,9 @@
 
 ## C 
 
+- [lalloc](https://github.com/cloudwu/lalloc) - A allocator  for lua
+- [Yarn](https://github.com/WetDesertRock/Yarn) - A small embeddable VM with a custom instruction set and everything stored in a statically allocated memory space.
+- [memory-pool-allocator](https://github.com/philip-wernersbach/memory-pool-allocator) - C memory allocator based on pools, thread safe.
 - [stddoc.c](https://github.com/r-lyeh/stddoc.c) - Tiny documentation generator for 60 programming languages. Using Markdeep.
 - [20-questions](https://github.com/mykeels/20-questions) - 20 questions for programming languages.
 - [felix](https://github.com/felix-lang/felix) - The Felix Programming Language
@@ -257,6 +260,7 @@
 
 ## JavaScript 
 
+- [rust-search-extension](https://github.com/Folyd/rust-search-extension) - 🦀The ultimate search extension for Rust
 - [hapi](https://github.com/hapijs/hapi) - The Simple, Secure Framework Developers Trust
 - [AutoKnowledge](https://github.com/GuitarmonYz/AutoKnowledge) - a full-stack bundle of a implementation of knowledge graph with graph database, using VUE, Echarts, Django, Neo4j
 - [playwright](https://github.com/microsoft/playwright) - Node library to automate Chromium, Firefox and WebKit with a single API
@@ -372,7 +376,7 @@
 - [Application-Security-Engineer-Interview-Questions](https://github.com/security-prince/Application-Security-Engineer-Interview-Questions) - Some of the questions which i was asked when i was giving interviews for Application/Product Security roles. I am sure this is not an exhaustive list but i felt these questions were important to be asked and some were challenging to answer
 - [awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) - A curated list of awesome open source libraries to deploy, monitor, version and scale your machine learning
 - [hacker-laws](https://github.com/dwmkerr/hacker-laws) - 💻📖 Laws, Theories, Principles and Patterns that developers will find useful. #hackerlaws
-- [fucking-algorithm](https://github.com/labuladong/fucking-algorithm) - 手把手撕LeetCode题目，扒各种算法套路的裤子，not only how，but also why. Crack LeetCode, English version supported!
+- [fucking-algorithm](https://github.com/labuladong/fucking-algorithm) - 手把手撕LeetCode题目，扒各种算法套路的裤子。English version supported! Crack LeetCode, not only how, but also why.
 - [NLP-Knowledge-Graph](https://github.com/lihanghang/NLP-Knowledge-Graph) - 自然语言处理、知识图谱、对话系统三大技术研究与应用。
 - [awesome-cpp](https://github.com/fffaraz/awesome-cpp) - A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.
 - [degoogle](https://github.com/tycrek/degoogle) - A huge list of alternatives to Google products. Privacy tips, tricks, and links.
@@ -569,6 +573,7 @@
 
 ## Rust 
 
+- [stork](https://github.com/jameslittle230/stork) - Impossibly fast web search, made for static sites.
 - [awesome-rust](https://github.com/rust-unofficial/awesome-rust) - A curated list of Rust code and resources.
 - [cheats.rs](https://github.com/ralfbiedert/cheats.rs) - Rust Language Cheat Sheet - https://cheats.rs
 - [saphir](https://github.com/richerarc/saphir) - Fully async-await http server framework

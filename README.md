@@ -260,6 +260,7 @@
 
 ## JavaScript 
 
+- [redwood](https://github.com/redwoodjs/redwood) - Bringing full-stack to the JAMstack.
 - [rust-search-extension](https://github.com/Folyd/rust-search-extension) - 🦀The ultimate search extension for Rust
 - [hapi](https://github.com/hapijs/hapi) - The Simple, Secure Framework Developers Trust
 - [AutoKnowledge](https://github.com/GuitarmonYz/AutoKnowledge) - a full-stack bundle of a implementation of knowledge graph with graph database, using VUE, Echarts, Django, Neo4j
@@ -462,6 +463,7 @@
 
 ## Python 
 
+- [datasette](https://github.com/simonw/datasette) - A tool for exploring and publishing data
 - [interview_internal_reference](https://github.com/0voice/interview_internal_reference) - 2019年最新总结，阿里，腾讯，百度，美团，头条等技术面试题目，以及答案，专家出题人分析汇总。
 - [system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 - [fastapi-realworld-example-app](https://github.com/nsidnev/fastapi-realworld-example-app) - Backend logic implementation for https://github.com/gothinkster/realworld with awesome FastAPI

@@ -575,6 +575,7 @@
 
 ## Rust 
 
+- [tock](https://github.com/tock/tock) - A secure embedded operating system for microcontrollers
 - [stork](https://github.com/jameslittle230/stork) - Impossibly fast web search, made for static sites.
 - [awesome-rust](https://github.com/rust-unofficial/awesome-rust) - A curated list of Rust code and resources.
 - [cheats.rs](https://github.com/ralfbiedert/cheats.rs) - Rust Language Cheat Sheet - https://cheats.rs

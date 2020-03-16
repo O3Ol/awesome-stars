@@ -176,7 +176,6 @@
 - [stylesheet](https://github.com/elementary/stylesheet) - The GTK Stylesheet for elementary OS
 - [css](https://github.com/primer/css) - The CSS design system that powers GitHub
 - [icono](https://github.com/saeedalipoor/icono) - One tag One icon, no font or svg, Pure CSS
-- [book](https://github.com/cosmicpython/book) - A Book about Pythonic Application Architecture Patterns for Managing Complexity.  Cosmos is the Opposite of Chaos you see. O'R. wouldn't actually let us call it "Cosmic Python" tho.
 - [machine-learning-yearning-cn](https://github.com/deeplearning-ai/machine-learning-yearning-cn) - Machine Learning Yearning 中文版 - 《机器学习训练秘籍》 - Andrew Ng 著
 - [basic-book](https://github.com/evanwill/basic-book) - jekyll project template to create web book, aimed at OER textbook
 - [photon-book-creator](https://github.com/cedricss/photon-book-creator) - A light documentation and book template based on Jekyll.
@@ -539,6 +538,7 @@
 - [starlette](https://github.com/encode/starlette) - The little ASGI framework that shines. 🌟
 - [cython](https://github.com/cython/cython) - The most widely used Python to C compiler
 - [Interlace](https://github.com/codingo/Interlace) - Easily turn single threaded command line applications into a fast, multi-threaded application with CIDR and glob support.
+- [book](https://github.com/cosmicpython/book) - A Book about Pythonic Application Architecture Patterns for Managing Complexity.  Cosmos is the Opposite of Chaos you see. O'R. wouldn't actually let us call it "Cosmic Python" tho.
 - [OpenNMT-py](https://github.com/OpenNMT/OpenNMT-py) - Open Source Neural Machine Translation in PyTorch
 - [orange3](https://github.com/biolab/orange3) - 🍊 :bar_chart: :bulb: Orange: Interactive data analysis https://orange.biolab.si
 - [git-repo-updater](https://github.com/earwig/git-repo-updater) - A console script that allows you to easily update multiple git repositories at once
@@ -575,6 +575,7 @@
 
 ## Rust 
 
+- [book](https://github.com/actix/book) - Actix user guides
 - [tock](https://github.com/tock/tock) - A secure embedded operating system for microcontrollers
 - [stork](https://github.com/jameslittle230/stork) - Impossibly fast web search, made for static sites.
 - [awesome-rust](https://github.com/rust-unofficial/awesome-rust) - A curated list of Rust code and resources.
@@ -656,7 +657,7 @@
 - [Rocket](https://github.com/SergioBenitez/Rocket) - A web framework for Rust.
 - [yew](https://github.com/yewstack/yew) - Rust / Wasm framework for building client web apps
 - [xi-editor](https://github.com/xi-editor/xi-editor) - A modern editor with a backend written in Rust.
-- [tide](https://github.com/http-rs/tide) - Serve the web – HTTP server framework
+- [tide](https://github.com/http-rs/tide) - Serve the web – ergonomic async http server framework
 - [RustPython](https://github.com/RustPython/RustPython) - A Python Interpreter written in Rust
 - [nom](https://github.com/Geal/nom) - Rust parser combinator framework
 - [iota](https://github.com/gchp/iota) - A terminal-based text editor written in Rust

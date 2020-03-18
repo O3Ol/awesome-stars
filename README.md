@@ -431,7 +431,6 @@
 - [955.WLB](https://github.com/formulahendry/955.WLB) - 955 不加班的公司名单 - 工作 955，work–life balance (工作与生活的平衡)
 - [awesome-web-security](https://github.com/qazbnm456/awesome-web-security) - 🐶 A curated list of Web Security materials and resources.
 - [rust-web-framework-comparison](https://github.com/flosse/rust-web-framework-comparison) - A comparison of some web frameworks and libs written in Rust
-- [notable](https://github.com/notable/notable) - The Markdown-based note-taking app that doesn't suck.
 - [papers-we-love](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss.
 - [toml](https://github.com/toml-lang/toml) - Tom's Obvious, Minimal Language
 - [vanilla-js-dom](https://github.com/Haeresis/vanilla-js-dom) - Vanilla JS is a fast, lightweight, cross-platform framework for building incredible, powerful JavaScript applications.
@@ -720,6 +719,7 @@
 
 ## TypeScript 
 
+- [refined-github](https://github.com/sindresorhus/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features
 - [rome](https://github.com/facebookexperimental/rome) - An experimental JavaScript toolchain
 - [gh-card](https://github.com/nwtgck/gh-card) - :octocat: GitHub Repository Card for Every Web Site
 - [destiny](https://github.com/benawad/destiny) - Prettier for File Structures
@@ -742,6 +742,7 @@
 - [xi-electron](https://github.com/acheronfail/xi-electron) - A front-end for the xi-editor built with modern web technologies.
 - [vscode-code-runner](https://github.com/formulahendry/vscode-code-runner) - Code Runner for Visual Studio Code
 - [deno](https://github.com/denoland/deno) - A secure JavaScript and TypeScript runtime
+- [notable](https://github.com/notable/notable) - The Markdown-based note-taking app that doesn't suck.
 - [typescript-book-chinese](https://github.com/jkchao/typescript-book-chinese) - TypeScript Deep Dive 中文版
 - [docz](https://github.com/doczjs/docz) - ✍ It has never been so easy to document your things!
 - [reactql](https://github.com/leebenson/reactql) - Universal React+GraphQL starter kit: React 16, Apollo 2, MobX, Emotion, Webpack 4, GraphQL Code Generator, React Router 4, PostCSS, SSR

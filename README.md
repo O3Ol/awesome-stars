@@ -574,6 +574,7 @@
 
 ## Rust 
 
+- [gluon](https://github.com/gluon-lang/gluon) - A static, type inferred and embeddable language written in Rust.
 - [book](https://github.com/actix/book) - Actix user guides
 - [tock](https://github.com/tock/tock) - A secure embedded operating system for microcontrollers
 - [stork](https://github.com/jameslittle230/stork) - Impossibly fast web search, made for static sites.

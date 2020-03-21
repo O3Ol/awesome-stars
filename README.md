@@ -149,7 +149,7 @@
 - [terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
 - [GuiLite](https://github.com/idea4good/GuiLite) - ✔️The smallest header-only GUI library(5 KLOC) for all platforms
 - [Stacer](https://github.com/oguzhaninan/Stacer) - Linux System Optimizer and Monitoring - https://oguzhaninan.github.io/Stacer-Web
-- [simdjson](https://github.com/lemire/simdjson) - Parsing gigabytes of JSON per second
+- [simdjson](https://github.com/simdjson/simdjson) - Parsing gigabytes of JSON per second
 - [tinymoe](https://github.com/vczh/tinymoe) - English-like dynamic typing programming language
 - [Algorithms](https://github.com/VAR-solutions/Algorithms) - Efficient Algorithms
 - [Reader](https://github.com/CryFeiFei/Reader) - Reader for PDF，use Qt5 and Poppler
@@ -460,6 +460,7 @@
 
 ## Python 
 
+- [kedro](https://github.com/quantumblacklabs/kedro) - A Python library that implements software engineering best-practice for data and ML pipelines.
 - [datasette](https://github.com/simonw/datasette) - A tool for exploring and publishing data
 - [interview_internal_reference](https://github.com/0voice/interview_internal_reference) - 2019年最新总结，阿里，腾讯，百度，美团，头条等技术面试题目，以及答案，专家出题人分析汇总。
 - [system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
@@ -597,7 +598,7 @@
 - [charlesmine-rs](https://github.com/crlf0710/charlesmine-rs) - A triangle minesweeper game in Rust.
 - [cargo-deny](https://github.com/EmbarkStudios/cargo-deny) - ❌ Cargo plugin for linting your dependencies 🦀
 - [piston](https://github.com/PistonDevelopers/piston) - A modular game engine written in Rust
-- [rsfetch](https://github.com/rsfetch/rsfetch) - Fast (&lt;1ms execution time) and somewhat(?) minimal fetch program written in Rust.
+- [rsfetch](https://github.com/rsfetch/rsfetch) - Fast (~1ms execution time) and somewhat(?) minimal fetch program written in Rust.
 - [pico-args](https://github.com/RazrFalcon/pico-args) - An ultra simple CLI arguments parser.
 - [crossterm](https://github.com/crossterm-rs/crossterm) - Cross platform terminal library rust
 - [argh](https://github.com/google/argh) - Rust derive-based argument parsing optimized for code size
@@ -614,7 +615,7 @@
 - [xorf](https://github.com/ayazhafiz/xorf) - Xor Filters implemented in Rust. Faster and smaller than bloom and cuckoo filters.
 - [talent-plan](https://github.com/pingcap/talent-plan) - PingCAP training courses
 - [sled](https://github.com/spacejam/sled) - the champagne of beta embedded databases
-- [tinysearch](https://github.com/mre/tinysearch) - A tiny, static, full-text search engine for your website using Bloom filters and WebAssembly
+- [tinysearch](https://github.com/mre/tinysearch) - 🔍 Tiny, static, full-text search engine for your website using Bloom filters and WebAssembly
 - [examples](https://github.com/actix/examples) - Actix web examples
 - [svd2rust](https://github.com/rust-embedded/svd2rust) - Generate Rust register maps (`struct`s) from SVD files
 - [rdf-rs](https://github.com/scholtzan/rdf-rs) - RDF library implemented in Rust

@@ -485,7 +485,7 @@
 - [rentomatic](https://github.com/lgiordani/rentomatic) - A demo implementation of a clean architecture in Python
 - [masonite](https://github.com/MasoniteFramework/masonite) - The Modern And Developer Centric Python Web Framework. Be sure to read the documentation and join the Slack channel questions: http://slack.masoniteproject.com
 - [Fake-images-please](https://github.com/Rydgel/Fake-images-please) - Fakeimg.pl is a little tool that generates images with an URL. Choose the size, the colors, even the text. Oh… and it’s free.
-- [multi-v2ray](https://github.com/Jrohy/multi-v2ray) - v2ray easy delpoy & manage tool， support multiple user & protocol manage
+- [multi-v2ray](https://github.com/Jrohy/multi-v2ray) - v2ray多用户管理部署程序
 - [Deep-Learning-Papers-Reading-Roadmap](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap) - Deep Learning papers reading roadmap for anyone who are eager to learn this amazing tech!
 - [pyupgrade](https://github.com/asottile/pyupgrade) - A tool (and pre-commit hook) to automatically upgrade syntax for newer versions of the language.
 - [NMT4RDFS](https://github.com/Bassem-Makni/NMT4RDFS) - Neural Machine Translation for RDFS reasoning: code and datasets for "Deep learning for noise-tolerant RDFS reasoning" http://www.semantic-web-journal.net/content/deep-learning-noise-tolerant-rdfs-reasoning-4

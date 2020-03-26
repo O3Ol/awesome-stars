@@ -60,6 +60,7 @@
 
 ## Batchfile 
 
+- [LearningLinuxKernel](https://github.com/ljrkernel/LearningLinuxKernel) - 和我一起学习Linux内核吧
 - [python-guide](https://github.com/realpython/python-guide) - Python best practices guidebook, written for humans.
 
 ## C 
@@ -96,7 +97,6 @@
 - [gc](https://github.com/mkirchner/gc) - Simple, zero-dependency garbage collection for C
 - [c-project-template](https://github.com/pantuza/c-project-template) - A C project template with Makefile, command line options parsing, unittest using cmocka and valgrind
 - [c4](https://github.com/rswier/c4) - C in four functions
-- [LearningLinuxKernel](https://github.com/ljrkernel/LearningLinuxKernel) - 和我一起学习Linux内核吧
 - [manticore](https://github.com/manticoreos/manticore) - Manticore is a research operating system, written in Rust.
 - [TencentOS-tiny](https://github.com/Tencent/TencentOS-tiny) - 腾讯物联网终端操作系统
 - [ucore_os_lab](https://github.com/chyyuu/ucore_os_lab) - https://chyyuu.gitbooks.io/ucore_os_docs/content
@@ -549,7 +549,7 @@
 - [django-admin-honeypot](https://github.com/dmpayton/django-admin-honeypot) - :honey_pot: A fake Django admin login screen page.
 - [django-graphql-apollo-react-demo](https://github.com/mbrochh/django-graphql-apollo-react-demo) - Code for a workshop about my Django, GraphQL, ReactJS, Apollo-stack
 - [awesome-algorithm](https://github.com/apachecn/awesome-algorithm) - 项目永久冻结，迁移至新地址：
-- [wtfpython](https://github.com/satwikkansal/wtfpython) - If you think you know Python, think once more!
+- [wtfpython](https://github.com/satwikkansal/wtfpython) - Do you think you know Python?
 - [gluon-nlp](https://github.com/dmlc/gluon-nlp) - NLP made easy
 - [pywonderland](https://github.com/neozhaoliang/pywonderland) - A tour in the wonderland of math with python.
 
@@ -575,6 +575,7 @@
 
 ## Rust 
 
+- [build-your-own-jira-with-rust](https://github.com/LukeMathWalker/build-your-own-jira-with-rust) - A test-driven workshop to learn Rust building your own JIRA clone!
 - [MeiliSearch](https://github.com/meilisearch/MeiliSearch) - Ultra relevant, instant, and typo-tolerant full-text search API
 - [gluon](https://github.com/gluon-lang/gluon) - A static, type inferred and embeddable language written in Rust.
 - [book](https://github.com/actix/book) - Actix user guides

@@ -220,6 +220,7 @@
 
 ## HTML 
 
+- [rust-tropes](https://github.com/Enet4/rust-tropes) - A dictionary of jargon and tropes around the community of Rust developers.
 - [mvp](https://github.com/andybrewer/mvp) - MVP.css — Minimalist stylesheet for HTML elements
 - [dragon-book-exercise-answers](https://github.com/fool2fish/dragon-book-exercise-answers) - Compilers Principles, Techniques, & Tools (purple dragon book) second edition exercise answers. 编译原理（紫龙书）第2版习题答案。
 - [computer-science-flash-cards](https://github.com/jwasham/computer-science-flash-cards) - Mini website for testing both general CS knowledge and enforce coding practice and common algorithm/data structure memorization.
@@ -260,6 +261,7 @@
 
 ## JavaScript 
 
+- [neovis.js](https://github.com/neo4j-contrib/neovis.js) - Neo4j + vis.js = neovis.js. Graph visualizations in the browser with data from Neo4j.
 - [mouselog](https://github.com/microsoft/mouselog) - 🐾 A web-based tool for logging, visualizing and analyzing mouse events like movement and clicks.
 - [redwood](https://github.com/redwoodjs/redwood) - Bringing full-stack to the JAMstack.
 - [rust-search-extension](https://github.com/Folyd/rust-search-extension) - 🦀The ultimate search extension for Rust
@@ -433,7 +435,6 @@
 - [955.WLB](https://github.com/formulahendry/955.WLB) - 955 不加班的公司名单 - 工作 955，work–life balance (工作与生活的平衡)
 - [awesome-web-security](https://github.com/qazbnm456/awesome-web-security) - 🐶 A curated list of Web Security materials and resources.
 - [rust-web-framework-comparison](https://github.com/flosse/rust-web-framework-comparison) - A comparison of some web frameworks and libs written in Rust
-- [papers-we-love](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss.
 - [toml](https://github.com/toml-lang/toml) - Tom's Obvious, Minimal Language
 - [vanilla-js-dom](https://github.com/Haeresis/vanilla-js-dom) - Vanilla JS is a fast, lightweight, cross-platform framework for building incredible, powerful JavaScript applications.
 - [engineering-code-of-conduct](https://github.com/digitalocean/engineering-code-of-conduct) - Code of Conduct for DigitalOcean's Engineering Team
@@ -695,6 +696,7 @@
 - [vcsh](https://github.com/RichiH/vcsh) - config manager based on Git
 - [pure-bash-bible-zh_CN](https://github.com/A-BenMao/pure-bash-bible-zh_CN) - 📖 一个纯bash实现外部命令的脚本集合（中文版）【翻译自pure-bash-bible仓库】
 - [Shell](https://github.com/geekcomputers/Shell) - Some of the handy shell scripts I have created/acquired
+- [papers-we-love](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss.
 - [lscript](https://github.com/arismelachroinos/lscript) - The LAZY script will make your life easier, and of course faster.
 - [Tomb](https://github.com/dyne/Tomb) - the Crypto Undertaker
 - [lynis](https://github.com/CISOfy/lynis) - Lynis - Security auditing tool for Linux, macOS, and UNIX-based systems. Assists with compliance testing (HIPAA/ISO27001/PCI DSS) and system hardening. Agentless, and installation optional.
@@ -729,7 +731,7 @@
 - [ts-llvm](https://github.com/ts-llvm/ts-llvm) - Work-in-progress TypeScript to LLVM compiler
 - [refined-github](https://github.com/sindresorhus/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features
 - [rome](https://github.com/facebookexperimental/rome) - An experimental JavaScript toolchain
-- [gh-card](https://github.com/nwtgck/gh-card) - :octocat: GitHub Repository Card for Every Web Site
+- [gh-card](https://github.com/nwtgck/gh-card) - :octocat: GitHub Repository Card for Any Web Site
 - [destiny](https://github.com/benawad/destiny) - Prettier for File Structures
 - [sigi](https://github.com/sigi-framework/sigi) - Well designed effect management framenwork for complex frontend app
 - [rust-playground](https://github.com/integer32llc/rust-playground) - The Rust Playground

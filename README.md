@@ -377,6 +377,7 @@
 
 ## Others 
 
+- [COVID-19](https://github.com/CSSEGISandData/COVID-19) - Novel Coronavirus (COVID-19) Cases, provided by JHU CSSE
 - [Application-Security-Engineer-Interview-Questions](https://github.com/security-prince/Application-Security-Engineer-Interview-Questions) - Some of the questions which i was asked when i was giving interviews for Application/Product Security roles. I am sure this is not an exhaustive list but i felt these questions were important to be asked and some were challenging to answer
 - [awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) - A curated list of awesome open source libraries to deploy, monitor, version and scale your machine learning
 - [hacker-laws](https://github.com/dwmkerr/hacker-laws) - 💻📖 Laws, Theories, Principles and Patterns that developers will find useful. #hackerlaws
@@ -727,7 +728,7 @@
 
 ## TypeScript 
 
-- [excalidraw](https://github.com/excalidraw/excalidraw) - Excalidraw is a whiteboard tool that lets you easily sketch diagrams that have a hand-drawn feel to them.
+- [excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 - [ts-llvm](https://github.com/ts-llvm/ts-llvm) - Work-in-progress TypeScript to LLVM compiler
 - [refined-github](https://github.com/sindresorhus/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features
 - [rome](https://github.com/facebookexperimental/rome) - An experimental JavaScript toolchain

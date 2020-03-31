@@ -261,6 +261,8 @@
 
 ## JavaScript 
 
+- [Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
+- [react-ultimate-resume](https://github.com/welovedevs/react-ultimate-resume) - 💼 🎨 A modern software developer resume built with React and JSONResume
 - [neovis.js](https://github.com/neo4j-contrib/neovis.js) - Neo4j + vis.js = neovis.js. Graph visualizations in the browser with data from Neo4j.
 - [mouselog](https://github.com/microsoft/mouselog) - 🐾 A web-based tool for logging, visualizing and analyzing mouse events like movement and clicks.
 - [redwood](https://github.com/redwoodjs/redwood) - Bringing full-stack to the JAMstack.
@@ -377,6 +379,7 @@
 
 ## Others 
 
+- [awesome-artificial-intelligence-guidelines](https://github.com/EthicalML/awesome-artificial-intelligence-guidelines) - This repository aims to map the ecosystem of artificial intelligence guidelines, principles, codes of ethics, standards, regulation and beyond.
 - [COVID-19](https://github.com/CSSEGISandData/COVID-19) - Novel Coronavirus (COVID-19) Cases, provided by JHU CSSE
 - [Application-Security-Engineer-Interview-Questions](https://github.com/security-prince/Application-Security-Engineer-Interview-Questions) - Some of the questions which i was asked when i was giving interviews for Application/Product Security roles. I am sure this is not an exhaustive list but i felt these questions were important to be asked and some were challenging to answer
 - [awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) - A curated list of awesome open source libraries to deploy, monitor, version and scale your machine learning
@@ -464,6 +467,8 @@
 
 ## Python 
 
+- [manim](https://github.com/3b1b/manim) - Animation engine for explanatory math videos
+- [QASystemOnMedicalKG](https://github.com/liuhuanyong/QASystemOnMedicalKG) - A tutorial and implement of disease centered Medical knowledge graph and qa system based on it。知识图谱构建，自动问答，基于kg的自动问答。以疾病为中心的一定规模医药领域知识图谱，并以该知识图谱完成自动问答与分析服务。
 - [kedro](https://github.com/quantumblacklabs/kedro) - A Python library that implements software engineering best-practice for data and ML pipelines.
 - [datasette](https://github.com/simonw/datasette) - A tool for exploring and publishing data
 - [interview_internal_reference](https://github.com/0voice/interview_internal_reference) - 2019年最新总结，阿里，腾讯，百度，美团，头条等技术面试题目，以及答案，专家出题人分析汇总。

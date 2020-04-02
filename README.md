@@ -379,6 +379,8 @@
 
 ## Others 
 
+- [whitelie](https://github.com/KeenS/whitelie) - A self hosted whitespace compiler
+- [learn-regex](https://github.com/ziishaned/learn-regex) - Learn regex the easy way
 - [reverse-interview-zh](https://github.com/yifeikong/reverse-interview-zh) - 技术面试最后反问面试官的话
 - [awesome-artificial-intelligence-guidelines](https://github.com/EthicalML/awesome-artificial-intelligence-guidelines) - This repository aims to map the ecosystem of artificial intelligence guidelines, principles, codes of ethics, standards, regulation and beyond.
 - [COVID-19](https://github.com/CSSEGISandData/COVID-19) - Novel Coronavirus (COVID-19) Cases, provided by JHU CSSE
@@ -584,8 +586,9 @@
 
 ## Rust 
 
+- [zz](https://github.com/zetzit/zz) - 🍺🐙  ZetZ a zymbolic verifier and tranzpiler to bare metal C
 - [build-your-own-jira-with-rust](https://github.com/LukeMathWalker/build-your-own-jira-with-rust) - A test-driven workshop to learn Rust building your own JIRA clone!
-- [MeiliSearch](https://github.com/meilisearch/MeiliSearch) - Ultra relevant, instant, and typo-tolerant full-text search API
+- [MeiliSearch](https://github.com/meilisearch/MeiliSearch) - Lightning Fast, Ultra Relevant, and Typo-Tolerant Search Engine
 - [gluon](https://github.com/gluon-lang/gluon) - A static, type inferred and embeddable language written in Rust.
 - [book](https://github.com/actix/book) - Actix user guides
 - [tock](https://github.com/tock/tock) - A secure embedded operating system for microcontrollers

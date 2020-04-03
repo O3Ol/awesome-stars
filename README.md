@@ -625,7 +625,7 @@
 - [wasmer](https://github.com/wasmerio/wasmer) - 🚀 The Universal WebAssembly Runtime supporting WASI and Emscripten
 - [cask](https://github.com/andresilva/cask) - A fast key-value store written in Rust
 - [paxos](https://github.com/nwtnni/paxos) - Distributed consensus protocol for replicated state machines
-- [rustlings](https://github.com/rust-lang/rustlings) - Small exercises to get you used to reading and writing Rust code!
+- [rustlings](https://github.com/fmoko/rustlings) - :crab: Small exercises to get you used to reading and writing Rust code!
 - [xorf](https://github.com/ayazhafiz/xorf) - Xor filters - small, fast, probabilistic hashsets. Faster and smaller than bloom and cuckoo filters.
 - [talent-plan](https://github.com/pingcap/talent-plan) - PingCAP training courses
 - [sled](https://github.com/spacejam/sled) - the champagne of beta embedded databases

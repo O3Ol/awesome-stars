@@ -60,7 +60,6 @@
 
 ## Batchfile 
 
-- [LearningLinuxKernel](https://github.com/ljrkernel/LearningLinuxKernel) - 和我一起学习Linux内核吧
 - [python-guide](https://github.com/realpython/python-guide) - Python best practices guidebook, written for humans.
 
 ## C 
@@ -371,6 +370,7 @@
 
 - [lc3-vm](https://github.com/justinmeiners/lc3-vm) - Write your own virtual machine for the LC-3 computer!
 - [esp32](https://github.com/esp-rs/esp32) - Peripheral access crate for the ESP32
+- [LearningLinuxKernel](https://github.com/ljrkernel/LearningLinuxKernel) - 和我一起学习Linux内核吧
 - [redox](https://github.com/redox-os/redox) - Mirror of https://gitlab.redox-os.org/redox-os/redox
 
 ## OCaml 
@@ -379,6 +379,7 @@
 
 ## Others 
 
+- [wasm-and-rust](https://github.com/raphamorim/wasm-and-rust) - WebAssembly and Rust: A Web Love Story
 - [whitelie](https://github.com/KeenS/whitelie) - A self hosted whitespace compiler
 - [learn-regex](https://github.com/ziishaned/learn-regex) - Learn regex the easy way
 - [reverse-interview-zh](https://github.com/yifeikong/reverse-interview-zh) - 技术面试最后反问面试官的话

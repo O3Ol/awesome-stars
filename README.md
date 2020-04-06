@@ -368,6 +368,7 @@
 
 ## Makefile 
 
+- [essays-on-data-science](https://github.com/ericmjl/essays-on-data-science) - In which I put together my thoughts on the practice of data science.
 - [lc3-vm](https://github.com/justinmeiners/lc3-vm) - Write your own virtual machine for the LC-3 computer!
 - [esp32](https://github.com/esp-rs/esp32) - Peripheral access crate for the ESP32
 - [LearningLinuxKernel](https://github.com/ljrkernel/LearningLinuxKernel) - 和我一起学习Linux内核吧
@@ -692,6 +693,7 @@
 
 ## Shell 
 
+- [scripts-to-rule-them-all](https://github.com/github/scripts-to-rule-them-all) - Scripts to Rule Them All
 - [xsk](https://github.com/ellbrid/xsk) - CMS and Web Server written in ShellScript
 - [bocker](https://github.com/p8952/bocker) - Docker implemented in around 100 lines of bash
 - [tldr](https://github.com/tldr-pages/tldr) - 📚 Simplified and community-driven man pages

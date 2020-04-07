@@ -260,6 +260,7 @@
 
 ## JavaScript 
 
+- [toolbox](https://github.com/CyberZHG/toolbox) - https://cyberzhg.github.io/toolbox/
 - [Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
 - [react-ultimate-resume](https://github.com/welovedevs/react-ultimate-resume) - 💼 🎨 A modern software developer resume built with React and JSONResume
 - [neovis.js](https://github.com/neo4j-contrib/neovis.js) - Neo4j + vis.js = neovis.js. Graph visualizations in the browser with data from Neo4j.
@@ -380,6 +381,8 @@
 
 ## Others 
 
+- [browser-2020](https://github.com/luruke/browser-2020) - Things you can do with a browser in 2020 ☕️
+- [becoming-a-compiler-engineer](https://github.com/lazyparser/becoming-a-compiler-engineer) - 编译器入门课程的配套教学资料
 - [wasm-and-rust](https://github.com/raphamorim/wasm-and-rust) - WebAssembly and Rust: A Web Love Story
 - [whitelie](https://github.com/KeenS/whitelie) - A self hosted whitespace compiler
 - [learn-regex](https://github.com/ziishaned/learn-regex) - Learn regex the easy way

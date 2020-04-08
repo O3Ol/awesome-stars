@@ -64,6 +64,9 @@
 
 ## C 
 
+- [Tagha](https://github.com/assyrianic/Tagha) - Minimal, fast, and self-contained register-based virtual machine-based runtime environment for the C programming language.
+- [bytecode-interpreters-post](https://github.com/vkazanov/bytecode-interpreters-post) - A few basic bytecode interpreters used as example code in a series of articles
+- [Crossline](https://github.com/jcwangxp/Crossline) - A small, self-contained, zero-config, MIT licensed, cross-platform, readline and libedit replacement.
 - [lalloc](https://github.com/cloudwu/lalloc) - A allocator  for lua
 - [Yarn](https://github.com/WetDesertRock/Yarn) - A small embeddable VM with a custom instruction set and everything stored in a statically allocated memory space.
 - [memory-pool-allocator](https://github.com/philip-wernersbach/memory-pool-allocator) - C memory allocator based on pools, thread safe.
@@ -121,6 +124,7 @@
 
 ## C# # 
 
+- [minsk](https://github.com/terrajobst/minsk) - This repo contains Minsk, a handwritten compiler in C#. It illustrates basic concepts of compiler construction and how one can tool the language inside of an IDE by exposing APIs for parsing and type checking.
 - [FASTER](https://github.com/microsoft/FASTER) - Fast persistent recoverable log and key-value store, in C# and C++, from Microsoft Research.
 
 ## C++ 
@@ -169,6 +173,7 @@
 
 - [course-starter-python](https://github.com/ines/course-starter-python) - 👩‍🏫🐍 Starter repo for building interactive Python courses
 - [ocaml-book](https://github.com/dmbaturin/ocaml-book) - A free culture OCaml textbook
+- [howto-make-more-money](https://github.com/easychen/howto-make-more-money) - 程序员如何优雅的挣零花钱，2.0版。Most of this not work outside China , so no English translate, sorry
 - [the-unix-workbench](https://github.com/seankross/the-unix-workbench) - :house_with_garden: A Book for Anyone to Get Started with Unix
 - [rubble](https://github.com/Kilerd/rubble) - a lightweight blog engine written by Rust.
 - [2019-Slides](https://github.com/PyConChina/2019-Slides) - PyCon China 2019 幻灯片
@@ -397,7 +402,6 @@
 - [awesome-cpp](https://github.com/fffaraz/awesome-cpp) - A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.
 - [degoogle](https://github.com/tycrek/degoogle) - A huge list of alternatives to Google products. Privacy tips, tricks, and links.
 - [nlp-datasets](https://github.com/niderhoff/nlp-datasets) - Alphabetical list of free/public domain datasets with text data for use in Natural Language Processing (NLP)
-- [howto-make-more-money](https://github.com/easychen/howto-make-more-money) - 程序员如何优雅的挣零花钱。Most of this not work outside China , so no English translate, sorry
 - [cskaoyan](https://github.com/csseky/cskaoyan) - 提供计算机考研和软件工程考研专业的各个学校 考研真题
 - [awesome-bigdata](https://github.com/onurakpolat/awesome-bigdata) - A curated list of awesome big data frameworks, ressources and other awesomeness.
 - [Production-Level-Deep-Learning](https://github.com/alirezadir/Production-Level-Deep-Learning) - A guideline for building practical production-level deep learning systems to be deployed in real world applications.
@@ -591,6 +595,8 @@
 
 ## Rust 
 
+- [pastel](https://github.com/sharkdp/pastel) - A command-line tool to generate, analyze, convert and manipulate colors
+- [iridium](https://github.com/fhaynes/iridium) - A register-based VM in Rust
 - [zz](https://github.com/zetzit/zz) - 🍺🐙  ZetZ a zymbolic verifier and tranzpiler to bare metal C
 - [build-your-own-jira-with-rust](https://github.com/LukeMathWalker/build-your-own-jira-with-rust) - A test-driven workshop to learn Rust building your own JIRA clone!
 - [MeiliSearch](https://github.com/meilisearch/MeiliSearch) - Lightning Fast, Ultra Relevant, and Typo-Tolerant Search Engine

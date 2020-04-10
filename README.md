@@ -173,7 +173,7 @@
 
 - [course-starter-python](https://github.com/ines/course-starter-python) - 👩‍🏫🐍 Starter repo for building interactive Python courses
 - [ocaml-book](https://github.com/dmbaturin/ocaml-book) - A free culture OCaml textbook
-- [howto-make-more-money](https://github.com/easychen/howto-make-more-money) - 程序员如何优雅的挣零花钱，2.0版，升级为小书了。Most of this not work outside China , so no English translate, sorry
+- [howto-make-more-money](https://github.com/easychen/howto-make-more-money) - 程序员如何优雅的挣零花钱，2.0版，升级为小书了。Most of this not work outside China , so no English translate
 - [the-unix-workbench](https://github.com/seankross/the-unix-workbench) - :house_with_garden: A Book for Anyone to Get Started with Unix
 - [rubble](https://github.com/Kilerd/rubble) - a lightweight blog engine written by Rust.
 - [2019-Slides](https://github.com/PyConChina/2019-Slides) - PyCon China 2019 幻灯片

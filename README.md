@@ -129,6 +129,7 @@
 
 ## C++ 
 
+- [rust-bindgen](https://github.com/rust-lang/rust-bindgen) - Automatically generates Rust FFI bindings to C (and some C++) libraries.
 - [leela-zero](https://github.com/leela-zero/leela-zero) - Go engine with no human-provided knowledge, modeled after the AlphaGo Zero paper.
 - [mimium](https://github.com/mimium-org/mimium) - mimium (MInimal Musical medIUM) a programming language as an infrastructure for sound and music.
 - [rethinkdb](https://github.com/rethinkdb/rethinkdb) - The open-source database for the realtime web.
@@ -479,6 +480,7 @@
 
 ## Python 
 
+- [covid-api](https://github.com/andreagrandi/covid-api) - COVID19 Api based on Johns Hopkins CSSE data
 - [manim](https://github.com/3b1b/manim) - Animation engine for explanatory math videos
 - [QASystemOnMedicalKG](https://github.com/liuhuanyong/QASystemOnMedicalKG) - A tutorial and implement of disease centered Medical knowledge graph and qa system based on it。知识图谱构建，自动问答，基于kg的自动问答。以疾病为中心的一定规模医药领域知识图谱，并以该知识图谱完成自动问答与分析服务。
 - [kedro](https://github.com/quantumblacklabs/kedro) - A Python library that implements software engineering best-practice for data and ML pipelines.
@@ -595,6 +597,9 @@
 
 ## Rust 
 
+- [datafrog](https://github.com/rust-lang/datafrog) - A lightweight Datalog engine in Rust
+- [cc-rs](https://github.com/alexcrichton/cc-rs) - Rust library for build scripts to compile C/C++ code into a Rust library
+- [c2rust](https://github.com/immunant/c2rust) - Migrate C code to Rust
 - [abscissa](https://github.com/iqlusioninc/abscissa) - Application microframework with command-line option parsing, configuration, error handling, logging, and shell interactions
 - [pastel](https://github.com/sharkdp/pastel) - A command-line tool to generate, analyze, convert and manipulate colors
 - [iridium](https://github.com/fhaynes/iridium) - A register-based VM in Rust

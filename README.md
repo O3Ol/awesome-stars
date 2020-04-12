@@ -78,7 +78,6 @@
 - [modern-compiler](https://github.com/ejacky/modern-compiler) - 现代编译原理（虎书）
 - [mac](https://github.com/felixangell/mac) - bytecode interpreter/virtual machine in c
 - [illumos-gate](https://github.com/illumos/illumos-gate) - An open-source Unix operating system
-- [YACLox](https://github.com/alan0201tw/YACLox) - Yet Another Clox implementation, please refer to Bob Nystrom's craftinginterpreters (http://www.craftinginterpreters.com/)
 - [muon](https://github.com/nickmqb/muon) - Modern low-level programming language
 - [coz](https://github.com/plasma-umass/coz) - Coz: Causal Profiling
 - [FFmpeg](https://github.com/FFmpeg/FFmpeg) - Mirror of git://source.ffmpeg.org/ffmpeg.git
@@ -755,6 +754,7 @@
 
 ## TypeScript 
 
+- [github-action-benchmark](https://github.com/rhysd/github-action-benchmark) - GitHub Action for continuous benchmarking to keep performance
 - [excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 - [ts-llvm](https://github.com/ts-llvm/ts-llvm) - Work-in-progress TypeScript to LLVM compiler
 - [refined-github](https://github.com/sindresorhus/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features

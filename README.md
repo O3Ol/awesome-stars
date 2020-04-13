@@ -64,6 +64,8 @@
 
 ## C 
 
+- [Unity](https://github.com/ThrowTheSwitch/Unity) - Simple Unit Testing for C
+- [write_a_c_compiler](https://github.com/nlsandler/write_a_c_compiler) - Test suite to help you write your own C compiler
 - [Tagha](https://github.com/assyrianic/Tagha) - Minimal, fast, and self-contained register-based virtual machine-based runtime environment for the C programming language.
 - [bytecode-interpreters-post](https://github.com/vkazanov/bytecode-interpreters-post) - A few basic bytecode interpreters used as example code in a series of articles
 - [Crossline](https://github.com/jcwangxp/Crossline) - A small, self-contained, zero-config, MIT licensed, cross-platform, readline and libedit replacement.
@@ -377,7 +379,7 @@
 - [essays-on-data-science](https://github.com/ericmjl/essays-on-data-science) - In which I put together my thoughts on the practice of data science.
 - [lc3-vm](https://github.com/justinmeiners/lc3-vm) - Write your own virtual machine for the LC-3 computer!
 - [esp32](https://github.com/esp-rs/esp32) - Peripheral access crate for the ESP32
-- [LearningLinuxKernel](https://github.com/ljrkernel/LearningLinuxKernel) - 和我一起学习Linux内核吧
+- [LearningLinuxKernel](https://github.com/ljrcore/LearningLinuxKernel) - 和我一起学习Linux内核吧
 - [redox](https://github.com/redox-os/redox) - Mirror of https://gitlab.redox-os.org/redox-os/redox
 
 ## OCaml 
@@ -386,6 +388,8 @@
 
 ## Others 
 
+- [book.rvemu](https://github.com/d0iasm/book.rvemu) - The book "Writing a RISC-V Emulator from Scratch in 10 Days".
+- [typedoc](https://github.com/denodev/typedoc) - Deno API 简体中文版
 - [browser-2020](https://github.com/luruke/browser-2020) - Things you can do with a browser in 2020 ☕️
 - [becoming-a-compiler-engineer](https://github.com/lazyparser/becoming-a-compiler-engineer) - 编译器入门课程的配套教学资料
 - [wasm-and-rust](https://github.com/raphamorim/wasm-and-rust) - WebAssembly and Rust: A Web Love Story
@@ -596,6 +600,8 @@
 
 ## Rust 
 
+- [rstest](https://github.com/la10736/rstest) - Fixture-based test framework for Rust
+- [wasmtime](https://github.com/bytecodealliance/wasmtime) - Standalone JIT-style runtime for WebAssembly, using Cranelift
 - [datafrog](https://github.com/rust-lang/datafrog) - A lightweight Datalog engine in Rust
 - [cc-rs](https://github.com/alexcrichton/cc-rs) - Rust library for build scripts to compile C/C++ code into a Rust library
 - [c2rust](https://github.com/immunant/c2rust) - Migrate C code to Rust

@@ -267,6 +267,7 @@
 
 ## JavaScript 
 
+- [custom-forms](https://github.com/tailwindcss/custom-forms) - A better base for styling form elements with Tailwind CSS.
 - [toolbox](https://github.com/CyberZHG/toolbox) - https://cyberzhg.github.io/toolbox/
 - [Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
 - [react-ultimate-resume](https://github.com/welovedevs/react-ultimate-resume) - 💼 🎨 A modern software developer resume built with React and JSONResume
@@ -388,6 +389,8 @@
 
 ## Others 
 
+- [js-20-years-cn](https://github.com/doodlewind/js-20-years-cn) - 🇨🇳《JavaScript 20 年》中文版
+- [tech-radar](https://github.com/zalando/tech-radar) - Visualizing our technology choices
 - [book.rvemu](https://github.com/d0iasm/book.rvemu) - The book "Writing a RISC-V Emulator from Scratch in 10 Days".
 - [typedoc](https://github.com/denodev/typedoc) - Deno API 简体中文版
 - [browser-2020](https://github.com/luruke/browser-2020) - Things you can do with a browser in 2020 ☕️

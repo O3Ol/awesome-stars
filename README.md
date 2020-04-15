@@ -64,6 +64,7 @@
 
 ## C 
 
+- [minunit](https://github.com/siu/minunit) - Minimal unit testing framework for C
 - [Unity](https://github.com/ThrowTheSwitch/Unity) - Simple Unit Testing for C
 - [write_a_c_compiler](https://github.com/nlsandler/write_a_c_compiler) - Test suite to help you write your own C compiler
 - [Tagha](https://github.com/assyrianic/Tagha) - Minimal, fast, and self-contained register-based virtual machine-based runtime environment for the C programming language.
@@ -130,6 +131,7 @@
 
 ## C++ 
 
+- [build_system_tools](https://github.com/asartori86/build_system_tools) - Gentle introduction to the basics of CMake and meson, and unit-testing with gtest.
 - [rust-bindgen](https://github.com/rust-lang/rust-bindgen) - Automatically generates Rust FFI bindings to C (and some C++) libraries.
 - [leela-zero](https://github.com/leela-zero/leela-zero) - Go engine with no human-provided knowledge, modeled after the AlphaGo Zero paper.
 - [mimium](https://github.com/mimium-org/mimium) - mimium (MInimal Musical medIUM) a programming language as an infrastructure for sound and music.
@@ -650,7 +652,7 @@
 - [wasmer](https://github.com/wasmerio/wasmer) - 🚀 The Universal WebAssembly Runtime supporting WASI and Emscripten
 - [cask](https://github.com/andresilva/cask) - A fast key-value store written in Rust
 - [paxos](https://github.com/nwtnni/paxos) - Distributed consensus protocol for replicated state machines
-- [rustlings](https://github.com/fmoko/rustlings) - :crab: Small exercises to get you used to reading and writing Rust code!
+- [rustlings](https://github.com/rust-lang/rustlings) - :crab: Small exercises to get you used to reading and writing Rust code!
 - [xorf](https://github.com/ayazhafiz/xorf) - Xor filters - small, fast, probabilistic hashsets. Faster and smaller than bloom and cuckoo filters.
 - [talent-plan](https://github.com/pingcap/talent-plan) - PingCAP training courses
 - [sled](https://github.com/spacejam/sled) - the champagne of beta embedded databases

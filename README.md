@@ -64,6 +64,10 @@
 
 ## C 
 
+- [argparse](https://github.com/cofyc/argparse) - Command-line arguments parsing library.
+- [debug](https://github.com/esneider/debug) - Debugging like a sir (in C)
+- [b63](https://github.com/okuvshynov/b63) - Micro-benchmarking library for C/C++.
+- [toaruos](https://github.com/klange/toaruos) - A completely-from-scratch hobby operating system: bootloader, kernel, drivers, C library, and userspace including a composited graphical UI, dynamic linker, syntax-highlighting text editor, network stack, etc.
 - [minunit](https://github.com/siu/minunit) - Minimal unit testing framework for C
 - [Unity](https://github.com/ThrowTheSwitch/Unity) - Simple Unit Testing for C
 - [write_a_c_compiler](https://github.com/nlsandler/write_a_c_compiler) - Test suite to help you write your own C compiler
@@ -391,10 +395,11 @@
 
 ## Others 
 
+- [awesome-c](https://github.com/kozross/awesome-c) - A curated list of awesome C frameworks, libraries, resources and other shiny things. Inspired by all the other awesome-... projects out there.
 - [js-20-years-cn](https://github.com/doodlewind/js-20-years-cn) - 🇨🇳《JavaScript 20 年》中文版
 - [tech-radar](https://github.com/zalando/tech-radar) - Visualizing our technology choices
 - [book.rvemu](https://github.com/d0iasm/book.rvemu) - The book "Writing a RISC-V Emulator from Scratch in 10 Days".
-- [typedoc](https://github.com/denodev/typedoc) - Deno API 简体中文版
+- [typedoc](https://github.com/denodev/typedoc) - Deno API - Simplified Chinese
 - [browser-2020](https://github.com/luruke/browser-2020) - Things you can do with a browser in 2020 ☕️
 - [becoming-a-compiler-engineer](https://github.com/lazyparser/becoming-a-compiler-engineer) - 编译器入门课程的配套教学资料
 - [wasm-and-rust](https://github.com/raphamorim/wasm-and-rust) - WebAssembly and Rust: A Web Love Story
@@ -477,7 +482,6 @@
 - [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
 - [test-your-sysadmin-skills](https://github.com/trimstray/test-your-sysadmin-skills) - A collection of Linux Sysadmin Test Questions and Answers. Test your knowledge and skills in different fields with these Q/A.
 - [project-based-learning](https://github.com/tuvtran/project-based-learning) - Curated list of project-based tutorials
-- [awesome-c](https://github.com/kozross/awesome-c) - A curated list of awesome C frameworks, libraries, resources and other shiny things. Inspired by all the other awesome-... projects out there.
 - [free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) - :books: 免费的计算机编程类中文书籍，欢迎投稿
 - [awesome-leetcode](https://github.com/tangweikun/awesome-leetcode) - :nail_care: A collection of awesome leetcode solutions
 - [build-your-own-x](https://github.com/danistefanovic/build-your-own-x) - 🤓 Build your own (insert technology here)
@@ -579,7 +583,7 @@
 - [django-admin-honeypot](https://github.com/dmpayton/django-admin-honeypot) - :honey_pot: A fake Django admin login screen page.
 - [django-graphql-apollo-react-demo](https://github.com/mbrochh/django-graphql-apollo-react-demo) - Code for a workshop about my Django, GraphQL, ReactJS, Apollo-stack
 - [awesome-algorithm](https://github.com/apachecn/awesome-algorithm) - 项目永久冻结，迁移至新地址：
-- [wtfpython](https://github.com/satwikkansal/wtfpython) - Do you think you know Python?
+- [wtfpython](https://github.com/satwikkansal/wtfpython) - What the f*ck Python?
 - [gluon-nlp](https://github.com/dmlc/gluon-nlp) - NLP made easy
 - [pywonderland](https://github.com/neozhaoliang/pywonderland) - A tour in the wonderland of math with python.
 
@@ -661,7 +665,7 @@
 - [svd2rust](https://github.com/rust-embedded/svd2rust) - Generate Rust register maps (`struct`s) from SVD files
 - [rdf-rs](https://github.com/scholtzan/rdf-rs) - RDF library implemented in Rust
 - [sonic](https://github.com/valeriansaliou/sonic) - 🦔 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.
-- [zola](https://github.com/getzola/zola) - A fast static site generator in a single binary with everything built-in.
+- [zola](https://github.com/getzola/zola) - A fast static site generator in a single binary with everything built-in. https://www.getzola.org
 - [mdBook](https://github.com/rust-lang/mdBook) - Create book from markdown files. Like Gitbook but implemented in Rust
 - [rust-actix-starter](https://github.com/ddimaria/rust-actix-starter) - A production-quality starter app using Actix 1.x
 - [leftwm](https://github.com/leftwm/leftwm) - LeftWM - A tiling window manager for Adventurers

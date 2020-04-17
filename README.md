@@ -64,6 +64,17 @@
 
 ## C 
 
+- [wasm-micro-runtime](https://github.com/bytecodealliance/wasm-micro-runtime) - WebAssembly Micro Runtime (WAMR)
+- [mir](https://github.com/vnmakarov/mir) - A light-weight JIT compiler based on MIR (Medium Internal Representation)
+- [jit-tutorial](https://github.com/spencertipping/jit-tutorial) - How to write a very simple JIT compiler
+- [Euboea](https://github.com/KrzysztofSzewczyk/Euboea) - Euboea is blazingly fast and small programming language compiled JIT to Machine code.
+- [Pike](https://github.com/pikelang/Pike) - Pike is a dynamic programming language with a syntax similar to Java and C. It is simple to learn, does not require long compilation passes and has powerful built-in data types allowing simple and really fast data manipulation.
+- [esp-lisp](https://github.com/yesco/esp-lisp) - Beta: A small fast lisp interpeter for a ESP8266 as alternative to lua on the nodemcu.
+- [tinyvm](https://github.com/jakogut/tinyvm) - TinyVM is a small, fast, lightweight virtual machine written in pure ANSI C.
+- [zlog](https://github.com/HardySimpson/zlog) - A reliable, high-performance, thread safe, flexsible, clear-model, pure C logging library.
+- [munit](https://github.com/nemequ/munit) - µnit is a small testing framework for C
+- [libfirm](https://github.com/libfirm/libfirm) - graph based intermediate representation and backend for optimising compilers
+- [microui](https://github.com/rxi/microui) - A tiny immediate-mode UI library
 - [argparse](https://github.com/cofyc/argparse) - Command-line arguments parsing library.
 - [debug](https://github.com/esneider/debug) - Debugging like a sir (in C)
 - [b63](https://github.com/okuvshynov/b63) - Micro-benchmarking library for C/C++.
@@ -273,6 +284,7 @@
 
 ## JavaScript 
 
+- [flask-twilio-video](https://github.com/miguelgrinberg/flask-twilio-video) - A small video conference application using Flask and Twilio Programmable Video
 - [custom-forms](https://github.com/tailwindcss/custom-forms) - A better base for styling form elements with Tailwind CSS.
 - [toolbox](https://github.com/CyberZHG/toolbox) - https://cyberzhg.github.io/toolbox/
 - [Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
@@ -598,6 +610,7 @@
 
 ## Ruby 
 
+- [dev.to](https://github.com/thepracticaldev/dev.to) - Where programmers share ideas and help each other grow
 - [chatwoot](https://github.com/chatwoot/chatwoot) - Simple and elegant live chat software 🔥💬
 - [fresh](https://github.com/freshshell/fresh) - Keep your dotfiles fresh.
 - [betty](https://github.com/pickhardt/betty) - Friendly English-like interface for your command line. Don't remember a command? Ask Betty.

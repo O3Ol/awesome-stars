@@ -407,10 +407,11 @@
 
 ## Others 
 
+- [lox-language](https://github.com/danman113/lox-language) - Syntax highlighting for Lox, everyone's favorite interpreted learning-language
 - [awesome-c](https://github.com/kozross/awesome-c) - A curated list of awesome C frameworks, libraries, resources and other shiny things. Inspired by all the other awesome-... projects out there.
 - [js-20-years-cn](https://github.com/doodlewind/js-20-years-cn) - 🇨🇳《JavaScript 20 年》中文版
 - [tech-radar](https://github.com/zalando/tech-radar) - Visualizing our technology choices
-- [book.rvemu](https://github.com/d0iasm/book.rvemu) - The book "Writing a RISC-V Emulator from Scratch in 10 Days".
+- [book.rvemu](https://github.com/d0iasm/book.rvemu) - The book "Writing a RISC-V Emulator from Scratch in 10 Steps".
 - [typedoc](https://github.com/denodev/typedoc) - Deno API - Simplified Chinese
 - [browser-2020](https://github.com/luruke/browser-2020) - Things you can do with a browser in 2020 ☕️
 - [becoming-a-compiler-engineer](https://github.com/lazyparser/becoming-a-compiler-engineer) - 编译器入门课程的配套教学资料
@@ -504,6 +505,7 @@
 
 ## Python 
 
+- [machine_learning_examples](https://github.com/lazyprogrammer/machine_learning_examples) - A collection of machine learning examples and tutorials.
 - [covid-api](https://github.com/andreagrandi/covid-api) - COVID19 Api based on Johns Hopkins CSSE data
 - [manim](https://github.com/3b1b/manim) - Animation engine for explanatory math videos
 - [QASystemOnMedicalKG](https://github.com/liuhuanyong/QASystemOnMedicalKG) - A tutorial and implement of disease centered Medical knowledge graph and qa system based on it。知识图谱构建，自动问答，基于kg的自动问答。以疾病为中心的一定规模医药领域知识图谱，并以该知识图谱完成自动问答与分析服务。
@@ -622,6 +624,7 @@
 
 ## Rust 
 
+- [ntex](https://github.com/ntex-rs/ntex) - framework for composable networking services
 - [rstest](https://github.com/la10736/rstest) - Fixture-based test framework for Rust
 - [wasmtime](https://github.com/bytecodealliance/wasmtime) - Standalone JIT-style runtime for WebAssembly, using Cranelift
 - [datafrog](https://github.com/rust-lang/datafrog) - A lightweight Datalog engine in Rust

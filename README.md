@@ -293,7 +293,7 @@
 - [neovis.js](https://github.com/neo4j-contrib/neovis.js) - Neo4j + vis.js = neovis.js. Graph visualizations in the browser with data from Neo4j.
 - [mouselog](https://github.com/microsoft/mouselog) - 🐾 A web-based tool for logging, visualizing and analyzing mouse events like movement and clicks.
 - [redwood](https://github.com/redwoodjs/redwood) - Bringing full-stack to the JAMstack.
-- [rust-search-extension](https://github.com/Folyd/rust-search-extension) - 🦀The ultimate search extension for Rust
+- [rust-search-extension](https://github.com/huhu/rust-search-extension) - 🦀The ultimate search extension for Rust
 - [hapi](https://github.com/hapijs/hapi) - The Simple, Secure Framework Developers Trust
 - [AutoKnowledge](https://github.com/GuitarmonYz/AutoKnowledge) - a full-stack bundle of a implementation of knowledge graph with graph database, using VUE, Echarts, Django, Neo4j
 - [playwright](https://github.com/microsoft/playwright) - Node library to automate Chromium, Firefox and WebKit with a single API
@@ -625,6 +625,7 @@
 
 ## Rust 
 
+- [lalrpop](https://github.com/lalrpop/lalrpop) - LR(1) parser generator for Rust
 - [ntex](https://github.com/ntex-rs/ntex) - framework for composable networking services
 - [rstest](https://github.com/la10736/rstest) - Fixture-based test framework for Rust
 - [wasmtime](https://github.com/bytecodealliance/wasmtime) - Standalone JIT-style runtime for WebAssembly, using Cranelift

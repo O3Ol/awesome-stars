@@ -64,6 +64,7 @@
 
 ## C 
 
+- [helenos](https://github.com/HelenOS/helenos) - A portable microkernel-based multiserver operating system written from scratch.
 - [acwj](https://github.com/luke-gru/acwj) - 
 - [wasm-micro-runtime](https://github.com/bytecodealliance/wasm-micro-runtime) - WebAssembly Micro Runtime (WAMR)
 - [mir](https://github.com/vnmakarov/mir) - A light-weight JIT compiler based on MIR (Medium Internal Representation)
@@ -83,7 +84,7 @@
 - [minunit](https://github.com/siu/minunit) - Minimal unit testing framework for C
 - [Unity](https://github.com/ThrowTheSwitch/Unity) - Simple Unit Testing for C
 - [write_a_c_compiler](https://github.com/nlsandler/write_a_c_compiler) - Test suite to help you write your own C compiler
-- [Tagha](https://github.com/assyrianic/Tagha) - Minimal, fast, and self-contained register-based virtual machine-based runtime environment for the C programming language.
+- [Tagha](https://github.com/Nirari-Technologies/Tagha) - Minimal, fast, and self-contained register-based virtual machine-based runtime environment for the C programming language.
 - [bytecode-interpreters-post](https://github.com/vkazanov/bytecode-interpreters-post) - A few basic bytecode interpreters used as example code in a series of articles
 - [Crossline](https://github.com/jcwangxp/Crossline) - A small, self-contained, zero-config, MIT licensed, cross-platform, readline and libedit replacement.
 - [lalloc](https://github.com/cloudwu/lalloc) - A allocator  for lua

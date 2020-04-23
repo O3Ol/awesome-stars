@@ -64,6 +64,7 @@
 
 ## C 
 
+- [wasm3](https://github.com/wasm3/wasm3) - 🚀 The fastest WebAssembly interpreter
 - [helenos](https://github.com/HelenOS/helenos) - A portable microkernel-based multiserver operating system written from scratch.
 - [acwj](https://github.com/luke-gru/acwj) - 
 - [wasm-micro-runtime](https://github.com/bytecodealliance/wasm-micro-runtime) - WebAssembly Micro Runtime (WAMR)
@@ -148,6 +149,7 @@
 
 ## C++ 
 
+- [Project_LemonLime](https://github.com/iotang/Project_LemonLime) - 为了 OI 比赛而生的基于 Lemon + LemonPlus 的轻量评测系统 | 三大桌面系统支持
 - [build_system_tools](https://github.com/asartori86/build_system_tools) - Gentle introduction to the basics of CMake and meson, and unit-testing with gtest.
 - [rust-bindgen](https://github.com/rust-lang/rust-bindgen) - Automatically generates Rust FFI bindings to C (and some C++) libraries.
 - [leela-zero](https://github.com/leela-zero/leela-zero) - Go engine with no human-provided knowledge, modeled after the AlphaGo Zero paper.
@@ -221,7 +223,7 @@
 
 ## Dart 
 
-- [flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful mobile apps.
+- [flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond.
 
 ## Emacs Lisp 
 
@@ -286,6 +288,7 @@
 
 ## JavaScript 
 
+- [graphql-engine](https://github.com/hasura/graphql-engine) - Blazing fast, instant realtime GraphQL APIs on Postgres with fine grained access control, also trigger webhooks on database events.
 - [flask-twilio-video](https://github.com/miguelgrinberg/flask-twilio-video) - A small video conference application using Flask and Twilio Programmable Video
 - [custom-forms](https://github.com/tailwindcss/custom-forms) - A better base for styling form elements with Tailwind CSS.
 - [toolbox](https://github.com/CyberZHG/toolbox) - https://cyberzhg.github.io/toolbox/
@@ -361,7 +364,7 @@
 - [dingtalk](https://github.com/nashaofu/dingtalk) - 钉钉桌面版，基于electron和钉钉网页版开发，支持Windows、Linux和macOS
 - [synaptic](https://github.com/cazala/synaptic) - architecture-free neural network library for node.js and the browser
 - [ovilia.github.io](https://github.com/Ovilia/ovilia.github.io) - Ovilia's personal site
-- [taro](https://github.com/NervJS/taro) - 多端统一开发框架，支持用 React 的开发方式编写一次代码，生成能运行在微信/百度/支付宝/字节跳动/ QQ 小程序/快应用/H5/React Native 等的应用。  https://taro.jd.com/
+- [taro](https://github.com/NervJS/taro) - 多端统一开发框架，支持用 React 的开发方式编写一次代码，生成能运行在微信/京东/百度/支付宝/字节跳动/ QQ 小程序/快应用/H5/React Native 等的应用。  https://taro.jd.com/
 - [reveal.js](https://github.com/hakimel/reveal.js) - The HTML Presentation Framework
 - [gatsby](https://github.com/gatsbyjs/gatsby) - Build blazing fast, modern apps and websites with React
 - [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted locally. Selfhosting is the process of hosting and managing applications instead of renting from Software-as-a-Service providers
@@ -507,6 +510,7 @@
 
 ## Python 
 
+- [Bast](https://github.com/moluwole/Bast) - Simple but Elegant Web Framework
 - [machine_learning_examples](https://github.com/lazyprogrammer/machine_learning_examples) - A collection of machine learning examples and tutorials.
 - [covid-api](https://github.com/andreagrandi/covid-api) - COVID19 Api based on Johns Hopkins CSSE data
 - [manim](https://github.com/3b1b/manim) - Animation engine for explanatory math videos

@@ -64,6 +64,7 @@
 
 ## C 
 
+- [sowm](https://github.com/dylanaraps/sowm) - An itsy bitsy floating window manager (220~ sloc / 24kb compiled!).
 - [wasm3](https://github.com/wasm3/wasm3) - 🚀 The fastest WebAssembly interpreter
 - [helenos](https://github.com/HelenOS/helenos) - A portable microkernel-based multiserver operating system written from scratch.
 - [acwj](https://github.com/luke-gru/acwj) - 
@@ -243,6 +244,7 @@
 - [cayley](https://github.com/cayleygraph/cayley) - An open-source graph database
 - [glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻
 - [gogs](https://github.com/gogs/gogs) - Gogs is a painless self-hosted Git service
+- [upm](https://github.com/replit/upm) - 🌀 Universal Package Manager - Python, Node.js, Ruby, Emacs Lisp.
 - [gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea, painless self-hosted git service
 
 ## HTML 
@@ -301,7 +303,7 @@
 - [hapi](https://github.com/hapijs/hapi) - The Simple, Secure Framework Developers Trust
 - [AutoKnowledge](https://github.com/GuitarmonYz/AutoKnowledge) - a full-stack bundle of a implementation of knowledge graph with graph database, using VUE, Echarts, Django, Neo4j
 - [playwright](https://github.com/microsoft/playwright) - Node library to automate Chromium, Firefox and WebKit with a single API
-- [snowpack](https://github.com/pikapkg/snowpack) - ☶ The fastest way to build any web app.
+- [snowpack](https://github.com/pikapkg/snowpack) - ⛰ The fastest, simplest way to build a web application.
 - [community-edition](https://github.com/ramboxapp/community-edition) - Free and Open Source messaging and emailing app that combines common web applications into one.
 - [1on1-questions](https://github.com/VGraupera/1on1-questions) - Mega list of 1 on 1 meeting questions compiled from a variety to sources
 - [RSSHub](https://github.com/DIYgod/RSSHub) - 🍰 Everything is RSSible
@@ -329,7 +331,6 @@
 - [uni-app](https://github.com/dcloudio/uni-app) - uni-app 是使用 Vue 语法开发小程序、H5、App的统一框架
 - [remote-jobs](https://github.com/remoteintech/remote-jobs) - A list of semi to fully remote-friendly companies in tech.
 - [maintainerswanted.com](https://github.com/flxwu/maintainerswanted.com) - No time to maintain your open source project? Find a new maintainer!
-- [upm](https://github.com/replit/upm) - 🌀 Universal Package Manager - Python, Node.js, Ruby, Emacs Lisp.
 - [flaskcode](https://github.com/sujeetkv/flaskcode) - A web based code editor on python flask framework.
 - [gitment](https://github.com/imsun/gitment) - A comment system based on GitHub Issues.
 - [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open source codebase and curriculum. Learn to code for free together with millions of people.
@@ -562,7 +563,7 @@
 - [signature_algorithm](https://github.com/gadfly0x/signature_algorithm) - 各种App、小程序、网站的请求签名或加密算法。 现已有：自如、小红书、蛋壳公寓、luckin coffee(瑞幸咖啡)、bangkokair(曼谷航空)
 - [mlcourse.ai](https://github.com/Yorko/mlcourse.ai) - Open Machine Learning Course
 - [nardis](https://github.com/yoongkang/nardis) - A small web framework based on ASGI
-- [falcon](https://github.com/falconry/falcon) - Too much magic makes your apps hard to debug and hard to scale. Falcon is the minimalist web framework for building incredibly fast, reliable, and scalable microservices, proxies, and app backends.
+- [falcon](https://github.com/falconry/falcon) - The unladen web services and building-block framework for Python developers.
 - [poetry](https://github.com/python-poetry/poetry) - Python dependency management and packaging made easy.
 - [aioquic](https://github.com/aiortc/aioquic) - QUIC and HTTP/3 implementation in Python
 - [Computer-Networking-A-Top-Down-Approach-NOTES](https://github.com/moranzcw/Computer-Networking-A-Top-Down-Approach-NOTES) - 《计算机网络－自顶向下方法(原书第6版)》编程作业，Wireshark实验文档的翻译和解答。
@@ -726,7 +727,7 @@
 - [Rocket](https://github.com/SergioBenitez/Rocket) - A web framework for Rust.
 - [yew](https://github.com/yewstack/yew) - Rust / Wasm framework for building client web apps
 - [xi-editor](https://github.com/xi-editor/xi-editor) - A modern editor with a backend written in Rust.
-- [tide](https://github.com/http-rs/tide) - Serve the web – ergonomic async http server framework
+- [tide](https://github.com/http-rs/tide) - Fast and friendly HTTP server framework for async Rust
 - [RustPython](https://github.com/RustPython/RustPython) - A Python Interpreter written in Rust
 - [nom](https://github.com/Geal/nom) - Rust parser combinator framework
 - [iota](https://github.com/gchp/iota) - A terminal-based text editor written in Rust

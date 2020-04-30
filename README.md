@@ -64,6 +64,7 @@
 
 ## C 
 
+- [uSockets](https://github.com/uNetworking/uSockets) - Miniscule cross-platform eventing, networking & crypto for async applications
 - [libcmdf](https://github.com/ronen25/libcmdf) - Single-header library for writing CLI applications in C/C++
 - [sowm](https://github.com/dylanaraps/sowm) - An itsy bitsy floating window manager (220~ sloc / 24kb compiled!).
 - [wasm3](https://github.com/wasm3/wasm3) - 🚀 The fastest WebAssembly interpreter
@@ -293,6 +294,8 @@
 
 ## JavaScript 
 
+- [foliate](https://github.com/johnfactotum/foliate) - A simple and modern GTK eBook reader
+- [userbase](https://github.com/encrypted-dev/userbase) - Create secure and private web apps using only static JavaScript, HTML, and CSS.
 - [graphql-engine](https://github.com/hasura/graphql-engine) - Blazing fast, instant realtime GraphQL APIs on Postgres with fine grained access control, also trigger webhooks on database events.
 - [flask-twilio-video](https://github.com/miguelgrinberg/flask-twilio-video) - A small video conference application using Flask and Twilio Programmable Video
 - [custom-forms](https://github.com/tailwindcss/custom-forms) - A better base for styling form elements with Tailwind CSS.
@@ -306,7 +309,7 @@
 - [hapi](https://github.com/hapijs/hapi) - The Simple, Secure Framework Developers Trust
 - [AutoKnowledge](https://github.com/GuitarmonYz/AutoKnowledge) - a full-stack bundle of a implementation of knowledge graph with graph database, using VUE, Echarts, Django, Neo4j
 - [playwright](https://github.com/microsoft/playwright) - Node library to automate Chromium, Firefox and WebKit with a single API
-- [snowpack](https://github.com/pikapkg/snowpack) - ⛰ The fastest way to build a web app.
+- [snowpack](https://github.com/pikapkg/snowpack) - ☶ The fast, simple dev environment for modern web apps.
 - [community-edition](https://github.com/ramboxapp/community-edition) - Free and Open Source messaging and emailing app that combines common web applications into one.
 - [1on1-questions](https://github.com/VGraupera/1on1-questions) - Mega list of 1 on 1 meeting questions compiled from a variety to sources
 - [RSSHub](https://github.com/DIYgod/RSSHub) - 🍰 Everything is RSSible
@@ -515,6 +518,8 @@
 
 ## Python 
 
+- [open-semantic-entity-search-api](https://github.com/opensemanticsearch/open-semantic-entity-search-api) - Open Source REST API for named entity extraction, named entity linking, named entity disambiguation, recommendation & reconciliation of entities like persons, organizations and places for (semi)automatic semantic tagging & analysis of documents by linked data knowledge graph like SKOS thesaurus, RDF ontology, database(s) or list(s) of names
+- [tortoise-orm](https://github.com/tortoise/tortoise-orm) - Familiar asyncio ORM for python, built with relations in mind
 - [Bast](https://github.com/moluwole/Bast) - Simple but Elegant Web Framework
 - [machine_learning_examples](https://github.com/lazyprogrammer/machine_learning_examples) - A collection of machine learning examples and tutorials.
 - [covid-api](https://github.com/andreagrandi/covid-api) - COVID19 Api based on Johns Hopkins CSSE data
@@ -635,6 +640,9 @@
 
 ## Rust 
 
+- [linefeed](https://github.com/murarth/linefeed) - Configurable, extensible, interactive line reader
+- [xtensa-lx6-rt](https://github.com/esp-rs/xtensa-lx6-rt) - 
+- [esp32-hal](https://github.com/esp-rs/esp32-hal) - 
 - [smol](https://github.com/stjepang/smol) - A small and fast async runtime for Rust
 - [lalrpop](https://github.com/lalrpop/lalrpop) - LR(1) parser generator for Rust
 - [ntex](https://github.com/ntex-rs/ntex) - framework for composable networking services

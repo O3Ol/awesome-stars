@@ -304,7 +304,7 @@
 - [react-ultimate-resume](https://github.com/welovedevs/react-ultimate-resume) - 💼 🎨 A modern software developer resume built with React and JSONResume
 - [neovis.js](https://github.com/neo4j-contrib/neovis.js) - Neo4j + vis.js = neovis.js. Graph visualizations in the browser with data from Neo4j.
 - [mouselog](https://github.com/microsoft/mouselog) - 🐾 A web-based tool for logging, visualizing and analyzing mouse events like movement and clicks.
-- [redwood](https://github.com/redwoodjs/redwood) - Bringing full-stack to the JAMstack.
+- [redwood](https://github.com/redwoodjs/redwood) - Bringing full-stack to the Jamstack.
 - [rust-search-extension](https://github.com/huhu/rust-search-extension) - 🦀The ultimate search extension for Rust
 - [hapi](https://github.com/hapijs/hapi) - The Simple, Secure Framework Developers Trust
 - [AutoKnowledge](https://github.com/GuitarmonYz/AutoKnowledge) - a full-stack bundle of a implementation of knowledge graph with graph database, using VUE, Echarts, Django, Neo4j
@@ -640,6 +640,7 @@
 
 ## Rust 
 
+- [LemonVM](https://github.com/LemonHX/LemonVM) - A Register Based VM.
 - [linefeed](https://github.com/murarth/linefeed) - Configurable, extensible, interactive line reader
 - [xtensa-lx6-rt](https://github.com/esp-rs/xtensa-lx6-rt) - 
 - [esp32-hal](https://github.com/esp-rs/esp32-hal) - 

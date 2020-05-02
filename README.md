@@ -173,7 +173,6 @@
 - [Sourcetrail](https://github.com/CoatiSoftware/Sourcetrail) - Sourcetrail - free and open-source interactive source explorer
 - [testlib](https://github.com/MikeMirzayanov/testlib) - Automatically exported from code.google.com/p/testlib
 - [librime](https://github.com/rime/librime) - Rime Input Method Engine, the core library
-- [OpenArkCompiler](https://github.com/Himself65/OpenArkCompiler) - the source code of OpenArkCompiler（Mirror Repo）
 - [LeetCode](https://github.com/liuchuo/LeetCode) - 🍡 LeetCode Online Judge刷题题解(Java/C++/Python/Ruby/Swift)
 - [PAT](https://github.com/liuchuo/PAT) - 🍭 浙江大学PAT题解(C/C++/Java/Python) - 努力成为萌萌的程序媛～
 - [Algorithms](https://github.com/Thuva4/Algorithms) - Collection of algorithms in multiple programming languages.
@@ -288,12 +287,15 @@
 - [termux-app](https://github.com/termux/termux-app) - Android terminal and Linux environment - app repository.
 - [CS-Notes](https://github.com/CyC2018/CS-Notes) - :books: 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计、Java、Python、C++
 - [grakn](https://github.com/graknlabs/grakn) - Grakn Core: The Knowledge Graph
+- [OpenArkCompiler](https://github.com/Himself65/OpenArkCompiler) - the source code of OpenArkCompiler（Mirror Repo）
 - [audiveris](https://github.com/Audiveris/audiveris) - Latest generation of Audiveris OMR engine
 - [cbc](https://github.com/aamine/cbc) - Cb (C flat) compiler.  Cb is simplified C.
 - [fullstack-tutorial](https://github.com/frank-lam/fullstack-tutorial) - 🚀 fullstack tutorial 2020，后台技术栈/架构师之路/全栈开发社区，春招/秋招/校招/面试
 
 ## JavaScript 
 
+- [ieaseMusic](https://github.com/trazyn/ieaseMusic) - 网易云音乐第三方
+- [PaperWM](https://github.com/paperwm/PaperWM) - Tiled scrollable window management for Gnome Shell
 - [foliate](https://github.com/johnfactotum/foliate) - A simple and modern GTK eBook reader
 - [userbase](https://github.com/encrypted-dev/userbase) - Create secure and private web apps using only static JavaScript, HTML, and CSS.
 - [graphql-engine](https://github.com/hasura/graphql-engine) - Blazing fast, instant realtime GraphQL APIs on Postgres with fine grained access control, also trigger webhooks on database events.
@@ -518,6 +520,7 @@
 
 ## Python 
 
+- [Flask-MonitoringDashboard](https://github.com/flask-dashboard/Flask-MonitoringDashboard) - Automatically monitor the evolving performance of Flask/Python web services.
 - [open-semantic-entity-search-api](https://github.com/opensemanticsearch/open-semantic-entity-search-api) - Open Source REST API for named entity extraction, named entity linking, named entity disambiguation, recommendation & reconciliation of entities like persons, organizations and places for (semi)automatic semantic tagging & analysis of documents by linked data knowledge graph like SKOS thesaurus, RDF ontology, database(s) or list(s) of names
 - [tortoise-orm](https://github.com/tortoise/tortoise-orm) - Familiar asyncio ORM for python, built with relations in mind
 - [Bast](https://github.com/moluwole/Bast) - Simple but Elegant Web Framework
@@ -695,7 +698,7 @@
 - [cask](https://github.com/andresilva/cask) - A fast key-value store written in Rust
 - [paxos](https://github.com/nwtnni/paxos) - Distributed consensus protocol for replicated state machines
 - [rustlings](https://github.com/rust-lang/rustlings) - :crab: Small exercises to get you used to reading and writing Rust code!
-- [xorf](https://github.com/ayazhafiz/xorf) - Xor filters - small, fast, probabilistic hashsets. Faster and smaller than bloom and cuckoo filters.
+- [xorf](https://github.com/ayazhafiz/xorf) - Xor filters - efficient probabilistic hashsets. Faster and smaller than bloom and cuckoo filters.
 - [talent-plan](https://github.com/pingcap/talent-plan) - PingCAP training courses
 - [sled](https://github.com/spacejam/sled) - the champagne of beta embedded databases
 - [tinysearch](https://github.com/mre/tinysearch) - 🔍 Tiny, static, full-text search engine for your website using Bloom filters and WebAssembly
@@ -760,6 +763,7 @@
 
 ## Shell 
 
+- [swarmlet](https://github.com/swarmlet/swarmlet) - A self-hosted, open-source Platform as a Service that enables easy swarm deployments, load balancing, automatic SSL, metrics, analytics and more.
 - [scripts-to-rule-them-all](https://github.com/github/scripts-to-rule-them-all) - Scripts to Rule Them All
 - [xsk](https://github.com/ellbrid/xsk) - CMS and Web Server written in ShellScript
 - [bocker](https://github.com/p8952/bocker) - Docker implemented in around 100 lines of bash

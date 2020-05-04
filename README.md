@@ -643,7 +643,7 @@
 
 ## Rust 
 
-- [LemonVM](https://github.com/LemonHX/LemonVM) - A Register Based VM.
+- [LemonVM](https://github.com/LemonHX/LemonVM) - A Register Based VM. 柠檬手写的看起来像栈机的寄存器机
 - [linefeed](https://github.com/murarth/linefeed) - Configurable, extensible, interactive line reader
 - [xtensa-lx6-rt](https://github.com/esp-rs/xtensa-lx6-rt) - 
 - [esp32-hal](https://github.com/esp-rs/esp32-hal) - 

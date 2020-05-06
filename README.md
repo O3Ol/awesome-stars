@@ -40,6 +40,7 @@
   - [Scheme](#scheme)
   - [Shell](#shell)
   - [SystemVerilog](#systemverilog)
+  - [TSQL](#tsql)
   - [TeX](#tex)
   - [TypeScript](#typescript)
   - [V](#v)
@@ -533,7 +534,6 @@
 - [interview_internal_reference](https://github.com/0voice/interview_internal_reference) - 2019年最新总结，阿里，腾讯，百度，美团，头条等技术面试题目，以及答案，专家出题人分析汇总。
 - [system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 - [fastapi-realworld-example-app](https://github.com/nsidnev/fastapi-realworld-example-app) - Backend logic implementation for https://github.com/gothinkster/realworld with awesome FastAPI
-- [Z_knowledge_graph](https://github.com/Pelhans/Z_knowledge_graph) - Bulding kg from 0
 - [Google-Kick-Start](https://github.com/Harmon758/Google-Kick-Start) - Google Kick Start
 - [starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [fastapi-ml-skeleton](https://github.com/eightBEC/fastapi-ml-skeleton) - FastAPI Skeleton App to serve machine learning models production-ready.
@@ -566,7 +566,7 @@
 - [howdy](https://github.com/boltgolt/howdy) - 🛡️ Windows Hello™ style facial authentication for Linux
 - [bake](https://github.com/kennethreitz-archive/bake) - Bake — the strangely familiar workflow utility.
 - [lektor](https://github.com/lektor/lektor) - The lektor static file content management system
-- [grip](https://github.com/joeyespo/grip) - Preview GitHub Markdown files like Readme locally before committing them.
+- [grip](https://github.com/joeyespo/grip) - Preview GitHub README.md files locally before committing them.
 - [typeset](https://github.com/martinwu42/typeset) - 自动修正中文、英文、代码混合排版中的全半角、空格等问题
 - [pangu.py](https://github.com/vinta/pangu.py) - Paranoid text spacing in Python
 - [Tekorrect](https://github.com/n0vad3v/Tekorrect) - 此 Python 腳本用於給已經完成的 Markdown 遍寫的文檔進行優化，它會將壹些非標準，或不推薦的排版方式，進行自動格式化、標準化。
@@ -699,7 +699,7 @@
 - [paxos](https://github.com/nwtnni/paxos) - Distributed consensus protocol for replicated state machines
 - [rustlings](https://github.com/rust-lang/rustlings) - :crab: Small exercises to get you used to reading and writing Rust code!
 - [xorf](https://github.com/ayazhafiz/xorf) - Xor filters - efficient probabilistic hashsets. Faster and smaller than bloom and cuckoo filters.
-- [talent-plan](https://github.com/pingcap/talent-plan) - PingCAP training courses
+- [talent-plan](https://github.com/pingcap/talent-plan) - open source training courses about distributed systems and distributed systemes
 - [sled](https://github.com/spacejam/sled) - the champagne of beta embedded databases
 - [tinysearch](https://github.com/mre/tinysearch) - 🔍 Tiny, static, full-text search engine for your website using Bloom filters and WebAssembly
 - [examples](https://github.com/actix/examples) - Actix web examples
@@ -735,7 +735,7 @@
 - [rust-unic](https://github.com/open-i18n/rust-unic) - UNIC: Unicode and Internationalization Crates for Rust
 - [xray](https://github.com/atom-archive/xray) - An experimental next-generation Electron-based text editor
 - [quickdown](https://github.com/trishume/quickdown) - Fast lightweight Markdown viewer with Rust and Webrender. HtN 2017
-- [cargo-rpm](https://github.com/RustRPM/cargo-rpm) - Cargo subcommand for building .rpm releases of Rust projects
+- [cargo-rpm](https://github.com/iqlusioninc/cargo-rpm) - Cargo subcommand for building .rpm releases of Rust projects
 - [monkey-rust](https://github.com/Rydgel/monkey-rust) - An interpreter for the Monkey programming language written in Rust
 - [webrender](https://github.com/servo/webrender) - A GPU-based renderer for the web
 - [text-edit](https://github.com/randomPoison/text-edit) - 
@@ -793,6 +793,10 @@
 
 - [ibex](https://github.com/lowRISC/ibex) - Ibex is a small 32 bit RISC-V CPU core (RV32IMC/EMC) with a two stage pipeline, previously known as zero-riscy.
 - [ariane](https://github.com/pulp-platform/ariane) - Ariane is a 6-stage RISC-V CPU capable of booting Linux
+
+## TSQL 
+
+- [Z_knowledge_graph](https://github.com/Pelhans/Z_knowledge_graph) - Bulding kg from 0
 
 ## TeX 
 

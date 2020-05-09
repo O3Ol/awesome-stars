@@ -30,6 +30,7 @@
   - [Makefile](#makefile)
   - [OCaml](#ocaml)
   - [Others](#others)
+  - [PHP](#php)
   - [PowerShell](#powershell)
   - [Python](#python)
   - [Racket](#racket)
@@ -201,7 +202,6 @@
 - [shepherd](https://github.com/shipshapecode/shepherd) - Guide your users through a tour of your app
 - [course-starter-python](https://github.com/ines/course-starter-python) - 👩‍🏫🐍 Starter repo for building interactive Python courses
 - [ocaml-book](https://github.com/dmbaturin/ocaml-book) - A free culture OCaml textbook
-- [howto-make-more-money](https://github.com/easychen/howto-make-more-money) - 程序员如何优雅的挣零花钱，2.0版，升级为小书了。Most of this not work outside China , so no English translate
 - [the-unix-workbench](https://github.com/seankross/the-unix-workbench) - :house_with_garden: A Book for Anyone to Get Started with Unix
 - [rubble](https://github.com/Kilerd/rubble) - a lightweight blog engine written by Rust.
 - [2019-Slides](https://github.com/PyConChina/2019-Slides) - PyCon China 2019 幻灯片
@@ -515,6 +515,10 @@
 - [free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) - :books: 免费的计算机编程类中文书籍，欢迎投稿
 - [awesome-leetcode](https://github.com/tangweikun/awesome-leetcode) - :nail_care: A collection of awesome leetcode solutions
 - [build-your-own-x](https://github.com/danistefanovic/build-your-own-x) - 🤓 Build your own (insert technology here)
+
+## PHP 
+
+- [howto-make-more-money](https://github.com/easychen/howto-make-more-money) - 程序员如何优雅的挣零花钱，2.0版，升级为小书了。Most of this not work outside China , so no English translate
 
 ## PowerShell 
 

@@ -50,6 +50,7 @@
   - [Verilog](#verilog)
   - [Vim script](#vim-script)
   - [Vue](#vue)
+  - [WebAssembly](#webassembly)
 
 ## Agda 
 
@@ -232,7 +233,7 @@
 
 ## Emacs Lisp 
 
-- [doom-emacs](https://github.com/hlissner/doom-emacs) - An Emacs configuration for the stubborn martian vimmer
+- [doom-emacs](https://github.com/hlissner/doom-emacs) - An Emacs framework for the stubborn martian hacker
 - [remacs](https://github.com/remacs/remacs) - Rust :heart: Emacs
 - [spacemacs](https://github.com/syl20bnr/spacemacs) - A community-driven Emacs distribution - The best editor is neither Emacs nor Vim,  it's Emacs *and* Vim!
 
@@ -501,7 +502,6 @@
 - [algorithms](https://github.com/jeffgerickson/algorithms) - Bug-tracking for Jeff's algorithms book, notes, etc.
 - [A-Programmers-Guide-to-English](https://github.com/yujiangshui/A-Programmers-Guide-to-English) - 专为程序员编写的英语学习指南 v1.2。在线版本请点 -&gt;
 - [FinancialSupportForOpenSource](https://github.com/wizicer/FinancialSupportForOpenSource) - 开源项目挣钱实用手册
-- [cppwasm-book](https://github.com/3dgen/cppwasm-book) - :books: WebAssembly friendly programming with C/C++ -- Emscripten practice
 - [every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) - A collection of (mostly) technical things every software developer should know
 - [rework](https://github.com/livid/rework) - Rework Chinese Translation Project
 - [ds-tutorials](https://github.com/likethereisnobox/ds-tutorials) - 
@@ -882,6 +882,10 @@
 ## Vue 
 
 - [gitstalk](https://github.com/thelittlewonder/gitstalk) - Discover who's upto what on Github
+
+## WebAssembly 
+
+- [cppwasm-book](https://github.com/3dgen/cppwasm-book) - :books: WebAssembly friendly programming with C/C++ -- Emscripten practice
 
 
 ## License

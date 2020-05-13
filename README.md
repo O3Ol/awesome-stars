@@ -90,7 +90,7 @@
 - [minunit](https://github.com/siu/minunit) - Minimal unit testing framework for C
 - [Unity](https://github.com/ThrowTheSwitch/Unity) - Simple Unit Testing for C
 - [write_a_c_compiler](https://github.com/nlsandler/write_a_c_compiler) - Test suite to help you write your own C compiler
-- [Tagha](https://github.com/Nirari-Technologies/Tagha) - Minimal, fast, and self-contained register-based virtual machine-based runtime environment for the C programming language.
+- [Tagha](https://github.com/assyrianic/Tagha) - Minimal, fast, and self-contained register-based virtual machine-based runtime environment for the C programming language.
 - [bytecode-interpreters-post](https://github.com/vkazanov/bytecode-interpreters-post) - A few basic bytecode interpreters used as example code in a series of articles
 - [Crossline](https://github.com/jcwangxp/Crossline) - A small, self-contained, zero-config, MIT licensed, cross-platform, readline and libedit replacement.
 - [lalloc](https://github.com/cloudwu/lalloc) - A allocator  for lua
@@ -580,7 +580,7 @@
 - [signature_algorithm](https://github.com/gadfly0x/signature_algorithm) - 各种App、小程序、网站的请求签名或加密算法。 现已有：自如、小红书、蛋壳公寓、luckin coffee(瑞幸咖啡)、bangkokair(曼谷航空)
 - [mlcourse.ai](https://github.com/Yorko/mlcourse.ai) - Open Machine Learning Course
 - [nardis](https://github.com/yoongkang/nardis) - A small web framework based on ASGI
-- [falcon](https://github.com/falconry/falcon) - Minimalist web services and app backend framework for Python developers with a focus on reliability and performance at scale.
+- [falcon](https://github.com/falconry/falcon) - The no-nonsense, minimalist web services and app backend framework for Python developers with a focus on reliability and performance at scale.
 - [poetry](https://github.com/python-poetry/poetry) - Python dependency management and packaging made easy.
 - [aioquic](https://github.com/aiortc/aioquic) - QUIC and HTTP/3 implementation in Python
 - [Computer-Networking-A-Top-Down-Approach-NOTES](https://github.com/moranzcw/Computer-Networking-A-Top-Down-Approach-NOTES) - 《计算机网络－自顶向下方法(原书第6版)》编程作业，Wireshark实验文档的翻译和解答。
@@ -648,6 +648,7 @@
 
 ## Rust 
 
+- [ckb-vm](https://github.com/nervosnetwork/ckb-vm) - CKB's vm, based on open source RISC-V ISA
 - [LemonVM](https://github.com/LemonHX/LemonVM) - A Register Based VM. 柠檬手写的看起来像栈机的寄存器机
 - [linefeed](https://github.com/murarth/linefeed) - Configurable, extensible, interactive line reader
 - [xtensa-lx6-rt](https://github.com/esp-rs/xtensa-lx6-rt) - 
@@ -824,7 +825,7 @@
 - [excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 - [ts-llvm](https://github.com/ts-llvm/ts-llvm) - Work-in-progress TypeScript to LLVM compiler
 - [refined-github](https://github.com/sindresorhus/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features
-- [rome](https://github.com/facebookexperimental/rome) - An experimental JavaScript toolchain
+- [rome](https://github.com/romejs/rome) - An experimental JavaScript toolchain
 - [gh-card](https://github.com/nwtgck/gh-card) - :octocat: GitHub Repository Card for Any Web Site
 - [destiny](https://github.com/benawad/destiny) - Prettier for File Structures
 - [sigi](https://github.com/sigi-framework/sigi) - Well designed effect management framenwork for complex frontend app

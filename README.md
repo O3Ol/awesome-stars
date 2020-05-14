@@ -700,7 +700,6 @@
 - [iced](https://github.com/hecrj/iced) - A cross-platform GUI library for Rust, inspired by Elm
 - [actix-raft](https://github.com/railgun-rs/actix-raft) - An implementation of the Raft consensus protocol using the actix Actor framework.
 - [ropey](https://github.com/cessen/ropey) - A utf8 text rope for manipulating and editing large texts.
-- [wasmer](https://github.com/wasmerio/wasmer) - 🚀 The Universal WebAssembly Runtime supporting WASI and Emscripten
 - [cask](https://github.com/andresilva/cask) - A fast key-value store written in Rust
 - [paxos](https://github.com/nwtnni/paxos) - Distributed consensus protocol for replicated state machines
 - [rustlings](https://github.com/rust-lang/rustlings) - :crab: Small exercises to get you used to reading and writing Rust code!
@@ -886,6 +885,7 @@
 
 ## WebAssembly 
 
+- [wasmer](https://github.com/wasmerio/wasmer) - 🚀 The Universal WebAssembly Runtime supporting WASI and Emscripten
 - [cppwasm-book](https://github.com/3dgen/cppwasm-book) - :books: WebAssembly friendly programming with C/C++ -- Emscripten practice
 
 

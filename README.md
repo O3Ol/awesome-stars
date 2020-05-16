@@ -365,7 +365,7 @@
 - [chinese-poetry](https://github.com/chinese-poetry/chinese-poetry) - The most comprehensive database of Chinese poetry 🧶最全中华古诗词数据库,  唐宋两朝近一万四千古诗人,  接近5.5万首唐诗加26万宋诗.  两宋时期1564位词人，21050首词。
 - [dayjs](https://github.com/iamkun/dayjs) - ⏰ Day.js 2KB immutable date library alternative to Moment.js with the same modern API
 - [30-seconds-of-interviews](https://github.com/30-seconds/30-seconds-of-interviews) - A curated collection of common interview questions to help you prepare for your next interview.
-- [carbon](https://github.com/carbon-app/carbon) - 🎨 Create and share beautiful images of your source code
+- [carbon](https://github.com/carbon-app/carbon) - :black_heart: Create and share beautiful images of your source code
 - [marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
 - [mdx](https://github.com/mdx-js/mdx) - JSX in Markdown for ambitious projects
 - [docsify](https://github.com/docsifyjs/docsify) - 🃏 A magical documentation site generator.
@@ -648,6 +648,7 @@
 
 ## Rust 
 
+- [Waffle](https://github.com/jazz-lang/Waffle) - Runtime with fast GC and easy concurrency.
 - [ckb-vm](https://github.com/nervosnetwork/ckb-vm) - CKB's vm, based on open source RISC-V ISA
 - [LemonVM](https://github.com/LemonVM/LemonVM) - A Register Based VM. 柠檬手写的看起来像栈机的寄存器机
 - [linefeed](https://github.com/murarth/linefeed) - Configurable, extensible, interactive line reader

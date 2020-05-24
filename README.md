@@ -154,6 +154,7 @@
 
 ## C++ 
 
+- [GW-BASIC](https://github.com/microsoft/GW-BASIC) - The original source code of Microsoft GW-BASIC from 1983
 - [winget-cli](https://github.com/microsoft/winget-cli) - Windows Package Manager CLI (aka winget)
 - [replxx](https://github.com/AmokHuginnsson/replxx) - A readline and libedit replacement that supports UTF-8, syntax highlighting, hints and Windows and is BSD licensed.
 - [seastar](https://github.com/scylladb/seastar) - High performance server-side application framework
@@ -315,7 +316,7 @@
 - [hapi](https://github.com/hapijs/hapi) - The Simple, Secure Framework Developers Trust
 - [AutoKnowledge](https://github.com/GuitarmonYz/AutoKnowledge) - a full-stack bundle of a implementation of knowledge graph with graph database, using VUE, Echarts, Django, Neo4j
 - [playwright](https://github.com/microsoft/playwright) - Node library to automate Chromium, Firefox and WebKit with a single API
-- [snowpack](https://github.com/pikapkg/snowpack) - The fastest dev environment for modern web apps.
+- [snowpack](https://github.com/pikapkg/snowpack) - ☶ A faster dev environment for modern web apps.
 - [community-edition](https://github.com/ramboxapp/community-edition) - Free and Open Source messaging and emailing app that combines common web applications into one.
 - [degoogle](https://github.com/tycrek/degoogle) - A huge list of alternatives to Google products. Privacy tips, tricks, and links.
 - [1on1-questions](https://github.com/VGraupera/1on1-questions) - Mega list of 1 on 1 meeting questions compiled from a variety to sources

@@ -202,7 +202,6 @@
 
 ## CSS 
 
-- [shepherd](https://github.com/shipshapecode/shepherd) - Guide your users through a tour of your app
 - [course-starter-python](https://github.com/ines/course-starter-python) - 👩‍🏫🐍 Starter repo for building interactive Python courses
 - [ocaml-book](https://github.com/dmbaturin/ocaml-book) - A free culture OCaml textbook
 - [the-unix-workbench](https://github.com/seankross/the-unix-workbench) - :house_with_garden: A Book for Anyone to Get Started with Unix
@@ -299,6 +298,7 @@
 ## JavaScript 
 
 - [atomizer](https://github.com/acss-io/atomizer) - A tool for creating Atomic CSS, a collection of single purpose styling units for maximum reuse.
+- [shepherd](https://github.com/shipshapecode/shepherd) - Guide your users through a tour of your app
 - [ieaseMusic](https://github.com/trazyn/ieaseMusic) - 网易云音乐第三方
 - [PaperWM](https://github.com/paperwm/PaperWM) - Tiled scrollable window management for Gnome Shell
 - [foliate](https://github.com/johnfactotum/foliate) - A simple and modern GTK eBook reader
@@ -642,7 +642,7 @@
 ## Ruby 
 
 - [dev.to](https://github.com/thepracticaldev/dev.to) - Where programmers share ideas and help each other grow
-- [chatwoot](https://github.com/chatwoot/chatwoot) - Simple and elegant live chat software 🔥💬
+- [chatwoot](https://github.com/chatwoot/chatwoot) - Open-source live chat software 🔥💬
 - [fresh](https://github.com/freshshell/fresh) - Keep your dotfiles fresh.
 - [betty](https://github.com/pickhardt/betty) - Friendly English-like interface for your command line. Don't remember a command? Ask Betty.
 - [remote-working](https://github.com/greatghoul/remote-working) - 收集整理远程工作相关的资料

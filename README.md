@@ -653,6 +653,7 @@
 
 ## Rust 
 
+- [inkwell](https://github.com/TheDan64/inkwell) - It's a New Kind of Wrapper for Exposing LLVM (Safely)
 - [fantom-rust-vm](https://github.com/Fantom-foundation/fantom-rust-vm) - Register-based Ethereum VM implementation in Rust
 - [rsc](https://github.com/cgswords/rsc) - Rust-based Scheme Compiler, written in the Nanopass style
 - [Waffle](https://github.com/jazz-lang/Waffle) - Runtime with fast GC and easy concurrency.

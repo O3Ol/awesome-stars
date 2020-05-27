@@ -66,6 +66,7 @@
 
 ## C 
 
+- [horse64](https://github.com/horse64/horse64) - An elegant & comprehensive high-level programming language.
 - [uSockets](https://github.com/uNetworking/uSockets) - Miniscule cross-platform eventing, networking & crypto for async applications
 - [libcmdf](https://github.com/ronen25/libcmdf) - Single-header library for writing CLI applications in C/C++
 - [sowm](https://github.com/dylanaraps/sowm) - An itsy bitsy floating window manager (220~ sloc / 24kb compiled!).

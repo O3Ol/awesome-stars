@@ -428,6 +428,7 @@
 
 ## Others 
 
+- [rust-learning](https://github.com/ctjhoa/rust-learning) - A bunch of links to blog posts, articles, videos, etc for learning Rust
 - [evm-opcodes](https://github.com/crytic/evm-opcodes) - Ethereum opcodes and instruction reference
 - [ml-system-design-pattern](https://github.com/mercari/ml-system-design-pattern) - System design patterns for machine learning
 - [lox-language](https://github.com/danman113/lox-language) - Syntax highlighting for Lox, everyone's favorite interpreted learning-language
@@ -716,7 +717,7 @@
 - [xorf](https://github.com/ayazhafiz/xorf) - Xor filters - efficient probabilistic hashsets. Faster and smaller than bloom and cuckoo filters.
 - [talent-plan](https://github.com/pingcap/talent-plan) - open source training courses about distributed systems and distributed systemes
 - [sled](https://github.com/spacejam/sled) - the champagne of beta embedded databases
-- [tinysearch](https://github.com/mre/tinysearch) - 🔍 Tiny, static, full-text search engine for your website using Bloom filters and WebAssembly
+- [tinysearch](https://github.com/mre/tinysearch) - 🔍 Tiny, full-text search engine for static websites built with Rust and WASM
 - [examples](https://github.com/actix/examples) - Actix web examples
 - [svd2rust](https://github.com/rust-embedded/svd2rust) - Generate Rust register maps (`struct`s) from SVD files
 - [rdf-rs](https://github.com/scholtzan/rdf-rs) - RDF library implemented in Rust

@@ -70,7 +70,7 @@
 - [horse64](https://github.com/horse64/horse64) - An elegant & comprehensive high-level programming language.
 - [uSockets](https://github.com/uNetworking/uSockets) - Miniscule cross-platform eventing, networking & crypto for async applications
 - [libcmdf](https://github.com/ronen25/libcmdf) - Single-header library for writing CLI applications in C/C++
-- [sowm](https://github.com/dylanaraps/sowm) - An itsy bitsy floating window manager (220~ sloc / 24kb compiled!).
+- [sowm](https://github.com/dylanaraps/sowm) - An itsy bitsy floating window manager (220~ sloc!).
 - [wasm3](https://github.com/wasm3/wasm3) - 🚀 The fastest WebAssembly interpreter (and the most universal wasm runtime)
 - [helenos](https://github.com/HelenOS/helenos) - A portable microkernel-based multiserver operating system written from scratch.
 - [acwj](https://github.com/luke-gru/acwj) - 
@@ -423,7 +423,6 @@
 
 - [How-to-be-a-good-programmer](https://github.com/niudai/How-to-be-a-good-programmer) - I'm here to tell you some amazing stuff which teacher would never tell you.
 - [lc3-vm](https://github.com/justinmeiners/lc3-vm) - Write your own virtual machine for the LC-3 computer!
-- [esp32](https://github.com/esp-rs/esp32) - Peripheral access crate for the ESP32
 - [LearningLinuxKernel](https://github.com/ljrcore/LearningLinuxKernel) - 和我一起学习Linux内核吧
 - [redox](https://github.com/redox-os/redox) - Mirror of https://gitlab.redox-os.org/redox-os/redox
 
@@ -724,6 +723,7 @@
 - [sled](https://github.com/spacejam/sled) - the champagne of beta embedded databases
 - [tinysearch](https://github.com/mre/tinysearch) - 🔍 Tiny, full-text search engine for static websites built with Rust and WASM
 - [examples](https://github.com/actix/examples) - Actix web examples
+- [esp32](https://github.com/esp-rs/esp32) - Peripheral access crate for the ESP32
 - [svd2rust](https://github.com/rust-embedded/svd2rust) - Generate Rust register maps (`struct`s) from SVD files
 - [rdf-rs](https://github.com/scholtzan/rdf-rs) - RDF library implemented in Rust
 - [sonic](https://github.com/valeriansaliou/sonic) - 🦔 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.

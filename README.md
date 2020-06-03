@@ -659,6 +659,8 @@
 
 ## Rust 
 
+- [seahorse](https://github.com/ksk001100/seahorse) - A minimal CLI framework written in Rust
+- [core-os-riscv](https://github.com/skyzh/core-os-riscv) - 🖥️ An xv6-like operating system on RISC-V with multi-core support. Documentation available online.
 - [riscv-5stage-simulator](https://github.com/djanderson/riscv-5stage-simulator) - A 5-stage pipelining RISC-V 32I simulator written in Rust.
 - [inkwell](https://github.com/TheDan64/inkwell) - It's a New Kind of Wrapper for Exposing LLVM (Safely)
 - [fantom-rust-vm](https://github.com/Fantom-foundation/fantom-rust-vm) - Register-based Ethereum VM implementation in Rust
@@ -737,7 +739,7 @@
 - [webapp.rs](https://github.com/saschagrunert/webapp.rs) - A web application completely written in Rust. 🌍
 - [ripalt](https://github.com/fuchsi/ripalt) - An Anti-Leech Torrent Tracker CMS based on actix-web
 - [actix-realworld-example-app](https://github.com/fairingrey/actix-realworld-example-app) - Implementation of the RealWorld backend API spec in Actix, Rust's powerful actor system and most fun web framework.
-- [libhermit-rs](https://github.com/hermitcore/libhermit-rs) - RustyHermit: A Rust-based, lightweight unikernel
+- [libhermit-rs](https://github.com/hermitcore/libhermit-rs) - libhermit-rs: A Rust-based library operting system
 - [halt](https://github.com/augustl/halt) - OS where everything is immutable! (Experimental)
 - [WASI](https://github.com/WebAssembly/WASI) - WebAssembly System Interface
 - [RuSh](https://github.com/lwandrebeck/RuSh) - RuSh aims to be a bash compatible shell with candies, written in Rust.

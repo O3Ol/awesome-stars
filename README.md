@@ -659,6 +659,10 @@
 
 ## Rust 
 
+- [emu6](https://github.com/luojia65/emu6) - Multi-arch virtual machine that is 666. Contributions welcomed!
+- [path-tree](https://github.com/viz-rs/path-tree) - path-tree is a lightweight high performance HTTP request router for Rust
+- [fibers-rs](https://github.com/dwango/fibers-rs) - A Rust library to execute a number of lightweight asynchronous tasks (a.k.a, fibers) based on futures and mio.
+- [async-std-hyper](https://github.com/async-rs/async-std-hyper) - How to run Hyper on async-std
 - [seahorse](https://github.com/ksk001100/seahorse) - A minimal CLI framework written in Rust
 - [core-os-riscv](https://github.com/skyzh/core-os-riscv) - 🖥️ An xv6-like operating system on RISC-V with multi-core support. Documentation available online.
 - [riscv-5stage-simulator](https://github.com/djanderson/riscv-5stage-simulator) - A 5-stage pipelining RISC-V 32I simulator written in Rust.

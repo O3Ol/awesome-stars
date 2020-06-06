@@ -432,6 +432,7 @@
 
 ## Others 
 
+- [games201](https://github.com/taichi-dev/games201) - Advanced Physics Engines 2020: A Hands-on Tutorial
 - [rust-learning](https://github.com/ctjhoa/rust-learning) - A bunch of links to blog posts, articles, videos, etc for learning Rust
 - [evm-opcodes](https://github.com/crytic/evm-opcodes) - Ethereum opcodes and instruction reference
 - [ml-system-design-pattern](https://github.com/mercari/ml-system-design-pattern) - System design patterns for machine learning

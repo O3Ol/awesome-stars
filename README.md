@@ -251,6 +251,7 @@
 
 ## Go 
 
+- [casbin-raft](https://github.com/dovics/casbin-raft) - Use raft to ensure the consistency of casbin
 - [bolt](https://github.com/boltdb/bolt) - An embedded key/value database for Go.
 - [dgraph](https://github.com/dgraph-io/dgraph) - Fast, Distributed Graph DB
 - [traefik](https://github.com/containous/traefik) - The Cloud Native Edge Router
@@ -309,7 +310,6 @@
 - [shepherd](https://github.com/shipshapecode/shepherd) - Guide your users through a tour of your app
 - [ieaseMusic](https://github.com/trazyn/ieaseMusic) - 网易云音乐第三方
 - [PaperWM](https://github.com/paperwm/PaperWM) - Tiled scrollable window management for Gnome Shell
-- [foliate](https://github.com/johnfactotum/foliate) - A simple and modern GTK eBook reader
 - [userbase](https://github.com/encrypted-dev/userbase) - Create secure and private web apps using only static JavaScript, HTML, and CSS.
 - [graphql-engine](https://github.com/hasura/graphql-engine) - Blazing fast, instant realtime GraphQL APIs on Postgres with fine grained access control, also trigger webhooks on database events.
 - [flask-twilio-video](https://github.com/miguelgrinberg/flask-twilio-video) - A small video conference application using Flask and Twilio Programmable Video
@@ -660,7 +660,7 @@
 
 ## Rust 
 
-- [emu6](https://github.com/luojia65/emu6) - Multi-arch virtual machine that is 666. Contributions welcomed!
+- [emu6](https://github.com/luojia65/emu6) - Multi-arch instruction set simulator that is 6666. Contributions welcomed!
 - [path-tree](https://github.com/viz-rs/path-tree) - path-tree is a lightweight high performance HTTP request router for Rust
 - [fibers-rs](https://github.com/dwango/fibers-rs) - A Rust library to execute a number of lightweight asynchronous tasks (a.k.a, fibers) based on futures and mio.
 - [async-std-hyper](https://github.com/async-rs/async-std-hyper) - How to run Hyper on async-std

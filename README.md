@@ -67,6 +67,7 @@
 
 ## C 
 
+- [mallocng-draft](https://github.com/richfelker/mallocng-draft) - Working draft of nextgen malloc implementation for musl libc
 - [horse64](https://github.com/horse64/horse64) - An elegant & comprehensive high-level programming language.
 - [uSockets](https://github.com/uNetworking/uSockets) - Miniscule cross-platform eventing, networking & crypto for async applications
 - [libcmdf](https://github.com/ronen25/libcmdf) - Single-header library for writing CLI applications in C/C++
@@ -536,6 +537,7 @@
 
 ## Python 
 
+- [game-programmer](https://github.com/miloyip/game-programmer) - A Study Path for Game Programmer
 - [geektime_dl](https://github.com/jachinlin/geektime_dl) - 把极客时间装进 Kindle，内含快手内推等福利
 - [Flask-MonitoringDashboard](https://github.com/flask-dashboard/Flask-MonitoringDashboard) - Automatically monitor the evolving performance of Flask/Python web services.
 - [open-semantic-entity-search-api](https://github.com/opensemanticsearch/open-semantic-entity-search-api) - Open Source REST API for named entity extraction, named entity linking, named entity disambiguation, recommendation & reconciliation of entities like persons, organizations and places for (semi)automatic semantic tagging & analysis of documents by linked data knowledge graph like SKOS thesaurus, RDF ontology, database(s) or list(s) of names
@@ -659,6 +661,7 @@
 
 ## Rust 
 
+- [rust-raftkv](https://github.com/siddontang/rust-raftkv) - A simple distributed consistent key-value store with Raft and Rust
 - [emu6](https://github.com/luojia65/emu6) - Multi-arch instruction set simulator that is 6666. Contributions welcomed!
 - [path-tree](https://github.com/viz-rs/path-tree) - path-tree is a lightweight high performance HTTP request router for Rust
 - [fibers-rs](https://github.com/dwango/fibers-rs) - A Rust library to execute a number of lightweight asynchronous tasks (a.k.a, fibers) based on futures and mio.
@@ -726,7 +729,7 @@
 - [paxos](https://github.com/nwtnni/paxos) - Distributed consensus protocol for replicated state machines
 - [rustlings](https://github.com/rust-lang/rustlings) - :crab: Small exercises to get you used to reading and writing Rust code!
 - [xorf](https://github.com/ayazhafiz/xorf) - Xor filters - efficient probabilistic hashsets. Faster and smaller than bloom and cuckoo filters.
-- [talent-plan](https://github.com/pingcap/talent-plan) - open source training courses about distributed systems and distributed systemes
+- [talent-plan](https://github.com/pingcap/talent-plan) - open source training courses about distributed database and distributed systemes
 - [sled](https://github.com/spacejam/sled) - the champagne of beta embedded databases
 - [tinysearch](https://github.com/mre/tinysearch) - 🔍 Tiny, full-text search engine for static websites built with Rust and WASM
 - [examples](https://github.com/actix/examples) - Actix web examples
@@ -796,7 +799,7 @@
 - [hacker-laws](https://github.com/dwmkerr/hacker-laws) - 💻📖 Laws, Theories, Principles and Patterns that developers will find useful. #hackerlaws
 - [xsk](https://github.com/ellbrid/xsk) - CMS and Web Server written in ShellScript
 - [bocker](https://github.com/p8952/bocker) - Docker implemented in around 100 lines of bash
-- [tldr](https://github.com/tldr-pages/tldr) - 📚 Simplified and community-driven man pages
+- [tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
 - [dokku](https://github.com/dokku/dokku) - A docker-powered PaaS that helps you build and manage the lifecycle of applications
 - [asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
 - [learn-with-open-source](https://github.com/zhuangbiaowei/learn-with-open-source) - 借助开源项目，学习软件开发

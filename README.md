@@ -105,7 +105,7 @@
 - [umalloc](https://github.com/NanXiao/umalloc) - A tiny Unix dynamic memory allocator library.
 - [wof_alloc](https://github.com/eapache/wof_alloc) - Fast C/C++ memory allocator with free-all operation
 - [modern-compiler](https://github.com/ejacky/modern-compiler) - 现代编译原理（虎书）
-- [mac](https://github.com/felixangell/mac) - bytecode interpreter/virtual machine in c
+- [mac](https://github.com/felixangell/mac) - bytecode interpreter in c (blog post)
 - [illumos-gate](https://github.com/illumos/illumos-gate) - An open-source Unix operating system
 - [muon](https://github.com/nickmqb/muon) - Modern low-level programming language
 - [coz](https://github.com/plasma-umass/coz) - Coz: Causal Profiling
@@ -252,6 +252,7 @@
 
 ## Go 
 
+- [raft](https://github.com/hashicorp/raft) - Golang implementation of the Raft consensus protocol
 - [casbin-raft](https://github.com/dovics/casbin-raft) - Use raft to ensure the consistency of casbin
 - [bolt](https://github.com/boltdb/bolt) - An embedded key/value database for Go.
 - [dgraph](https://github.com/dgraph-io/dgraph) - Fast, Distributed Graph DB
@@ -433,6 +434,7 @@
 
 ## Others 
 
+- [raft-zh_cn](https://github.com/maemual/raft-zh_cn) - Raft一致性算法论文的中文翻译
 - [games201](https://github.com/taichi-dev/games201) - Advanced Physics Engines 2020: A Hands-on Tutorial
 - [rust-learning](https://github.com/ctjhoa/rust-learning) - A bunch of links to blog posts, articles, videos, etc for learning Rust
 - [evm-opcodes](https://github.com/crytic/evm-opcodes) - Ethereum opcodes and instruction reference
@@ -661,6 +663,10 @@
 
 ## Rust 
 
+- [raft-engine](https://github.com/tikv/raft-engine) - A WAL-is-data engine that used to store multi-raft log
+- [sawtooth-raft](https://github.com/hyperledger/sawtooth-raft) - 
+- [raft-rs](https://github.com/tikv/raft-rs) - Raft distributed consensus algorithm implemented in Rust.
+- [ralf](https://github.com/Xide/ralf) - Distributed state machine built on top of raft-rs
 - [rust-raftkv](https://github.com/siddontang/rust-raftkv) - A simple distributed consistent key-value store with Raft and Rust
 - [emu6](https://github.com/luojia65/emu6) - Multi-arch instruction set simulator that is 6666. Contributions welcomed!
 - [path-tree](https://github.com/viz-rs/path-tree) - path-tree is a lightweight high performance HTTP request router for Rust

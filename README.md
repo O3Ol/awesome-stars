@@ -701,7 +701,7 @@
 - [gluon](https://github.com/gluon-lang/gluon) - A static, type inferred and embeddable language written in Rust.
 - [book](https://github.com/actix/book) - Actix user guides
 - [tock](https://github.com/tock/tock) - A secure embedded operating system for microcontrollers
-- [stork](https://github.com/jameslittle230/stork) - Impossibly fast web search, made for static sites.
+- [stork](https://github.com/jameslittle230/stork) - 🔎 Impossibly fast web search, made for static sites.
 - [awesome-rust](https://github.com/rust-unofficial/awesome-rust) - A curated list of Rust code and resources.
 - [cheats.rs](https://github.com/ralfbiedert/cheats.rs) - Rust Language Cheat Sheet - https://cheats.rs
 - [saphir](https://github.com/richerarc/saphir) - Fully async-await http server framework

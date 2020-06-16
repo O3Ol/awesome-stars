@@ -67,6 +67,7 @@
 
 ## C 
 
+- [wlang](https://github.com/rsms/wlang) - 
 - [mallocng-draft](https://github.com/richfelker/mallocng-draft) - Working draft of nextgen malloc implementation for musl libc
 - [horse64](https://github.com/horse64/horse64) - An elegant & comprehensive high-level programming language.
 - [uSockets](https://github.com/uNetworking/uSockets) - Miniscule cross-platform eventing, networking & crypto for async applications

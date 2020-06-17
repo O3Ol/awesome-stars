@@ -738,7 +738,7 @@
 - [xorf](https://github.com/ayazhafiz/xorf) - Xor filters - efficient probabilistic hashsets. Faster and smaller than bloom and cuckoo filters.
 - [talent-plan](https://github.com/pingcap/talent-plan) - open source training courses about distributed database and distributed systemes
 - [sled](https://github.com/spacejam/sled) - the champagne of beta embedded databases
-- [tinysearch](https://github.com/mre/tinysearch) - 🔍 Tiny, full-text search engine for static websites built with Rust and WASM
+- [tinysearch](https://github.com/mre/tinysearch) - 🔍 Tiny, full-text search engine for static websites built with Rust and Wasm
 - [examples](https://github.com/actix/examples) - Actix web examples
 - [esp32](https://github.com/esp-rs/esp32) - Peripheral access crate for the ESP32
 - [svd2rust](https://github.com/rust-embedded/svd2rust) - Generate Rust register maps (`struct`s) from SVD files
@@ -831,7 +831,7 @@
 ## SystemVerilog 
 
 - [ibex](https://github.com/lowRISC/ibex) - Ibex is a small 32 bit RISC-V CPU core (RV32IMC/EMC) with a two stage pipeline, previously known as zero-riscy.
-- [ariane](https://github.com/pulp-platform/ariane) - Ariane is a 6-stage RISC-V CPU capable of booting Linux
+- [cva6](https://github.com/openhwgroup/cva6) - The CORE-V CVA6 is an Application class 6-stage RISC-V CPU capable of booting Linux
 
 ## TSQL 
 

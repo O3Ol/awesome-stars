@@ -435,6 +435,7 @@
 
 ## Others 
 
+- [blockchain-papers](https://github.com/decrypto-org/blockchain-papers) - A curated list of academic blockchain-related papers
 - [raft-zh_cn](https://github.com/maemual/raft-zh_cn) - Raft一致性算法论文的中文翻译
 - [games201](https://github.com/taichi-dev/games201) - Advanced Physics Engines 2020: A Hands-on Tutorial
 - [rust-learning](https://github.com/ctjhoa/rust-learning) - A bunch of links to blog posts, articles, videos, etc for learning Rust
@@ -679,7 +680,7 @@
 - [inkwell](https://github.com/TheDan64/inkwell) - It's a New Kind of Wrapper for Exposing LLVM (Safely)
 - [fantom-rust-vm](https://github.com/Fantom-foundation/fantom-rust-vm) - Register-based Ethereum VM implementation in Rust
 - [rsc](https://github.com/cgswords/rsc) - Rust-based Scheme Compiler, written in the Nanopass style
-- [Waffle](https://github.com/jazz-lang/Waffle) - Runtime with fast GC and easy concurrency.
+- [WaffleLink](https://github.com/jazz-lang/WaffleLink) - Runtime with fast GC and easy concurrency.
 - [ckb-vm](https://github.com/nervosnetwork/ckb-vm) - CKB's vm, based on open source RISC-V ISA
 - [LemonVM](https://github.com/LemonVM/LemonVM) - A Register Based VM. 柠檬手写的看起来像栈机的寄存器机
 - [linefeed](https://github.com/murarth/linefeed) - Configurable, extensible, interactive line reader
@@ -738,7 +739,7 @@
 - [xorf](https://github.com/ayazhafiz/xorf) - Xor filters - efficient probabilistic hashsets. Faster and smaller than bloom and cuckoo filters.
 - [talent-plan](https://github.com/pingcap/talent-plan) - open source training courses about distributed database and distributed systemes
 - [sled](https://github.com/spacejam/sled) - the champagne of beta embedded databases
-- [tinysearch](https://github.com/mre/tinysearch) - 🔍 Tiny, full-text search engine for static websites built with Rust and Wasm
+- [tinysearch](https://github.com/tinysearch/tinysearch) - 🔍 Tiny, full-text search engine for static websites built with Rust and Wasm
 - [examples](https://github.com/actix/examples) - Actix web examples
 - [esp32](https://github.com/esp-rs/esp32) - Peripheral access crate for the ESP32
 - [svd2rust](https://github.com/rust-embedded/svd2rust) - Generate Rust register maps (`struct`s) from SVD files
@@ -804,7 +805,7 @@
 - [swarmlet](https://github.com/swarmlet/swarmlet) - A self-hosted, open-source Platform as a Service that enables easy swarm deployments, load balancing, automatic SSL, metrics, analytics and more.
 - [scripts-to-rule-them-all](https://github.com/github/scripts-to-rule-them-all) - Scripts to Rule Them All
 - [hacker-laws](https://github.com/dwmkerr/hacker-laws) - 💻📖 Laws, Theories, Principles and Patterns that developers will find useful. #hackerlaws
-- [xsk](https://github.com/ellbrid/xsk) - CMS and Web Server written in ShellScript
+- [xsk](https://github.com/o8vm/xsk) - CMS and Web Server written in ShellScript
 - [bocker](https://github.com/p8952/bocker) - Docker implemented in around 100 lines of bash
 - [tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
 - [dokku](https://github.com/dokku/dokku) - A docker-powered PaaS that helps you build and manage the lifecycle of applications

@@ -327,7 +327,7 @@
 - [hapi](https://github.com/hapijs/hapi) - The Simple, Secure Framework Developers Trust
 - [AutoKnowledge](https://github.com/GuitarmonYz/AutoKnowledge) - a full-stack bundle of a implementation of knowledge graph with graph database, using VUE, Echarts, Django, Neo4j
 - [playwright](https://github.com/microsoft/playwright) - Node library to automate Chromium, Firefox and WebKit with a single API
-- [snowpack](https://github.com/pikapkg/snowpack) - ☶ A faster build system for the modern web.
+- [snowpack](https://github.com/pikapkg/snowpack) - ☶ The Instant dev environment for modern JavaScript. A faster build system for the modern web.
 - [community-edition](https://github.com/ramboxapp/community-edition) - Free and Open Source messaging and emailing app that combines common web applications into one.
 - [degoogle](https://github.com/tycrek/degoogle) - A huge list of alternatives to Google products. Privacy tips, tricks, and links.
 - [1on1-questions](https://github.com/VGraupera/1on1-questions) - Mega list of 1 on 1 meeting questions compiled from a variety to sources
@@ -855,7 +855,7 @@
 
 ## TypeScript 
 
-- [simplenote-electron](https://github.com/Automattic/simplenote-electron) - A Simplenote React app packaged via Electron for Windows and Linux
+- [simplenote-electron](https://github.com/Automattic/simplenote-electron) - Simplenote for Web, Windows, and Linux
 - [github-action-benchmark](https://github.com/rhysd/github-action-benchmark) - GitHub Action for continuous benchmarking to keep performance
 - [excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 - [ts-llvm](https://github.com/ts-llvm/ts-llvm) - Work-in-progress TypeScript to LLVM compiler
@@ -865,7 +865,7 @@
 - [destiny](https://github.com/benawad/destiny) - Prettier for File Structures
 - [sigi](https://github.com/sigi-framework/sigi) - Well designed effect management framenwork for complex frontend app
 - [rust-playground](https://github.com/integer32llc/rust-playground) - The Rust Playground
-- [webiny-js](https://github.com/webiny/webiny-js) - Platform for building serverless applications and API (Node.js, React, GraphQL)
+- [webiny-js](https://github.com/webiny/webiny-js) - Platform for building serverless applications and APIs (Node.js, React, GraphQL)
 - [bigdata-playground](https://github.com/Chabane/bigdata-playground) - A complete example of a big data application using : Kubernetes (kops/aws), Apache Spark SQL/Streaming/MLib, Apache Flink, Scala, Python, Apache Kafka, Apache Hbase, Apache Parquet, Apache Avro, Apache Storm, Twitter Api, MongoDB, NodeJS, Angular, GraphQL
 - [nest](https://github.com/nestjs/nest) - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications on top of TypeScript & JavaScript (ES6, ES7, ES8) 🚀
 - [frontend-bootcamp](https://github.com/microsoft/frontend-bootcamp) - Frontend Workshop from HTML/CSS/JS to TypeScript/React/Redux

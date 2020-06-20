@@ -158,6 +158,7 @@
 
 ## C++ 
 
+- [mace](https://github.com/XiaoMi/mace) - MACE is a deep learning inference framework optimized for mobile heterogeneous computing platforms.
 - [EAStdC](https://github.com/electronicarts/EAStdC) - EAStdC is a package which implements basic library facilities that are similar to those in the standard C library.
 - [GW-BASIC](https://github.com/microsoft/GW-BASIC) - The original source code of Microsoft GW-BASIC from 1983
 - [winget-cli](https://github.com/microsoft/winget-cli) - Windows Package Manager CLI (aka winget)

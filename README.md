@@ -16,6 +16,7 @@
   - [Clojure](#clojure)
   - [CoffeeScript](#coffeescript)
   - [Crystal](#crystal)
+  - [D](#d)
   - [Dart](#dart)
   - [Dockerfile](#dockerfile)
   - [Emacs Lisp](#emacs-lisp)
@@ -235,12 +236,17 @@
 - [kemal](https://github.com/kemalcr/kemal) - Fast, Effective, Simple Web Framework
 - [crystal](https://github.com/crystal-lang/crystal) - The Crystal Programming Language
 
+## D 
+
+- [silq](https://github.com/eth-sri/silq) - 
+
 ## Dart 
 
 - [flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond.
 
 ## Dockerfile 
 
+- [rust-esp-container](https://github.com/ctron/rust-esp-container) - Container image with pre-built rust compiler for ESP32/ESP8266
 - [essays-on-data-science](https://github.com/ericmjl/essays-on-data-science) - In which I put together my thoughts on the practice of data science.
 
 ## Emacs Lisp 
@@ -667,6 +673,7 @@
 
 ## Rust 
 
+- [xtra](https://github.com/Restioson/xtra) - 🎭 A tiny actor framework
 - [raft-engine](https://github.com/tikv/raft-engine) - A WAL-is-data engine that used to store multi-raft log
 - [sawtooth-raft](https://github.com/hyperledger/sawtooth-raft) - 
 - [raft-rs](https://github.com/tikv/raft-rs) - Raft distributed consensus algorithm implemented in Rust.

@@ -674,6 +674,9 @@
 
 ## Rust 
 
+- [pulldown-cmark](https://github.com/raphlinus/pulldown-cmark) - 
+- [mask](https://github.com/jakedeichert/mask) - 🎭 A CLI task runner defined by a simple markdown file
+- [toydb](https://github.com/erikgrinaker/toydb) - Distributed SQL database in Rust, written as a learning project
 - [xtra](https://github.com/Restioson/xtra) - 🎭 A tiny actor framework
 - [raft-engine](https://github.com/tikv/raft-engine) - A WAL-is-data engine that used to store multi-raft log
 - [sawtooth-raft](https://github.com/hyperledger/sawtooth-raft) - 

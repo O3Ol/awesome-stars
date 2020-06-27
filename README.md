@@ -68,6 +68,7 @@
 
 ## C 
 
+- [c-vector](https://github.com/eteran/c-vector) - A dynamic array implementation in C similar to the one found in standard C++
 - [liballoc](https://github.com/blanham/liballoc) - liballoc - a memory allocator for hobbyist operating systems
 - [wlang](https://github.com/rsms/wlang) - 
 - [mallocng-draft](https://github.com/richfelker/mallocng-draft) - Working draft of nextgen malloc implementation for musl libc
@@ -336,7 +337,7 @@
 - [hapi](https://github.com/hapijs/hapi) - The Simple, Secure Framework Developers Trust
 - [AutoKnowledge](https://github.com/GuitarmonYz/AutoKnowledge) - a full-stack bundle of a implementation of knowledge graph with graph database, using VUE, Echarts, Django, Neo4j
 - [playwright](https://github.com/microsoft/playwright) - Node library to automate Chromium, Firefox and WebKit with a single API
-- [snowpack](https://github.com/pikapkg/snowpack) - ☶ The Instant dev environment for modern JavaScript. A faster build system for the modern web.
+- [snowpack](https://github.com/pikapkg/snowpack) - The near-instant build tool for modern web apps.
 - [community-edition](https://github.com/ramboxapp/community-edition) - Free and Open Source messaging and emailing app that combines common web applications into one.
 - [degoogle](https://github.com/tycrek/degoogle) - A huge list of alternatives to Google products. Privacy tips, tricks, and links.
 - [1on1-questions](https://github.com/VGraupera/1on1-questions) - Mega list of 1 on 1 meeting questions compiled from a variety to sources
@@ -674,6 +675,7 @@
 
 ## Rust 
 
+- [bastion](https://github.com/bastion-rs/bastion) - Highly-available Distributed Fault-tolerant Runtime
 - [pulldown-cmark](https://github.com/raphlinus/pulldown-cmark) - 
 - [mask](https://github.com/jakedeichert/mask) - 🎭 A CLI task runner defined by a simple markdown file
 - [toydb](https://github.com/erikgrinaker/toydb) - Distributed SQL database in Rust, written as a learning project

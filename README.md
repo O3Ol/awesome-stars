@@ -70,7 +70,7 @@
 
 - [c-vector](https://github.com/eteran/c-vector) - A dynamic array implementation in C similar to the one found in standard C++
 - [liballoc](https://github.com/blanham/liballoc) - liballoc - a memory allocator for hobbyist operating systems
-- [wlang](https://github.com/rsms/wlang) - 
+- [wlang](https://github.com/rsms/wlang) - Programming language in development
 - [mallocng-draft](https://github.com/richfelker/mallocng-draft) - Working draft of nextgen malloc implementation for musl libc
 - [horse64](https://github.com/horse64/horse64) - An elegant & comprehensive high-level programming language.
 - [uSockets](https://github.com/uNetworking/uSockets) - Miniscule cross-platform eventing, networking & crypto for async applications

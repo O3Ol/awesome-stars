@@ -30,6 +30,7 @@
   - [Jupyter Notebook](#jupyter-notebook)
   - [Lua](#lua)
   - [Makefile](#makefile)
+  - [Markdown](#markdown)
   - [OCaml](#ocaml)
   - [Others](#others)
   - [PHP](#php)
@@ -133,7 +134,6 @@
 - [c4](https://github.com/rswier/c4) - C in four functions
 - [manticore](https://github.com/manticoreos/manticore) - Manticore is a research operating system, written in Rust.
 - [TencentOS-tiny](https://github.com/Tencent/TencentOS-tiny) - 腾讯物联网终端操作系统
-- [ucore_os_lab](https://github.com/chyyuu/ucore_os_lab) - https://chyyuu.gitbooks.io/ucore_os_docs/content
 - [ibus-rime](https://github.com/rime/ibus-rime) - 【中州韻】Rime for Linux/IBus
 - [clox](https://github.com/jalalmostafa/clox) - A virtual machine and a tree-walk interpreter for the Lox programming language in C89 :cyclone:
 - [xv6-public](https://github.com/mit-pdos/xv6-public) - xv6 OS
@@ -213,11 +213,10 @@
 
 ## CSS 
 
-- [foam](https://github.com/foambubble/foam) - A personal knowledge management and sharing system for VSCode
 - [course-starter-python](https://github.com/ines/course-starter-python) - 👩‍🏫🐍 Starter repo for building interactive Python courses
 - [ocaml-book](https://github.com/dmbaturin/ocaml-book) - A free culture OCaml textbook
 - [the-unix-workbench](https://github.com/seankross/the-unix-workbench) - :house_with_garden: A Book for Anyone to Get Started with Unix
-- [rubble](https://github.com/Kilerd/rubble) - a lightweight blog engine written by Rust.
+- [rubble](https://github.com/Kilerd/rubble) - a lightweight blog engine written in Rust.
 - [2019-Slides](https://github.com/PyConChina/2019-Slides) - PyCon China 2019 幻灯片
 - [stylesheet](https://github.com/elementary/stylesheet) - The GTK Stylesheet for elementary OS
 - [css](https://github.com/primer/css) - The CSS design system that powers GitHub
@@ -440,6 +439,10 @@
 - [lc3-vm](https://github.com/justinmeiners/lc3-vm) - Write your own virtual machine for the LC-3 computer!
 - [LearningLinuxKernel](https://github.com/ljrcore/LearningLinuxKernel) - 和我一起学习Linux内核吧
 - [redox](https://github.com/redox-os/redox) - Mirror of https://gitlab.redox-os.org/redox-os/redox
+
+## Markdown 
+
+- [foam](https://github.com/foambubble/foam) - A personal knowledge management and sharing system for VSCode
 
 ## OCaml 
 
@@ -773,6 +776,7 @@
 - [actix-realworld-example-app](https://github.com/fairingrey/actix-realworld-example-app) - Implementation of the RealWorld backend API spec in Actix, Rust's powerful actor system and most fun web framework.
 - [libhermit-rs](https://github.com/hermitcore/libhermit-rs) - libhermit-rs: A Rust-based library operting system
 - [halt](https://github.com/augustl/halt) - OS where everything is immutable! (Experimental)
+- [os_kernel_lab](https://github.com/chyyuu/os_kernel_lab) - OS kernel labs based on Rust Lang & RISC-V 64
 - [WASI](https://github.com/WebAssembly/WASI) - WebAssembly System Interface
 - [RuSh](https://github.com/lwandrebeck/RuSh) - RuSh aims to be a bash compatible shell with candies, written in Rust.
 - [rustyline](https://github.com/kkawakam/rustyline) - Readline Implementation in Rust

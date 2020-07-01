@@ -145,7 +145,7 @@
 - [graffiti](https://github.com/cztomsik/graffiti) - Web-like GUI toolkit for node.js with minimal overhead. Lightweight, GPU-rendered alternative to electron.
 - [zathura](https://github.com/pwmt/zathura) - a document viewer
 - [luna](https://github.com/tj/luna) - luna programming language - a small, elegant VM implemented in C
-- [redis](https://github.com/antirez/redis) - Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs, Bitmaps.
+- [redis](https://github.com/redis-io/redis) - Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs, Bitmaps.
 - [tectonic](https://github.com/tectonic-typesetting/tectonic) - A modernized, complete, self-contained TeX/LaTeX engine, powered by XeTeX and TeXLive.
 - [lua](https://github.com/lua/lua) - The Lua repo, as seen by the Lua team. Mirrored irregularly. Please DO NOT send pull requests. Send issues/patches to the Lua mailing list https://www.lua.org/lua-l.html
 - [mpc](https://github.com/orangeduck/mpc) - A Parser Combinator library for C
@@ -264,6 +264,7 @@
 
 ## Go 
 
+- [build-web-application-with-golang](https://github.com/astaxie/build-web-application-with-golang) - A golang ebook intro how to build a web with golang
 - [raft](https://github.com/hashicorp/raft) - Golang implementation of the Raft consensus protocol
 - [casbin-raft](https://github.com/dovics/casbin-raft) - Use raft to ensure the consistency of casbin
 - [bolt](https://github.com/boltdb/bolt) - An embedded key/value database for Go.
@@ -532,7 +533,7 @@
 - [algorithms](https://github.com/jeffgerickson/algorithms) - Bug-tracking for Jeff's algorithms book, notes, etc.
 - [A-Programmers-Guide-to-English](https://github.com/yujiangshui/A-Programmers-Guide-to-English) - 专为程序员编写的英语学习指南 v1.2。在线版本请点 -&gt;
 - [FinancialSupportForOpenSource](https://github.com/wizicer/FinancialSupportForOpenSource) - 开源项目挣钱实用手册
-- [every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) - A collection of (mostly) technical things every software developer should know
+- [every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) - A collection of (mostly) technical things every software developer should know about
 - [rework](https://github.com/livid/rework) - Rework Chinese Translation Project
 - [ds-tutorials](https://github.com/likethereisnobox/ds-tutorials) - 
 - [Front-End-Performance-Checklist](https://github.com/thedaviddias/Front-End-Performance-Checklist) - 🎮 The only Front-End Performance Checklist that runs faster than the others
@@ -680,6 +681,7 @@
 
 ## Rust 
 
+- [rstar](https://github.com/Stoeoef/rstar) - R*-tree library for the rust ecosystem
 - [bastion](https://github.com/bastion-rs/bastion) - Highly-available Distributed Fault-tolerant Runtime
 - [pulldown-cmark](https://github.com/raphlinus/pulldown-cmark) - 
 - [mask](https://github.com/jakedeichert/mask) - 🎭 A CLI task runner defined by a simple markdown file

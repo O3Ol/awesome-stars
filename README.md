@@ -680,6 +680,9 @@
 
 ## Rust 
 
+- [tarpc](https://github.com/google/tarpc) - An RPC framework for Rust with a focus on ease of use.
+- [exemd](https://github.com/phodal/exemd) - a markdown executor, make markdown executable.  support for Kotlin, Java, Golang, Rust, Ruby, Python, JavaScript, TypeScript, PHP, Bash....
+- [tokio-tungstenite](https://github.com/snapview/tokio-tungstenite) - Tokio binding for Tungstenite, the Lightweight stream-based WebSocket implementation
 - [rstar](https://github.com/Stoeoef/rstar) - R*-tree library for the rust ecosystem
 - [bastion](https://github.com/bastion-rs/bastion) - Highly-available Distributed Fault-tolerant Runtime
 - [pulldown-cmark](https://github.com/raphlinus/pulldown-cmark) - 

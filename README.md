@@ -30,7 +30,6 @@
   - [Jupyter Notebook](#jupyter-notebook)
   - [Lua](#lua)
   - [Makefile](#makefile)
-  - [Markdown](#markdown)
   - [OCaml](#ocaml)
   - [Others](#others)
   - [PHP](#php)
@@ -69,6 +68,7 @@
 
 ## C 
 
+- [numpy](https://github.com/numpy/numpy) - The fundamental package for scientific computing with Python.
 - [c-vector](https://github.com/eteran/c-vector) - A dynamic array implementation in C similar to the one found in standard C++
 - [liballoc](https://github.com/blanham/liballoc) - liballoc - a memory allocator for hobbyist operating systems
 - [wlang](https://github.com/rsms/wlang) - Programming language in development
@@ -439,10 +439,6 @@
 - [lc3-vm](https://github.com/justinmeiners/lc3-vm) - Write your own virtual machine for the LC-3 computer!
 - [LearningLinuxKernel](https://github.com/ljrcore/LearningLinuxKernel) - 和我一起学习Linux内核吧
 - [redox](https://github.com/redox-os/redox) - Mirror of https://gitlab.redox-os.org/redox-os/redox
-
-## Markdown 
-
-- [foam](https://github.com/foambubble/foam) - A personal knowledge management and sharing system for VSCode
 
 ## OCaml 
 
@@ -881,6 +877,7 @@
 
 ## TypeScript 
 
+- [foam](https://github.com/foambubble/foam) - A personal knowledge management and sharing system for VSCode
 - [simplenote-electron](https://github.com/Automattic/simplenote-electron) - Simplenote for Web, Windows, and Linux
 - [github-action-benchmark](https://github.com/rhysd/github-action-benchmark) - GitHub Action for continuous benchmarking to keep performance
 - [excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams

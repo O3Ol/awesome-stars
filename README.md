@@ -677,6 +677,8 @@
 
 ## Rust 
 
+- [raftfwk](https://github.com/blackredscarf/raftfwk) - A framework of distribution consensus algorithm Raft written in Rust.
+- [nushell](https://github.com/nushell/nushell) - A new type of shell
 - [tarpc](https://github.com/google/tarpc) - An RPC framework for Rust with a focus on ease of use.
 - [exemd](https://github.com/phodal/exemd) - a markdown executor, make markdown executable.  support for Kotlin, Java, Golang, Rust, Ruby, Python, JavaScript, TypeScript, PHP, Bash....
 - [tokio-tungstenite](https://github.com/snapview/tokio-tungstenite) - Tokio binding for Tungstenite, the Lightweight stream-based WebSocket implementation

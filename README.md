@@ -150,7 +150,6 @@
 - [tectonic](https://github.com/tectonic-typesetting/tectonic) - A modernized, complete, self-contained TeX/LaTeX engine, powered by XeTeX and TeXLive.
 - [lua](https://github.com/lua/lua) - The Lua repo, as seen by the Lua team. Mirrored irregularly. Please DO NOT send pull requests. Send issues/patches to the Lua mailing list https://www.lua.org/lua-l.html
 - [mpc](https://github.com/orangeduck/mpc) - A Parser Combinator library for C
-- [zju-icicles](https://github.com/QSCTech/zju-icicles) - 浙江大学课程攻略共享计划
 - [db_tutorial](https://github.com/cstack/db_tutorial) - Writing a sqlite clone from scratch in C
 - [nnn](https://github.com/jarun/nnn) - n³ The missing terminal file manager for X.
 - [os-tutorial](https://github.com/cfenollosa/os-tutorial) - How to create an OS from scratch
@@ -269,7 +268,7 @@
 
 - [build-web-application-with-golang](https://github.com/astaxie/build-web-application-with-golang) - A golang ebook intro how to build a web with golang
 - [raft](https://github.com/hashicorp/raft) - Golang implementation of the Raft consensus protocol
-- [casbin-raft](https://github.com/dovics/casbin-raft) - Use raft to ensure the consistency of casbin
+- [casbin-raft-2](https://github.com/dovics/casbin-raft-2) - Use raft to ensure the consistency of casbin
 - [bolt](https://github.com/boltdb/bolt) - An embedded key/value database for Go.
 - [dgraph](https://github.com/dgraph-io/dgraph) - Fast, Distributed Graph DB
 - [traefik](https://github.com/containous/traefik) - The Cloud Native Edge Router
@@ -295,6 +294,7 @@
 - [ai-edu](https://github.com/microsoft/ai-edu) - AI education materials for Chinese students, teachers and IT professionals.
 - [design-blocks](https://github.com/froala/design-blocks) - A set of 170+ Bootstrap based design blocks ready to be used to create clean modern websites.
 - [blog_os](https://github.com/phil-opp/blog_os) - Writing an OS in Rust
+- [zju-icicles](https://github.com/QSCTech/zju-icicles) - 浙江大学课程攻略共享计划
 - [awesome-modern-cpp](https://github.com/rigtorp/awesome-modern-cpp) - A collection of resources on modern C++
 - [aosabook](https://github.com/aosabook/aosabook) - The Architecture of Open Source Applications
 - [BuildYourOwnLisp](https://github.com/orangeduck/BuildYourOwnLisp) - Learn C and build your own programming language in under 1000 lines of code!
@@ -678,6 +678,7 @@
 
 ## Rust 
 
+- [tauri](https://github.com/tauri-apps/tauri) - Framework agnostic toolchain for building highly secure native apps that have tiny binaries and are very fast.
 - [Toshi](https://github.com/toshi-search/Toshi) - A full-text search engine in rust
 - [raftfwk](https://github.com/blackredscarf/raftfwk) - A framework of distribution consensus algorithm Raft written in Rust.
 - [nushell](https://github.com/nushell/nushell) - A new type of shell
@@ -882,6 +883,7 @@
 
 ## TypeScript 
 
+- [knboard](https://github.com/rrebase/knboard) - Kanban boards with React & Django.
 - [foam](https://github.com/foambubble/foam) - A personal knowledge management and sharing system for VSCode
 - [simplenote-electron](https://github.com/Automattic/simplenote-electron) - Simplenote for Web, Windows, and Linux
 - [github-action-benchmark](https://github.com/rhysd/github-action-benchmark) - GitHub Action for continuous benchmarking to keep performance

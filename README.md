@@ -99,7 +99,7 @@
 - [minunit](https://github.com/siu/minunit) - Minimal unit testing framework for C
 - [Unity](https://github.com/ThrowTheSwitch/Unity) - Simple Unit Testing for C
 - [write_a_c_compiler](https://github.com/nlsandler/write_a_c_compiler) - Test suite to help you write your own C compiler
-- [Tagha](https://github.com/assyrianic/Tagha) - Minimal, fast, and self-contained register-based virtual machine-based runtime environment for the C programming language.
+- [Tagha](https://github.com/Nirari-Technologies/Tagha) - Minimal, fast, and self-contained register-based virtual machine-based runtime environment for the C programming language.
 - [bytecode-interpreters-post](https://github.com/vkazanov/bytecode-interpreters-post) - A few basic bytecode interpreters used as example code in a series of articles
 - [Crossline](https://github.com/jcwangxp/Crossline) - A small, self-contained, zero-config, MIT licensed, cross-platform, readline and libedit replacement.
 - [lalloc](https://github.com/cloudwu/lalloc) - A allocator  for lua
@@ -270,7 +270,7 @@
 - [raft](https://github.com/hashicorp/raft) - Golang implementation of the Raft consensus protocol
 - [casbin-raft-2](https://github.com/dovics/casbin-raft-2) - Use raft to ensure the consistency of casbin
 - [bolt](https://github.com/boltdb/bolt) - An embedded key/value database for Go.
-- [dgraph](https://github.com/dgraph-io/dgraph) - Fast, Distributed Graph DB
+- [dgraph](https://github.com/dgraph-io/dgraph) - Native GraphQL Database with graph backend
 - [traefik](https://github.com/containous/traefik) - The Cloud Native Edge Router
 - [cayley](https://github.com/cayleygraph/cayley) - An open-source graph database
 - [glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻

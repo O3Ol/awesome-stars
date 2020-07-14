@@ -268,7 +268,6 @@
 
 - [build-web-application-with-golang](https://github.com/astaxie/build-web-application-with-golang) - A golang ebook intro how to build a web with golang
 - [raft](https://github.com/hashicorp/raft) - Golang implementation of the Raft consensus protocol
-- [casbin-raft-2](https://github.com/dovics/casbin-raft-2) - Use raft to ensure the consistency of casbin
 - [bolt](https://github.com/boltdb/bolt) - An embedded key/value database for Go.
 - [dgraph](https://github.com/dgraph-io/dgraph) - Native GraphQL Database with graph backend
 - [traefik](https://github.com/containous/traefik) - The Cloud Native Edge Router
@@ -565,7 +564,7 @@
 - [QASystemOnMedicalKG](https://github.com/liuhuanyong/QASystemOnMedicalKG) - A tutorial and implement of disease centered Medical knowledge graph and qa system based on it。知识图谱构建，自动问答，基于kg的自动问答。以疾病为中心的一定规模医药领域知识图谱，并以该知识图谱完成自动问答与分析服务。
 - [kedro](https://github.com/quantumblacklabs/kedro) - A Python library that implements software engineering best-practice for data and ML pipelines.
 - [datasette](https://github.com/simonw/datasette) - An open source multi-tool for exploring and publishing data
-- [interview_internal_reference](https://github.com/0voice/interview_internal_reference) - 2019年最新总结，阿里，腾讯，百度，美团，头条等技术面试题目，以及答案，专家出题人分析汇总。
+- [interview_internal_reference](https://github.com/0voice/interview_internal_reference) - 2020年最新总结，阿里，腾讯，百度，美团，头条等技术面试题目，以及答案，专家出题人分析汇总。
 - [system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 - [fastapi-realworld-example-app](https://github.com/nsidnev/fastapi-realworld-example-app) - Backend logic implementation for https://github.com/gothinkster/realworld with awesome FastAPI
 - [Google-Kick-Start](https://github.com/Harmon758/Google-Kick-Start) - Google Kick Start
@@ -634,6 +633,7 @@
 - [tf-end-to-end](https://github.com/OMR-Research/tf-end-to-end) - TensorFlow code to perform end-to-end Optical Music Recognition on monophonic scores through Convolutional Recurrent Neural Networks and CTC-based training.
 - [rust-python-example](https://github.com/rochacbruno/rust-python-example) - Example of using Rust to Extend Python
 - [llvmlite](https://github.com/numba/llvmlite) - A lightweight LLVM python binding for writing JIT compilers
+- [book](https://github.com/crypto101/book) - Crypto 101, the introductory book on cryptography.
 - [Python](https://github.com/geekcomputers/Python) - My Python Examples
 - [flask](https://github.com/pallets/flask) - The Python micro framework for building web applications.
 - [uvicorn](https://github.com/encode/uvicorn) - The lightning-fast ASGI server. 🦄
@@ -678,6 +678,9 @@
 
 ## Rust 
 
+- [kv-service-with-libs](https://github.com/5kbpers/kv-service-with-libs) - Implement 6.824 lab2 & lab3 with ​grpc-rs​ & ​raft-rs​ & ​rust-rocksdb
+- [tox](https://github.com/tox-rs/tox) - toxcore implementation in Rust
+- [howrate](https://github.com/Libbum/howrate) - Distributed uptime notification system
 - [tauri](https://github.com/tauri-apps/tauri) - Framework agnostic toolchain for building highly secure native apps that have tiny binaries and are very fast.
 - [Toshi](https://github.com/toshi-search/Toshi) - A full-text search engine in rust
 - [raftfwk](https://github.com/blackredscarf/raftfwk) - A framework of distribution consensus algorithm Raft written in Rust.
@@ -872,7 +875,6 @@
 - [AlgoXY](https://github.com/liuxinyu95/AlgoXY) - Book of Elementary Algorithms and Data structures
 - [unplugged](https://github.com/liuxinyu95/unplugged) - Open book about math and computer science.
 - [Operating-Systems-and-Middleware--Supporting-Controlled-Interaction](https://github.com/Max-Hailperin/Operating-Systems-and-Middleware--Supporting-Controlled-Interaction) - free, modifiable textbook on operating systems principles (Creative Commons)
-- [book](https://github.com/crypto101/book) - Crypto 101, the introductory book on cryptography.
 - [fsfs-zh](https://github.com/beijinglug/fsfs-zh) - Chinese translation for "Free Software, Free Society"(3rd)
 - [ods](https://github.com/spinute/ods) - Open Data Structures の日本語ソースコード
 - [OperatingSystems.ThreeEasyPieces](https://github.com/EmbedXj/OperatingSystems.ThreeEasyPieces) - Chinese edition of Operating Systems .Three Easy Pieces

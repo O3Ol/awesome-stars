@@ -68,6 +68,7 @@
 
 ## C 
 
+- [StepFC](https://github.com/dustpg/StepFC) - Make FC(NES) Emulator Step-by-Step 一步一步模拟红白机
 - [mpc-hc](https://github.com/clsid2/mpc-hc) - Media Player Classic
 - [numpy](https://github.com/numpy/numpy) - The fundamental package for scientific computing with Python.
 - [c-vector](https://github.com/eteran/c-vector) - A dynamic array implementation in C similar to the one found in standard C++
@@ -161,6 +162,7 @@
 
 ## C++ 
 
+- [LearnOpenGL](https://github.com/JoeyDeVries/LearnOpenGL) - Code repository of all OpenGL chapters from the book and its accompanying website https://learnopengl.com
 - [tinyrenderer](https://github.com/ssloy/tinyrenderer) - A brief computer graphics / rendering course
 - [learning-v8](https://github.com/danbev/learning-v8) - Project for learning V8 internals
 - [RISCV-Simulator](https://github.com/skyzh/RISCV-Simulator) - 💻 RISC-V Simulator of RV32I ISA. 5-stage pipeline / out-of-order execution with Tomasulo algorithm and Speculation. Support runtime visualization. Project report available.
@@ -198,7 +200,7 @@
 - [Stacer](https://github.com/oguzhaninan/Stacer) - Linux System Optimizer and Monitoring - https://oguzhaninan.github.io/Stacer-Web
 - [simdjson](https://github.com/simdjson/simdjson) - Parsing gigabytes of JSON per second
 - [tinymoe](https://github.com/vczh/tinymoe) - English-like dynamic typing programming language
-- [Algorithms](https://github.com/VAR-solutions/Algorithms) - Efficient Algorithms
+- [Algorithms](https://github.com/VAR-solutions/Algorithms) - A repository of different Algorithms and Data Structures implemented in many programming languages.
 - [Reader](https://github.com/CryFeiFei/Reader) - Reader for PDF，use Qt5 and Poppler
 - [cpputest](https://github.com/cpputest/cpputest) - CppUTest unit testing and mocking framework for C/C++
 - [zeal](https://github.com/zealdocs/zeal) - Offline documentation browser inspired by Dash
@@ -666,7 +668,7 @@
 
 ## Ruby 
 
-- [dev.to](https://github.com/thepracticaldev/dev.to) - Where programmers share ideas and help each other grow
+- [forem](https://github.com/forem/forem) - “For empowering community”
 - [chatwoot](https://github.com/chatwoot/chatwoot) - Open-source live chat software 🔥💬
 - [fresh](https://github.com/freshshell/fresh) - Keep your dotfiles fresh.
 - [betty](https://github.com/pickhardt/betty) - Friendly English-like interface for your command line. Don't remember a command? Ask Betty.
@@ -678,6 +680,9 @@
 
 ## Rust 
 
+- [cannyls](https://github.com/frugalos/cannyls) - An embedded persistent key-value storage for Rust that is optimized for random-access workload and huge-capacity HDD
+- [jvm.rust](https://github.com/phodal/jvm.rust) - Learning rust for build a simple jvm
+- [kv](https://github.com/LucioFranco/kv) - 
 - [kv-service-with-libs](https://github.com/5kbpers/kv-service-with-libs) - Implement 6.824 lab2 & lab3 with ​grpc-rs​ & ​raft-rs​ & ​rust-rocksdb
 - [tox](https://github.com/tox-rs/tox) - toxcore implementation in Rust
 - [howrate](https://github.com/Libbum/howrate) - Distributed uptime notification system

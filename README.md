@@ -305,6 +305,7 @@
 
 ## Haskell 
 
+- [graphql-engine](https://github.com/hasura/graphql-engine) - Blazing fast, instant realtime GraphQL APIs on Postgres with fine grained access control, also trigger webhooks on database events.
 - [shellcheck](https://github.com/koalaman/shellcheck) - ShellCheck, a static analysis tool for shell scripts
 - [semantic](https://github.com/github/semantic) - Parsing, analyzing, and comparing source code across many languages
 
@@ -325,12 +326,12 @@
 
 ## JavaScript 
 
+- [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - Dynamically generated stats for your github readmes
 - [atomizer](https://github.com/acss-io/atomizer) - A tool for creating Atomic CSS, a collection of single purpose styling units for maximum reuse.
 - [shepherd](https://github.com/shipshapecode/shepherd) - Guide your users through a tour of your app
 - [ieaseMusic](https://github.com/trazyn/ieaseMusic) - 网易云音乐第三方
 - [PaperWM](https://github.com/paperwm/PaperWM) - Tiled scrollable window management for Gnome Shell
 - [userbase](https://github.com/encrypted-dev/userbase) - Create secure and private web apps using only static JavaScript, HTML, and CSS.
-- [graphql-engine](https://github.com/hasura/graphql-engine) - Blazing fast, instant realtime GraphQL APIs on Postgres with fine grained access control, also trigger webhooks on database events.
 - [flask-twilio-video](https://github.com/miguelgrinberg/flask-twilio-video) - A small video conference application using Flask and Twilio Programmable Video
 - [custom-forms](https://github.com/tailwindcss/custom-forms) - A better base for styling form elements with Tailwind CSS.
 - [toolbox](https://github.com/CyberZHG/toolbox) - https://cyberzhg.github.io/toolbox/
@@ -490,6 +491,7 @@
 - [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Roadmap to becoming a web developer in 2020
 - [rust-os-comparison](https://github.com/flosse/rust-os-comparison) - A comparison of operating systems written in Rust
 - [reverse-interview](https://github.com/viraptor/reverse-interview) - Questions to ask the company during your interview
+- [100-Days-Of-ML-Code](https://github.com/Avik-Jain/100-Days-Of-ML-Code) - 100 Days of ML Coding
 - [How-to-Write-a-Technical-Book](https://github.com/BetterTuring/How-to-Write-a-Technical-Book) - 如何写作一本 IT 技术图书
 - [web-audio-resources](https://github.com/alemangui/web-audio-resources) - :musical_keyboard: A list of curated web audio resources
 - [coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer.
@@ -596,7 +598,6 @@
 - [intro-to-python](https://github.com/shaunickmistry/intro-to-python) - A course for programming beginners to get hands on with Python
 - [30-seconds-of-python](https://github.com/30-seconds/30-seconds-of-python) - Short Python code snippets for all your development needs
 - [py-googletrans](https://github.com/ssut/py-googletrans) - (unofficial) Googletrans: Free and Unlimited Google translate API for Python. Translates totally free of charge.
-- [100-Days-Of-ML-Code](https://github.com/Avik-Jain/100-Days-Of-ML-Code) - 100 Days of ML Coding
 - [cyaron](https://github.com/luogu-dev/cyaron) - CYaRon: Yet Another Random Olympic-iNformatics test data generator
 - [howdy](https://github.com/boltgolt/howdy) - 🛡️ Windows Hello™ style facial authentication for Linux
 - [recommenders](https://github.com/microsoft/recommenders) - Best Practices on Recommendation Systems
@@ -668,7 +669,7 @@
 
 ## Ruby 
 
-- [forem](https://github.com/forem/forem) - “For empowering community”
+- [forem](https://github.com/forem/forem) - For empowering community
 - [chatwoot](https://github.com/chatwoot/chatwoot) - Open-source live chat software 🔥💬
 - [fresh](https://github.com/freshshell/fresh) - Keep your dotfiles fresh.
 - [betty](https://github.com/pickhardt/betty) - Friendly English-like interface for your command line. Don't remember a command? Ask Betty.
@@ -918,7 +919,7 @@
 - [textlint](https://github.com/textlint/textlint) - The pluggable natural language linter for text and markdown.
 - [pixi.js](https://github.com/pixijs/pixi.js) - The HTML5 Creation Engine: Create beautiful digital content with the fastest, most flexible 2D WebGL renderer.
 - [awesomo](https://github.com/lk-geimfari/awesomo) - An extensive list of cool open source projects written in С, C++, Clojure, Lisp, Elixir, Erlang, Elm, Golang, Haskell, JavaScript, Lua, OCaml, Python, R, Ruby, Rust, Scala etc.
-- [storybook](https://github.com/storybookjs/storybook) - 📓 UI component dev & test: React, Vue, Angular, React Native, Ember, Web Components & more!
+- [storybook](https://github.com/storybookjs/storybook) - 📓 The UI component workshop. Develop, document, & test for React, Vue, Angular, Ember, Web Components, & more!
 - [xi-electron](https://github.com/acheronfail/xi-electron) - A front-end for the xi-editor built with modern web technologies.
 - [vscode-code-runner](https://github.com/formulahendry/vscode-code-runner) - Code Runner for Visual Studio Code
 - [deno](https://github.com/denoland/deno) - A secure JavaScript and TypeScript runtime

@@ -556,6 +556,7 @@
 
 ## Python 
 
+- [aioflask](https://github.com/miguelgrinberg/aioflask) - Flask running on asyncio!
 - [game-programmer](https://github.com/miloyip/game-programmer) - A Study Path for Game Programmer
 - [geektime_dl](https://github.com/jachinlin/geektime_dl) - 把极客时间装进 Kindle，内含快手内推等福利
 - [Flask-MonitoringDashboard](https://github.com/flask-dashboard/Flask-MonitoringDashboard) - Automatically monitor the evolving performance of Flask/Python web services.
@@ -669,7 +670,7 @@
 
 ## Ruby 
 
-- [forem](https://github.com/forem/forem) - For empowering community
+- [forem](https://github.com/forem/forem) - For empowering community 🌱
 - [chatwoot](https://github.com/chatwoot/chatwoot) - Open-source live chat software 🔥💬
 - [fresh](https://github.com/freshshell/fresh) - Keep your dotfiles fresh.
 - [betty](https://github.com/pickhardt/betty) - Friendly English-like interface for your command line. Don't remember a command? Ask Betty.
@@ -681,6 +682,7 @@
 
 ## Rust 
 
+- [tunnelto](https://github.com/agrinman/tunnelto) - Expose your local web server to the internet with a public URL.
 - [cannyls](https://github.com/frugalos/cannyls) - An embedded persistent key-value storage for Rust that is optimized for random-access workload and huge-capacity HDD
 - [jvm.rust](https://github.com/phodal/jvm.rust) - Learning rust for build a simple jvm
 - [kv](https://github.com/LucioFranco/kv) - 
@@ -902,7 +904,7 @@
 - [gh-card](https://github.com/nwtgck/gh-card) - :octocat: GitHub Repository Card for Any Web Site
 - [destiny](https://github.com/benawad/destiny) - Prettier for File Structures
 - [playwright](https://github.com/microsoft/playwright) - Node library to automate Chromium, Firefox and WebKit with a single API
-- [sigi](https://github.com/sigi-framework/sigi) - Well designed effect management framenwork for complex frontend app
+- [sigi](https://github.com/sigi-framework/sigi) - Well designed effect management framework for complex frontend app
 - [rust-playground](https://github.com/integer32llc/rust-playground) - The Rust Playground
 - [webiny-js](https://github.com/webiny/webiny-js) - Platform for building serverless applications and APIs (Node.js, React, GraphQL)
 - [bigdata-playground](https://github.com/Chabane/bigdata-playground) - A complete example of a big data application using : Kubernetes (kops/aws), Apache Spark SQL/Streaming/MLib, Apache Flink, Scala, Python, Apache Kafka, Apache Hbase, Apache Parquet, Apache Avro, Apache Storm, Twitter Api, MongoDB, NodeJS, Angular, GraphQL

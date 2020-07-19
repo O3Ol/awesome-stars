@@ -220,7 +220,6 @@
 - [course-starter-python](https://github.com/ines/course-starter-python) - 👩‍🏫🐍 Starter repo for building interactive Python courses
 - [ocaml-book](https://github.com/dmbaturin/ocaml-book) - A free culture OCaml textbook
 - [the-unix-workbench](https://github.com/seankross/the-unix-workbench) - :house_with_garden: A Book for Anyone to Get Started with Unix
-- [rubble](https://github.com/Kilerd/rubble) - a lightweight blog engine written in Rust.
 - [2019-Slides](https://github.com/PyConChina/2019-Slides) - PyCon China 2019 幻灯片
 - [stylesheet](https://github.com/elementary/stylesheet) - The GTK Stylesheet for elementary OS
 - [css](https://github.com/primer/css) - The CSS design system that powers GitHub
@@ -422,6 +421,7 @@
 
 ## Jupyter Notebook 
 
+- [data-science-complete-tutorial](https://github.com/edyoda/data-science-complete-tutorial) - For extensive instructor led learning
 - [interpretable-ml-book](https://github.com/christophM/interpretable-ml-book) - Book about interpretable machine learning
 - [Dive-into-DL-TensorFlow2.0](https://github.com/TrickyGo/Dive-into-DL-TensorFlow2.0) - 本项目将《动手学深度学习》(Dive into Deep Learning)原书中的MXNet实现改为TensorFlow 2.0实现，项目已得到李沐老师的同意
 - [CodeSearchNet](https://github.com/github/CodeSearchNet) - Datasets, tools, and benchmarks for representation learning of code.
@@ -682,6 +682,7 @@
 
 ## Rust 
 
+- [napi-rs](https://github.com/napi-rs/napi-rs) - A minimal library for building compiled Node add-ons in Rust
 - [tunnelto](https://github.com/agrinman/tunnelto) - Expose your local web server to the internet with a public URL.
 - [cannyls](https://github.com/frugalos/cannyls) - An embedded persistent key-value storage for Rust that is optimized for random-access workload and huge-capacity HDD
 - [jvm.rust](https://github.com/phodal/jvm.rust) - Learning rust for build a simple jvm
@@ -787,6 +788,7 @@
 - [rust-actix-starter](https://github.com/ddimaria/rust-actix-starter) - A production-quality starter app using Actix 1.x
 - [leftwm](https://github.com/leftwm/leftwm) - LeftWM - A tiling window manager for Adventurers
 - [spotify-tui](https://github.com/Rigellute/spotify-tui) - Spotify for the terminal written in Rust 🚀
+- [rubble](https://github.com/Kilerd/rubble) - a lightweight blog engine written in Rust.
 - [Plume](https://github.com/Plume-org/Plume) - Federated blogging application, thanks to ActivityPub
 - [webapp.rs](https://github.com/saschagrunert/webapp.rs) - A web application completely written in Rust. 🌍
 - [ripalt](https://github.com/fuchsi/ripalt) - An Anti-Leech Torrent Tracker CMS based on actix-web

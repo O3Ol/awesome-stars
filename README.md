@@ -682,6 +682,9 @@
 
 ## Rust 
 
+- [xmlinfoset-rs](https://github.com/crlf0710/xmlinfoset-rs) - Implementation of W3C XML Information Set API. (WIP)
+- [meteora](https://github.com/meteora-kvs/meteora) - Distributed key-value store.
+- [craft](https://github.com/TobiasGSmollett/craft) - 
 - [napi-rs](https://github.com/napi-rs/napi-rs) - A minimal library for building compiled Node add-ons in Rust
 - [tunnelto](https://github.com/agrinman/tunnelto) - Expose your local web server to the internet with a public URL.
 - [cannyls](https://github.com/frugalos/cannyls) - An embedded persistent key-value storage for Rust that is optimized for random-access workload and huge-capacity HDD
@@ -895,6 +898,7 @@
 
 ## TypeScript 
 
+- [nativefier](https://github.com/jiahaog/nativefier) - Make any web page a desktop application
 - [knboard](https://github.com/rrebase/knboard) - Kanban boards with React & Django.
 - [foam](https://github.com/foambubble/foam) - A personal knowledge management and sharing system for VSCode
 - [simplenote-electron](https://github.com/Automattic/simplenote-electron) - Simplenote for Web, Windows, and Linux

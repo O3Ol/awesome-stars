@@ -556,6 +556,7 @@
 
 ## Python 
 
+- [data-version-control](https://github.com/realpython/data-version-control) - 
 - [aioflask](https://github.com/miguelgrinberg/aioflask) - Flask running on asyncio!
 - [game-programmer](https://github.com/miloyip/game-programmer) - A Study Path for Game Programmer
 - [geektime_dl](https://github.com/jachinlin/geektime_dl) - 把极客时间装进 Kindle，内含快手内推等福利
@@ -693,7 +694,7 @@
 - [kv-service-with-libs](https://github.com/5kbpers/kv-service-with-libs) - Implement 6.824 lab2 & lab3 with ​grpc-rs​ & ​raft-rs​ & ​rust-rocksdb
 - [tox](https://github.com/tox-rs/tox) - toxcore implementation in Rust
 - [howrate](https://github.com/Libbum/howrate) - Distributed uptime notification system
-- [tauri](https://github.com/tauri-apps/tauri) - Framework agnostic toolchain for building highly secure native apps that have tiny binaries and are very fast.
+- [tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend.
 - [Toshi](https://github.com/toshi-search/Toshi) - A full-text search engine in rust
 - [raftfwk](https://github.com/blackredscarf/raftfwk) - A framework of distribution consensus algorithm Raft written in Rust.
 - [nushell](https://github.com/nushell/nushell) - A new type of shell

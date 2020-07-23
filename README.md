@@ -75,7 +75,7 @@
 - [liballoc](https://github.com/blanham/liballoc) - liballoc - a memory allocator for hobbyist operating systems
 - [wlang](https://github.com/rsms/wlang) - Programming language in development
 - [mallocng-draft](https://github.com/richfelker/mallocng-draft) - Working draft of nextgen malloc implementation for musl libc
-- [horse64](https://github.com/horse64/horse64) - An elegant & comprehensive high-level programming language.
+- [horse64](https://github.com/horse64/horse64) - A simple & versatile high-level programming language.
 - [uSockets](https://github.com/uNetworking/uSockets) - Miniscule cross-platform eventing, networking & crypto for async applications
 - [libcmdf](https://github.com/ronen25/libcmdf) - Single-header library for writing CLI applications in C/C++
 - [sowm](https://github.com/dylanaraps/sowm) - An itsy bitsy floating window manager (220~ sloc!).
@@ -267,6 +267,7 @@
 
 ## Go 
 
+- [vault](https://github.com/hashicorp/vault) - A tool for secrets management, encryption as a service, and privileged access management
 - [build-web-application-with-golang](https://github.com/astaxie/build-web-application-with-golang) - A golang ebook intro how to build a web with golang
 - [raft](https://github.com/hashicorp/raft) - Golang implementation of the Raft consensus protocol
 - [bolt](https://github.com/boltdb/bolt) - An embedded key/value database for Go.
@@ -332,7 +333,7 @@
 - [PaperWM](https://github.com/paperwm/PaperWM) - Tiled scrollable window management for Gnome Shell
 - [userbase](https://github.com/encrypted-dev/userbase) - Create secure and private web apps using only static JavaScript, HTML, and CSS.
 - [flask-twilio-video](https://github.com/miguelgrinberg/flask-twilio-video) - A small video conference application using Flask and Twilio Programmable Video
-- [custom-forms](https://github.com/tailwindcss/custom-forms) - A better base for styling form elements with Tailwind CSS.
+- [tailwindcss-custom-forms](https://github.com/tailwindlabs/tailwindcss-custom-forms) - A better base for styling form elements with Tailwind CSS.
 - [toolbox](https://github.com/CyberZHG/toolbox) - https://cyberzhg.github.io/toolbox/
 - [Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
 - [react-ultimate-resume](https://github.com/welovedevs/react-ultimate-resume) - 💼 🎨 A modern software developer resume built with React and JSONResume
@@ -388,6 +389,7 @@
 - [NeteaseCloudMusicApi](https://github.com/Binaryify/NeteaseCloudMusicApi) - 网易云音乐 Node.js API service
 - [Awesome-Design-Tools](https://github.com/LisaDziuba/Awesome-Design-Tools) - The best design tools and plugins for everything 👉
 - [send](https://github.com/mozilla/send) - Simple, private file sharing from the makers of Firefox
+- [deno](https://github.com/denoland/deno) - A secure JavaScript and TypeScript runtime
 - [KaTeX](https://github.com/KaTeX/KaTeX) - Fast math typesetting for the web.
 - [Gitter](https://github.com/huangjianke/Gitter) - Gitter for GitHub - 可能是目前颜值最高的GitHub微信小程序客户端
 - [500lines](https://github.com/aosabook/500lines) - 500 Lines or Less
@@ -931,7 +933,6 @@
 - [storybook](https://github.com/storybookjs/storybook) - 📓 The UI component workshop. Develop, document, & test for React, Vue, Angular, Ember, Web Components, & more!
 - [xi-electron](https://github.com/acheronfail/xi-electron) - A front-end for the xi-editor built with modern web technologies.
 - [vscode-code-runner](https://github.com/formulahendry/vscode-code-runner) - Code Runner for Visual Studio Code
-- [deno](https://github.com/denoland/deno) - A secure JavaScript and TypeScript runtime
 - [notable](https://github.com/notable/notable) - The Markdown-based note-taking app that doesn't suck.
 - [typescript-book-chinese](https://github.com/jkchao/typescript-book-chinese) - TypeScript Deep Dive 中文版
 - [docz](https://github.com/doczjs/docz) - ✍ It has never been so easy to document your things!

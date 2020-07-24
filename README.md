@@ -68,6 +68,7 @@
 
 ## C 
 
+- [fastvm](https://github.com/baikaishiuc/fastvm) - arm virtual engine
 - [StepFC](https://github.com/dustpg/StepFC) - Make FC(NES) Emulator Step-by-Step 一步一步模拟红白机
 - [mpc-hc](https://github.com/clsid2/mpc-hc) - Media Player Classic
 - [numpy](https://github.com/numpy/numpy) - The fundamental package for scientific computing with Python.
@@ -326,7 +327,7 @@
 
 ## JavaScript 
 
-- [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - Dynamically generated stats for your github readmes
+- [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
 - [atomizer](https://github.com/acss-io/atomizer) - A tool for creating Atomic CSS, a collection of single purpose styling units for maximum reuse.
 - [shepherd](https://github.com/shipshapecode/shepherd) - Guide your users through a tour of your app
 - [ieaseMusic](https://github.com/trazyn/ieaseMusic) - 网易云音乐第三方

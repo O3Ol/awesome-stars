@@ -390,7 +390,6 @@
 - [NeteaseCloudMusicApi](https://github.com/Binaryify/NeteaseCloudMusicApi) - 网易云音乐 Node.js API service
 - [Awesome-Design-Tools](https://github.com/LisaDziuba/Awesome-Design-Tools) - The best design tools and plugins for everything 👉
 - [send](https://github.com/mozilla/send) - Simple, private file sharing from the makers of Firefox
-- [deno](https://github.com/denoland/deno) - A secure JavaScript and TypeScript runtime
 - [KaTeX](https://github.com/KaTeX/KaTeX) - Fast math typesetting for the web.
 - [Gitter](https://github.com/huangjianke/Gitter) - Gitter for GitHub - 可能是目前颜值最高的GitHub微信小程序客户端
 - [500lines](https://github.com/aosabook/500lines) - 500 Lines or Less
@@ -753,7 +752,7 @@
 - [cheats.rs](https://github.com/ralfbiedert/cheats.rs) - Rust Language Cheat Sheet - https://cheats.rs
 - [saphir](https://github.com/richerarc/saphir) - Fully async-await http server framework
 - [iron](https://github.com/iron/iron) - An Extensible, Concurrent Web Framework for Rust
-- [swc](https://github.com/swc-project/swc) - Super-fast typescript / javascript compiler written in rust
+- [swc](https://github.com/swc-project/swc) - swc is a super-fast compiler written in rust; producing widely-supported javascript from modern standards and typescript.
 - [rust-blog-demo](https://github.com/notryanb/rust-blog-demo) - Rocket & Diesel Blog
 - [leven](https://github.com/leven-the-blog/leven) - 😋 Make your own blog!
 - [blog.rust-lang.org](https://github.com/rust-lang/blog.rust-lang.org) - The Rust Programming Language Blog
@@ -796,7 +795,7 @@
 - [leftwm](https://github.com/leftwm/leftwm) - LeftWM - A tiling window manager for Adventurers
 - [spotify-tui](https://github.com/Rigellute/spotify-tui) - Spotify for the terminal written in Rust 🚀
 - [rubble](https://github.com/Kilerd/rubble) - a lightweight blog engine written in Rust.
-- [Plume](https://github.com/Plume-org/Plume) - Federated blogging application, thanks to ActivityPub
+- [Plume](https://github.com/Plume-org/Plume) - Federated blogging application, thanks to ActivityPub (now on git.joinplu.me, this is just a mirror)
 - [webapp.rs](https://github.com/saschagrunert/webapp.rs) - A web application completely written in Rust. 🌍
 - [ripalt](https://github.com/fuchsi/ripalt) - An Anti-Leech Torrent Tracker CMS based on actix-web
 - [actix-realworld-example-app](https://github.com/fairingrey/actix-realworld-example-app) - Implementation of the RealWorld backend API spec in Actix, Rust's powerful actor system and most fun web framework.
@@ -934,6 +933,7 @@
 - [storybook](https://github.com/storybookjs/storybook) - 📓 The UI component workshop. Develop, document, & test for React, Vue, Angular, Ember, Web Components, & more!
 - [xi-electron](https://github.com/acheronfail/xi-electron) - A front-end for the xi-editor built with modern web technologies.
 - [vscode-code-runner](https://github.com/formulahendry/vscode-code-runner) - Code Runner for Visual Studio Code
+- [deno](https://github.com/denoland/deno) - A secure JavaScript and TypeScript runtime
 - [notable](https://github.com/notable/notable) - The Markdown-based note-taking app that doesn't suck.
 - [typescript-book-chinese](https://github.com/jkchao/typescript-book-chinese) - TypeScript Deep Dive 中文版
 - [docz](https://github.com/doczjs/docz) - ✍ It has never been so easy to document your things!

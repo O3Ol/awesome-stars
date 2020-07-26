@@ -685,6 +685,7 @@
 
 ## Rust 
 
+- [cached](https://github.com/jaemk/cached) - Rust cache structures and easy function memoization
 - [xmlinfoset-rs](https://github.com/crlf0710/xmlinfoset-rs) - Implementation of W3C XML Information Set API. (WIP)
 - [meteora](https://github.com/meteora-kvs/meteora) - Distributed key-value store.
 - [craft](https://github.com/TobiasGSmollett/craft) - 

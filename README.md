@@ -86,7 +86,7 @@
 - [wasm-micro-runtime](https://github.com/bytecodealliance/wasm-micro-runtime) - WebAssembly Micro Runtime (WAMR)
 - [mir](https://github.com/vnmakarov/mir) - A light-weight JIT compiler based on MIR (Medium Internal Representation)
 - [jit-tutorial](https://github.com/spencertipping/jit-tutorial) - How to write a very simple JIT compiler
-- [Euboea](https://github.com/KrzysztofSzewczyk/Euboea) - Euboea is blazingly fast and small programming language compiled JIT to Machine code.
+- [Euboea](https://github.com/kspalaiologos/Euboea) - Euboea is blazingly fast and small programming language compiled JIT to Machine code.
 - [Pike](https://github.com/pikelang/Pike) - Pike is a dynamic programming language with a syntax similar to Java and C. It is simple to learn, does not require long compilation passes and has powerful built-in data types allowing simple and really fast data manipulation.
 - [esp-lisp](https://github.com/yesco/esp-lisp) - Beta: A small fast lisp interpeter for a ESP8266 as alternative to lua on the nodemcu.
 - [tinyvm](https://github.com/jakogut/tinyvm) - TinyVM is a small, fast, lightweight virtual machine written in pure ANSI C.
@@ -228,7 +228,7 @@
 - [machine-learning-yearning-cn](https://github.com/deeplearning-ai/machine-learning-yearning-cn) - Machine Learning Yearning 中文版 - 《机器学习训练秘籍》 - Andrew Ng 著
 - [basic-book](https://github.com/evanwill/basic-book) - jekyll project template to create web book, aimed at OER textbook
 - [photon-book-creator](https://github.com/cedricss/photon-book-creator) - A light documentation and book template based on Jekyll.
-- [leonids](https://github.com/renyuanz/leonids) - A simple and clean two columns Jekyll theme.
+- [leonids](https://github.com/renyuanz/leonids) - A simple, fixed sidebar Jekyll theme.
 
 ## Clojure 
 
@@ -685,6 +685,8 @@
 
 ## Rust 
 
+- [clog-lib](https://github.com/clog-tool/clog-lib) - A library for generating conventional changelogs from git metadata, written in Rust
+- [clog-cli](https://github.com/clog-tool/clog-cli) - Generate beautiful changelogs from your Git commit history
 - [cached](https://github.com/jaemk/cached) - Rust cache structures and easy function memoization
 - [xmlinfoset-rs](https://github.com/crlf0710/xmlinfoset-rs) - Implementation of W3C XML Information Set API. (WIP)
 - [meteora](https://github.com/meteora-kvs/meteora) - Distributed key-value store.

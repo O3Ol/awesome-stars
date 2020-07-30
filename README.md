@@ -686,6 +686,7 @@
 
 ## Rust 
 
+- [viz](https://github.com/viz-rs/viz) - Fast, flexible, minimalist web framework for Rust
 - [image](https://github.com/image-rs/image) - Encoding and decoding images in Rust
 - [oha](https://github.com/hatoo/oha) - Ohayou(おはよう), HTTP load generator, inspired by rakyll/hey with tui animation.
 - [plotters](https://github.com/38/plotters) - A rust drawing library for high quality data plotting for both WASM and native, statically and realtimely 🦀 📈🚀
@@ -698,7 +699,7 @@
 - [napi-rs](https://github.com/napi-rs/napi-rs) - A minimal library for building compiled Node add-ons in Rust
 - [tunnelto](https://github.com/agrinman/tunnelto) - Expose your local web server to the internet with a public URL.
 - [cannyls](https://github.com/frugalos/cannyls) - An embedded persistent key-value storage for Rust that is optimized for random-access workload and huge-capacity HDD
-- [jvm.rust](https://github.com/phodal/jvm.rust) - Learning rust for build a simple jvm
+- [jvm.rust](https://github.com/rapilab/jvm.rust) - Learning rust for build a simple jvm
 - [kv](https://github.com/LucioFranco/kv) - 
 - [kv-service-with-libs](https://github.com/5kbpers/kv-service-with-libs) - Implement 6.824 lab2 & lab3 with ​grpc-rs​ & ​raft-rs​ & ​rust-rocksdb
 - [tox](https://github.com/tox-rs/tox) - toxcore implementation in Rust
@@ -937,7 +938,7 @@
 - [textlint](https://github.com/textlint/textlint) - The pluggable natural language linter for text and markdown.
 - [pixi.js](https://github.com/pixijs/pixi.js) - The HTML5 Creation Engine: Create beautiful digital content with the fastest, most flexible 2D WebGL renderer.
 - [awesomo](https://github.com/lk-geimfari/awesomo) - An extensive list of cool open source projects written in С, C++, Clojure, Lisp, Elixir, Erlang, Elm, Golang, Haskell, JavaScript, Lua, OCaml, Python, R, Ruby, Rust, Scala etc.
-- [storybook](https://github.com/storybookjs/storybook) - 📓 The UI component workshop. Develop, document, & test for React, Vue, Angular, Ember, Web Components, & more!
+- [storybook](https://github.com/storybookjs/storybook) - 📓 The UI component explorer. Develop, document, & test for React, Vue, Angular, Ember, Web Components, & more!
 - [xi-electron](https://github.com/acheronfail/xi-electron) - A front-end for the xi-editor built with modern web technologies.
 - [vscode-code-runner](https://github.com/formulahendry/vscode-code-runner) - Code Runner for Visual Studio Code
 - [deno](https://github.com/denoland/deno) - A secure JavaScript and TypeScript runtime

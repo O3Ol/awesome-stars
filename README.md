@@ -460,7 +460,7 @@
 - [ml-system-design-pattern](https://github.com/mercari/ml-system-design-pattern) - System design patterns for machine learning
 - [lox-language](https://github.com/danman113/lox-language) - Syntax highlighting for Lox, everyone's favorite interpreted learning-language
 - [awesome-c](https://github.com/kozross/awesome-c) - A curated list of awesome C frameworks, libraries, resources and other shiny things. Inspired by all the other awesome-... projects out there.
-- [js-20-years-cn](https://github.com/doodlewind/js-20-years-cn) - 🇨🇳《JavaScript 20 年》中文版（翻译中）
+- [js-20-years-cn](https://github.com/doodlewind/js-20-years-cn) - 🇨🇳《JavaScript 20 年》中文版
 - [tech-radar](https://github.com/zalando/tech-radar) - Visualizing our technology choices
 - [book.rvemu](https://github.com/d0iasm/book.rvemu) - The book "Writing a RISC-V Emulator from Scratch in 10 Steps".
 - [typedoc](https://github.com/denodev/typedoc) - Deno API - Simplified Chinese
@@ -686,6 +686,7 @@
 
 ## Rust 
 
+- [rust-design-pattern](https://github.com/lpxxn/rust-design-pattern) - rust design patterns
 - [viz](https://github.com/viz-rs/viz) - Fast, flexible, minimalist web framework for Rust
 - [image](https://github.com/image-rs/image) - Encoding and decoding images in Rust
 - [oha](https://github.com/hatoo/oha) - Ohayou(おはよう), HTTP load generator, inspired by rakyll/hey with tui animation.

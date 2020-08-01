@@ -415,7 +415,7 @@
 - [learnxinyminutes-docs](https://github.com/adambard/learnxinyminutes-docs) - Code documentation written as code! How novel and totally my idea!
 - [react-native](https://github.com/facebook/react-native) - A framework for building native apps with React.
 - [hzau-helper-miniapp](https://github.com/lxfriday/hzau-helper-miniapp) - 微信小程序版本的华中农业大学助手
-- [leonids](https://github.com/renyuanz/leonids) - A simple, fixed sidebar two columns Gatsby.js theme.
+- [leonids](https://github.com/renyuanz/leonids) - A simple, fixed sidebar two columns Gatsby.js blog starter.
 
 ## Julia 
 

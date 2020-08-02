@@ -68,6 +68,7 @@
 
 ## C 
 
+- [termbox](https://github.com/nsf/termbox) - Library for writing text-based user interfaces
 - [fastvm](https://github.com/baikaishiuc/fastvm) - arm virtual engine
 - [StepFC](https://github.com/dustpg/StepFC) - Make FC(NES) Emulator Step-by-Step 一步一步模拟红白机
 - [mpc-hc](https://github.com/clsid2/mpc-hc) - Media Player Classic
@@ -626,7 +627,7 @@
 - [sanic](https://github.com/huge-success/sanic) - Async Python 3.6+ web server/framework | Build fast. Run fast.
 - [python-best-practices-cookiecutter](https://github.com/sourcery-ai/python-best-practices-cookiecutter) - Python best practices project cookiecutter 🍪
 - [graphene-peewee-async](https://github.com/insolite/graphene-peewee-async) - Graphene peewee-async integration
-- [cookiecutter-pypackage](https://github.com/audreyr/cookiecutter-pypackage) - Cookiecutter template for a Python package.
+- [cookiecutter-pypackage](https://github.com/audreyfeldroy/cookiecutter-pypackage) - Cookiecutter template for a Python package.
 - [cookiecutter](https://github.com/cookiecutter/cookiecutter) - A command-line utility that creates projects from cookiecutters (project templates), e.g. Python package projects, VueJS projects.
 - [sketch](https://github.com/hzlmn/sketch) - Tiny aiohttp clone, made for learning purposes
 - [diy-async-web-framework](https://github.com/hzlmn/diy-async-web-framework) - Learn how modern async web frameworks work, by writing simple clone from scratch
@@ -686,6 +687,7 @@
 
 ## Rust 
 
+- [uniffi-rs](https://github.com/mozilla/uniffi-rs) - A little experiment in more easily building cross-platform components in rust
 - [rust-design-pattern](https://github.com/lpxxn/rust-design-pattern) - rust design patterns
 - [viz](https://github.com/viz-rs/viz) - Fast, flexible, minimalist web framework for Rust
 - [image](https://github.com/image-rs/image) - Encoding and decoding images in Rust

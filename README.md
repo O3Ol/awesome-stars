@@ -207,7 +207,7 @@
 - [cpputest](https://github.com/cpputest/cpputest) - CppUTest unit testing and mocking framework for C/C++
 - [zeal](https://github.com/zealdocs/zeal) - Offline documentation browser inspired by Dash
 - [rt](https://github.com/mitsuba-rei/rt) - Code collection developed in the episodes related to raytracing
-- [imgui](https://github.com/ocornut/imgui) - Dear ImGui: Bloat-free Immediate Mode Graphical User interface for C++ with minimal dependencies
+- [imgui](https://github.com/ocornut/imgui) - Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies
 - [flatbuffers_chromium](https://github.com/ry/flatbuffers_chromium) - 
 - [modern-cpp-tutorial](https://github.com/changkun/modern-cpp-tutorial) - 📚 Modern C++ Tutorial: C++11/14/17/20 On the Fly
 - [codelite](https://github.com/eranif/codelite) - CodeLite, a cross platform C/C++/PHP and Node.js IDE written in C++
@@ -687,6 +687,7 @@
 
 ## Rust 
 
+- [futures-lite](https://github.com/stjepang/futures-lite) - A lightweight async prelude
 - [uniffi-rs](https://github.com/mozilla/uniffi-rs) - A little experiment in more easily building cross-platform components in rust
 - [rust-design-pattern](https://github.com/lpxxn/rust-design-pattern) - rust design patterns
 - [viz](https://github.com/viz-rs/viz) - Fast, flexible, minimalist web framework for Rust
@@ -973,6 +974,7 @@
 
 ## Vim script 
 
+- [ThinkVim](https://github.com/hardcoreplayers/ThinkVim) - Vim configuration in the 21st century
 - [leetcode.vim](https://github.com/ianding1/leetcode.vim) - Solve LeetCode problems in Vim!
 - [vim-sensible](https://github.com/tpope/vim-sensible) - sensible.vim: Defaults everyone can agree on
 - [neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability

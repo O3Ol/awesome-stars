@@ -215,6 +215,7 @@
 
 ## CMake 
 
+- [vcpkg](https://github.com/microsoft/vcpkg) - C++ Library Manager for Windows, Linux, and MacOS
 - [learning-cmake](https://github.com/Akagi201/learning-cmake) - learning cmake
 
 ## CSS 
@@ -268,6 +269,7 @@
 
 ## Go 
 
+- [gbt](https://github.com/jtyr/gbt) - Highly configurable prompt builder for Bash, ZSH and PowerShell written in Go.
 - [vault](https://github.com/hashicorp/vault) - A tool for secrets management, encryption as a service, and privileged access management
 - [build-web-application-with-golang](https://github.com/astaxie/build-web-application-with-golang) - A golang ebook intro how to build a web with golang
 - [raft](https://github.com/hashicorp/raft) - Golang implementation of the Raft consensus protocol
@@ -327,6 +329,8 @@
 
 ## JavaScript 
 
+- [ohm](https://github.com/harc/ohm) - A library and language for building parsers, interpreters, compilers, etc.
+- [cml](https://github.com/iterative/cml) - ♾️ CML - Continuous Machine Learning | CI/CD for ML
 - [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
 - [atomizer](https://github.com/acss-io/atomizer) - A tool for creating Atomic CSS, a collection of single purpose styling units for maximum reuse.
 - [shepherd](https://github.com/shipshapecode/shepherd) - Guide your users through a tour of your app
@@ -388,7 +392,7 @@
 - [carlo](https://github.com/GoogleChromeLabs/carlo) - Web rendering surface for Node applications
 - [razzle](https://github.com/jaredpalmer/razzle) - ✨ Create server-rendered universal JavaScript applications with no configuration
 - [NeteaseCloudMusicApi](https://github.com/Binaryify/NeteaseCloudMusicApi) - 网易云音乐 Node.js API service
-- [Awesome-Design-Tools](https://github.com/LisaDziuba/Awesome-Design-Tools) - The best design tools and plugins for everything 👉
+- [Awesome-Design-Tools](https://github.com/goabstract/Awesome-Design-Tools) - The best design tools and plugins for everything 👉
 - [send](https://github.com/mozilla/send) - Simple, private file sharing from the makers of Firefox
 - [KaTeX](https://github.com/KaTeX/KaTeX) - Fast math typesetting for the web.
 - [Gitter](https://github.com/huangjianke/Gitter) - Gitter for GitHub - 可能是目前颜值最高的GitHub微信小程序客户端
@@ -687,6 +691,10 @@
 
 ## Rust 
 
+- [frugalos](https://github.com/frugalos/frugalos) - Frugal Object Storage
+- [rust-realworld-example-app](https://github.com/jetli/rust-realworld-example-app) - Exemplary real world app built with Rust + Actix/Hyper/Warp/Tide/Roa + Diesel/SQLx
+- [async-graphql-sqlx-example](https://github.com/danbruder/async-graphql-sqlx-example) - Minimal example using async_graphql, sqlx, warp, and sqlite
+- [warp-api-starter-template](https://github.com/rusty-crab/warp-api-starter-template) - A boilerplate template for starting a web services using Warp + SQLx (PostgreSQL) + Redis + Juniper (GraphQL). ❤️
 - [futures-lite](https://github.com/stjepang/futures-lite) - A lightweight async prelude
 - [uniffi-rs](https://github.com/mozilla/uniffi-rs) - A little experiment in more easily building cross-platform components in rust
 - [rust-design-pattern](https://github.com/lpxxn/rust-design-pattern) - rust design patterns
@@ -913,6 +921,7 @@
 
 ## TypeScript 
 
+- [berial](https://github.com/berialjs/berial) - 😈 Simple micro-front-end framework.
 - [nativefier](https://github.com/jiahaog/nativefier) - Make any web page a desktop application
 - [knboard](https://github.com/rrebase/knboard) - Kanban boards with React & Django.
 - [foam](https://github.com/foambubble/foam) - A personal knowledge management and sharing system for VSCode

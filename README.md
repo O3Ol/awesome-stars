@@ -269,6 +269,7 @@
 
 ## Go 
 
+- [coredns](https://github.com/coredns/coredns) - CoreDNS is a DNS server that chains plugins
 - [gbt](https://github.com/jtyr/gbt) - Highly configurable prompt builder for Bash, ZSH and PowerShell written in Go.
 - [vault](https://github.com/hashicorp/vault) - A tool for secrets management, encryption as a service, and privileged access management
 - [build-web-application-with-golang](https://github.com/astaxie/build-web-application-with-golang) - A golang ebook intro how to build a web with golang
@@ -691,6 +692,7 @@
 
 ## Rust 
 
+- [html5ever](https://github.com/servo/html5ever) - High-performance browser-grade HTML5 parser
 - [frugalos](https://github.com/frugalos/frugalos) - Frugal Object Storage
 - [rust-realworld-example-app](https://github.com/jetli/rust-realworld-example-app) - Exemplary real world app built with Rust + Actix/Hyper/Warp/Tide/Roa + Diesel/SQLx
 - [async-graphql-sqlx-example](https://github.com/danbruder/async-graphql-sqlx-example) - Minimal example using async_graphql, sqlx, warp, and sqlite
@@ -983,6 +985,7 @@
 
 ## Vim script 
 
+- [vim-polyglot](https://github.com/sheerun/vim-polyglot) - A solid language pack for Vim.
 - [ThinkVim](https://github.com/hardcoreplayers/ThinkVim) - Vim configuration in the 21st century
 - [leetcode.vim](https://github.com/ianding1/leetcode.vim) - Solve LeetCode problems in Vim!
 - [vim-sensible](https://github.com/tpope/vim-sensible) - sensible.vim: Defaults everyone can agree on

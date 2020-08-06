@@ -466,7 +466,7 @@
 - [ml-system-design-pattern](https://github.com/mercari/ml-system-design-pattern) - System design patterns for machine learning
 - [lox-language](https://github.com/danman113/lox-language) - Syntax highlighting for Lox, everyone's favorite interpreted learning-language
 - [awesome-c](https://github.com/kozross/awesome-c) - A curated list of awesome C frameworks, libraries, resources and other shiny things. Inspired by all the other awesome-... projects out there.
-- [js-20-years-cn](https://github.com/doodlewind/js-20-years-cn) - 🇨🇳《JavaScript 20 年》中文版
+- [jshistory-cn](https://github.com/doodlewind/jshistory-cn) - 🇨🇳《JavaScript 20 年史》中文版
 - [tech-radar](https://github.com/zalando/tech-radar) - Visualizing our technology choices
 - [book.rvemu](https://github.com/d0iasm/book.rvemu) - The book "Writing a RISC-V Emulator from Scratch in 10 Steps".
 - [typedoc](https://github.com/denodev/typedoc) - Deno API - Simplified Chinese
@@ -565,6 +565,7 @@
 
 ## Python 
 
+- [denite.nvim](https://github.com/Shougo/denite.nvim) - :dragon: Dark powered asynchronous unite all interfaces for Neovim/Vim8
 - [data-version-control](https://github.com/realpython/data-version-control) - 
 - [aioflask](https://github.com/miguelgrinberg/aioflask) - Flask running on asyncio!
 - [game-programmer](https://github.com/miloyip/game-programmer) - A Study Path for Game Programmer
@@ -692,6 +693,11 @@
 
 ## Rust 
 
+- [mun](https://github.com/mun-lang/mun) - Source code for the Mun language and runtime.
+- [rpds](https://github.com/orium/rpds) - Rust Persistent Data Structures
+- [kdtree-rs](https://github.com/mrhooray/kdtree-rs) - K-dimensional tree in Rust for fast geospatial indexing and lookup
+- [config-rs](https://github.com/mehcode/config-rs) - ⚙️ Layered configuration system for Rust applications (with strong support for 12-factor applications).
+- [colored](https://github.com/mackwic/colored) - (Rust) Coloring terminal so simple you already know how to do it !
 - [html5ever](https://github.com/servo/html5ever) - High-performance browser-grade HTML5 parser
 - [frugalos](https://github.com/frugalos/frugalos) - Frugal Object Storage
 - [rust-realworld-example-app](https://github.com/jetli/rust-realworld-example-app) - Exemplary real world app built with Rust + Actix/Hyper/Warp/Tide/Roa + Diesel/SQLx
@@ -985,6 +991,7 @@
 
 ## Vim script 
 
+- [vim-config](https://github.com/rafi/vim-config) - Lean mean (Neo)Vim machine, carefully crafted with :heart: Use with latest Neovim or Vim 8
 - [vim-polyglot](https://github.com/sheerun/vim-polyglot) - A solid language pack for Vim.
 - [ThinkVim](https://github.com/hardcoreplayers/ThinkVim) - Vim configuration in the 21st century
 - [leetcode.vim](https://github.com/ianding1/leetcode.vim) - Solve LeetCode problems in Vim!

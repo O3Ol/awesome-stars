@@ -332,7 +332,6 @@
 
 - [ohm](https://github.com/harc/ohm) - A library and language for building parsers, interpreters, compilers, etc.
 - [cml](https://github.com/iterative/cml) - ♾️ CML - Continuous Machine Learning | CI/CD for ML
-- [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
 - [atomizer](https://github.com/acss-io/atomizer) - A tool for creating Atomic CSS, a collection of single purpose styling units for maximum reuse.
 - [shepherd](https://github.com/shipshapecode/shepherd) - Guide your users through a tour of your app
 - [ieaseMusic](https://github.com/trazyn/ieaseMusic) - 网易云音乐第三方
@@ -466,7 +465,7 @@
 - [ml-system-design-pattern](https://github.com/mercari/ml-system-design-pattern) - System design patterns for machine learning
 - [lox-language](https://github.com/danman113/lox-language) - Syntax highlighting for Lox, everyone's favorite interpreted learning-language
 - [awesome-c](https://github.com/kozross/awesome-c) - A curated list of awesome C frameworks, libraries, resources and other shiny things. Inspired by all the other awesome-... projects out there.
-- [jshistory-cn](https://github.com/doodlewind/jshistory-cn) - 🇨🇳《JavaScript 20 年史》中文版
+- [jshistory-cn](https://github.com/doodlewind/jshistory-cn) - 🇨🇳 《JavaScript 20 年史》中文版
 - [tech-radar](https://github.com/zalando/tech-radar) - Visualizing our technology choices
 - [book.rvemu](https://github.com/d0iasm/book.rvemu) - The book "Writing a RISC-V Emulator from Scratch in 10 Steps".
 - [typedoc](https://github.com/denodev/typedoc) - Deno API - Simplified Chinese
@@ -693,6 +692,12 @@
 
 ## Rust 
 
+- [amiya](https://github.com/7sDream/amiya) - experimental middleware-based minimalism async HTTP server framework
+- [polling](https://github.com/stjepang/polling) - Portable interface to epoll, kqueue, and wepoll
+- [kv-log-macro](https://github.com/yoshuawuyts/kv-log-macro) - Log macro for logs kv-unstable backend
+- [femme](https://github.com/lrlna/femme) - Not just a pretty (inter)face: pretty-printer + ndjson logger for log crate.
+- [colortty](https://github.com/shuhei/colortty) - 🎨 A utility to generate color schemes for alacritty
+- [cymbal](https://github.com/shuhei/cymbal) - Yet another Rust implementation of the Monkey language from "Writing an Interpreter in Go" and "Writing a Compiler in Go"
 - [mun](https://github.com/mun-lang/mun) - Source code for the Mun language and runtime.
 - [rpds](https://github.com/orium/rpds) - Rust Persistent Data Structures
 - [kdtree-rs](https://github.com/mrhooray/kdtree-rs) - K-dimensional tree in Rust for fast geospatial indexing and lookup
@@ -929,6 +934,7 @@
 
 ## TypeScript 
 
+- [StaticScript](https://github.com/ovr/StaticScript) - :rocket: TypeScript compiler on top of TypeScript as frontend and LLVM as backend
 - [berial](https://github.com/berialjs/berial) - 😈 Simple micro-front-end framework.
 - [nativefier](https://github.com/jiahaog/nativefier) - Make any web page a desktop application
 - [knboard](https://github.com/rrebase/knboard) - Kanban boards with React & Django.

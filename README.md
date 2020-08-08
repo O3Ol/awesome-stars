@@ -220,6 +220,7 @@
 
 ## CSS 
 
+- [zola-theme-terminimal](https://github.com/pawroman/zola-theme-terminimal) - A simple, minimal retro theme for Zola
 - [course-starter-python](https://github.com/ines/course-starter-python) - 👩‍🏫🐍 Starter repo for building interactive Python courses
 - [ocaml-book](https://github.com/dmbaturin/ocaml-book) - A free culture OCaml textbook
 - [the-unix-workbench](https://github.com/seankross/the-unix-workbench) - :house_with_garden: A Book for Anyone to Get Started with Unix
@@ -348,7 +349,7 @@
 - [rust-search-extension](https://github.com/huhu/rust-search-extension) - 🦀The ultimate search extension for Rust
 - [hapi](https://github.com/hapijs/hapi) - The Simple, Secure Framework Developers Trust
 - [AutoKnowledge](https://github.com/GuitarmonYz/AutoKnowledge) - a full-stack bundle of a implementation of knowledge graph with graph database, using VUE, Echarts, Django, Neo4j
-- [snowpack](https://github.com/pikapkg/snowpack) - The near-instant build tool for modern web apps.
+- [snowpack](https://github.com/pikapkg/snowpack) - The faster frontend build tool. No bundler needed ✌️
 - [community-edition](https://github.com/ramboxapp/community-edition) - Free and Open Source messaging and emailing app that combines common web applications into one.
 - [degoogle](https://github.com/tycrek/degoogle) - A huge list of alternatives to Google products. Privacy tips, tricks, and links.
 - [1on1-questions](https://github.com/VGraupera/1on1-questions) - Mega list of 1 on 1 meeting questions compiled from a variety to sources
@@ -532,7 +533,6 @@
 - [955.WLB](https://github.com/formulahendry/955.WLB) - 955 不加班的公司名单 - 工作 955，work–life balance (工作与生活的平衡)
 - [awesome-web-security](https://github.com/qazbnm456/awesome-web-security) - 🐶 A curated list of Web Security materials and resources.
 - [rust-web-framework-comparison](https://github.com/flosse/rust-web-framework-comparison) - A comparison of some web frameworks and libs written in Rust
-- [toml](https://github.com/toml-lang/toml) - Tom's Obvious, Minimal Language
 - [vanilla-js-dom](https://github.com/Haeresis/vanilla-js-dom) - Vanilla JS is a fast, lightweight, cross-platform framework for building incredible, powerful JavaScript applications.
 - [engineering-code-of-conduct](https://github.com/digitalocean/engineering-code-of-conduct) - Code of Conduct for DigitalOcean's Engineering Team
 - [Learn_Computer_Science_in_5_Months](https://github.com/llSourcell/Learn_Computer_Science_in_5_Months) - This is the Curriculum for "Learn Computer Science in 5 Months" By Siraj Raval on Youtube
@@ -653,6 +653,7 @@
 - [uvicorn](https://github.com/encode/uvicorn) - The lightning-fast ASGI server. 🦄
 - [starlette](https://github.com/encode/starlette) - The little ASGI framework that shines. 🌟
 - [cython](https://github.com/cython/cython) - The most widely used Python to C compiler
+- [toml](https://github.com/toml-lang/toml) - Tom's Obvious, Minimal Language
 - [Interlace](https://github.com/codingo/Interlace) - Easily turn single threaded command line applications into a fast, multi-threaded application with CIDR and glob support.
 - [book](https://github.com/cosmicpython/book) - A Book about Pythonic Application Architecture Patterns for Managing Complexity.  Cosmos is the Opposite of Chaos you see. O'R. wouldn't actually let us call it "Cosmic Python" tho.
 - [OpenNMT-py](https://github.com/OpenNMT/OpenNMT-py) - Open Source Neural Machine Translation in PyTorch
@@ -692,6 +693,7 @@
 
 ## Rust 
 
+- [muta](https://github.com/nervosnetwork/muta) - Muta is a high-performance blockchain framework.
 - [amiya](https://github.com/7sDream/amiya) - experimental middleware-based minimalism async HTTP server framework
 - [polling](https://github.com/stjepang/polling) - Portable interface to epoll, kqueue, and wepoll
 - [kv-log-macro](https://github.com/yoshuawuyts/kv-log-macro) - Log macro for logs kv-unstable backend
@@ -934,6 +936,9 @@
 
 ## TypeScript 
 
+- [artipub](https://github.com/crawlab-team/artipub) - Article publishing platform that automatically distributes your articles to various media channels
+- [ext-saladict](https://github.com/crimx/ext-saladict) - Feature-rich professional inline translator.
+- [fast](https://github.com/microsoft/fast) - The adaptive interface system  for modern web experiences.
 - [StaticScript](https://github.com/ovr/StaticScript) - :rocket: TypeScript compiler on top of TypeScript as frontend and LLVM as backend
 - [berial](https://github.com/berialjs/berial) - 😈 Simple micro-front-end framework.
 - [nativefier](https://github.com/jiahaog/nativefier) - Make any web page a desktop application

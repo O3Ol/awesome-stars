@@ -693,6 +693,8 @@
 
 ## Rust 
 
+- [neovide](https://github.com/Kethku/neovide) - No Nonsense Neovim Client in Rust
+- [futures-micro](https://github.com/irrustible/futures-micro) - To futures-lite as futures-lite is to futures: smaller.
 - [muta](https://github.com/nervosnetwork/muta) - Muta is a high-performance blockchain framework.
 - [amiya](https://github.com/7sDream/amiya) - experimental middleware-based minimalism async HTTP server framework
 - [polling](https://github.com/stjepang/polling) - Portable interface to epoll, kqueue, and wepoll

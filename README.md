@@ -564,6 +564,7 @@
 
 ## Python 
 
+- [crumby](https://github.com/bmweiner/crumby) - 🍪 A Flask based web analytics app.
 - [denite.nvim](https://github.com/Shougo/denite.nvim) - :dragon: Dark powered asynchronous unite all interfaces for Neovim/Vim8
 - [data-version-control](https://github.com/realpython/data-version-control) - 
 - [aioflask](https://github.com/miguelgrinberg/aioflask) - Flask running on asyncio!
@@ -693,6 +694,7 @@
 
 ## Rust 
 
+- [libavif-rs](https://github.com/njaard/libavif-rs) - Rust AVIF Decoder and Encoder crate
 - [neovide](https://github.com/Kethku/neovide) - No Nonsense Neovim Client in Rust
 - [futures-micro](https://github.com/irrustible/futures-micro) - To futures-lite as futures-lite is to futures: smaller.
 - [muta](https://github.com/nervosnetwork/muta) - Muta is a high-performance blockchain framework.
@@ -885,6 +887,7 @@
 
 ## Shell 
 
+- [bootstrap-scripts](https://github.com/serpent-linux/bootstrap-scripts) - Simple repo for bootstrapping first images
 - [aviary.sh](https://github.com/team-video/aviary.sh) - Minimal distributed configuration management in bash
 - [swarmlet](https://github.com/swarmlet/swarmlet) - A self-hosted, open-source Platform as a Service that enables easy swarm deployments, load balancing, automatic SSL, metrics, analytics and more.
 - [scripts-to-rule-them-all](https://github.com/github/scripts-to-rule-them-all) - Scripts to Rule Them All

@@ -77,7 +77,7 @@
 - [liballoc](https://github.com/blanham/liballoc) - liballoc - a memory allocator for hobbyist operating systems
 - [wlang](https://github.com/rsms/wlang) - Programming language in development
 - [mallocng-draft](https://github.com/richfelker/mallocng-draft) - Working draft of nextgen malloc implementation for musl libc
-- [horse64](https://github.com/horse64/horse64) - A simple & versatile high-level programming language.
+- [core.horse64.org](https://github.com/horse64/core.horse64.org) - A simple & versatile high-level programming language.
 - [uSockets](https://github.com/uNetworking/uSockets) - Miniscule cross-platform eventing, networking & crypto for async applications
 - [libcmdf](https://github.com/ronen25/libcmdf) - Single-header library for writing CLI applications in C/C++
 - [sowm](https://github.com/dylanaraps/sowm) - An itsy bitsy floating window manager (220~ sloc!).
@@ -164,6 +164,7 @@
 
 ## C++ 
 
+- [vcpkg](https://github.com/microsoft/vcpkg) - C++ Library Manager for Windows, Linux, and MacOS
 - [LearnOpenGL](https://github.com/JoeyDeVries/LearnOpenGL) - Code repository of all OpenGL chapters from the book and its accompanying website https://learnopengl.com
 - [tinyrenderer](https://github.com/ssloy/tinyrenderer) - A brief computer graphics / rendering course
 - [learning-v8](https://github.com/danbev/learning-v8) - Project for learning V8 internals
@@ -215,7 +216,6 @@
 
 ## CMake 
 
-- [vcpkg](https://github.com/microsoft/vcpkg) - C++ Library Manager for Windows, Linux, and MacOS
 - [learning-cmake](https://github.com/Akagi201/learning-cmake) - learning cmake
 
 ## CSS 
@@ -564,6 +564,7 @@
 
 ## Python 
 
+- [raft](https://github.com/hjwp/raft) - Raft consensus algorithm toy project
 - [crumby](https://github.com/bmweiner/crumby) - 🍪 A Flask based web analytics app.
 - [denite.nvim](https://github.com/Shougo/denite.nvim) - :dragon: Dark powered asynchronous unite all interfaces for Neovim/Vim8
 - [data-version-control](https://github.com/realpython/data-version-control) - 

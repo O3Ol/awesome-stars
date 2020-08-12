@@ -68,6 +68,8 @@
 
 ## C 
 
+- [hat-trie](https://github.com/dcjones/hat-trie) - An efficient trie implementation.
+- [Hurlex-II](https://github.com/hurley25/Hurlex-II) - 第二版重新设计和构思，参考一些优秀的实现进行补充设计和编码。
 - [termbox](https://github.com/nsf/termbox) - Library for writing text-based user interfaces
 - [fastvm](https://github.com/baikaishiuc/fastvm) - arm virtual engine
 - [StepFC](https://github.com/dustpg/StepFC) - Make FC(NES) Emulator Step-by-Step 一步一步模拟红白机
@@ -164,6 +166,7 @@
 
 ## C++ 
 
+- [hat-trie](https://github.com/Tessil/hat-trie) - C++ implementation of a fast and memory efficient HAT-trie
 - [vcpkg](https://github.com/microsoft/vcpkg) - C++ Library Manager for Windows, Linux, and MacOS
 - [LearnOpenGL](https://github.com/JoeyDeVries/LearnOpenGL) - Code repository of all OpenGL chapters from the book and its accompanying website https://learnopengl.com
 - [tinyrenderer](https://github.com/ssloy/tinyrenderer) - A brief computer graphics / rendering course
@@ -331,6 +334,7 @@
 
 ## JavaScript 
 
+- [LCRH](https://github.com/LCTT/LCRH) - LCRH - SIG
 - [ohm](https://github.com/harc/ohm) - A library and language for building parsers, interpreters, compilers, etc.
 - [cml](https://github.com/iterative/cml) - ♾️ CML - Continuous Machine Learning | CI/CD for ML
 - [atomizer](https://github.com/acss-io/atomizer) - A tool for creating Atomic CSS, a collection of single purpose styling units for maximum reuse.
@@ -349,7 +353,7 @@
 - [rust-search-extension](https://github.com/huhu/rust-search-extension) - 🦀The ultimate search extension for Rust
 - [hapi](https://github.com/hapijs/hapi) - The Simple, Secure Framework Developers Trust
 - [AutoKnowledge](https://github.com/GuitarmonYz/AutoKnowledge) - a full-stack bundle of a implementation of knowledge graph with graph database, using VUE, Echarts, Django, Neo4j
-- [snowpack](https://github.com/pikapkg/snowpack) - The faster frontend build tool. No bundler needed ✌️
+- [snowpack](https://github.com/pikapkg/snowpack) - The faster frontend build tool. Unbundled web development ✌️
 - [community-edition](https://github.com/ramboxapp/community-edition) - Free and Open Source messaging and emailing app that combines common web applications into one.
 - [degoogle](https://github.com/tycrek/degoogle) - A huge list of alternatives to Google products. Privacy tips, tricks, and links.
 - [1on1-questions](https://github.com/VGraupera/1on1-questions) - Mega list of 1 on 1 meeting questions compiled from a variety to sources
@@ -700,7 +704,7 @@
 - [futures-micro](https://github.com/irrustible/futures-micro) - To futures-lite as futures-lite is to futures: smaller.
 - [muta](https://github.com/nervosnetwork/muta) - Muta is a high-performance blockchain framework.
 - [amiya](https://github.com/7sDream/amiya) - experimental middleware-based minimalism async HTTP server framework
-- [polling](https://github.com/stjepang/polling) - Portable interface to epoll, kqueue, and wepoll
+- [polling](https://github.com/stjepang/polling) - Portable interface to epoll, kqueue, event ports, and wepoll
 - [kv-log-macro](https://github.com/yoshuawuyts/kv-log-macro) - Log macro for logs kv-unstable backend
 - [femme](https://github.com/lrlna/femme) - Not just a pretty (inter)face: pretty-printer + ndjson logger for log crate.
 - [colortty](https://github.com/shuhei/colortty) - 🎨 A utility to generate color schemes for alacritty
@@ -942,6 +946,7 @@
 
 ## TypeScript 
 
+- [rocon](https://github.com/uhyo/rocon) - Router Library with Ultimate Type Safety
 - [artipub](https://github.com/crawlab-team/artipub) - Article publishing platform that automatically distributes your articles to various media channels
 - [ext-saladict](https://github.com/crimx/ext-saladict) - Feature-rich professional inline translator.
 - [fast](https://github.com/microsoft/fast) - The adaptive interface system  for modern web experiences.

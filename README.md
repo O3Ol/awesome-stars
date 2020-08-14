@@ -68,6 +68,7 @@
 
 ## C 
 
+- [umka-lang](https://github.com/vtereshkov/umka-lang) - Umka: a statically typed embeddable scripting language
 - [renderer](https://github.com/zauonlok/renderer) - A shader-based software renderer written from scratch in C89
 - [hat-trie](https://github.com/dcjones/hat-trie) - An efficient trie implementation.
 - [Hurlex-II](https://github.com/hurley25/Hurlex-II) - 第二版重新设计和构思，参考一些优秀的实现进行补充设计和编码。
@@ -699,6 +700,7 @@
 
 ## Rust 
 
+- [simplejit-demo](https://github.com/bytecodealliance/simplejit-demo) - JIT compiler and runtime for a toy language, using Cranelift
 - [libavif-rs](https://github.com/njaard/libavif-rs) - Rust AVIF Decoder and Encoder crate
 - [neovide](https://github.com/Kethku/neovide) - No Nonsense Neovim Client in Rust
 - [futures-micro](https://github.com/irrustible/futures-micro) - To futures-lite as futures-lite is to futures: smaller.
@@ -821,6 +823,7 @@
 - [iced](https://github.com/hecrj/iced) - A cross-platform GUI library for Rust, inspired by Elm
 - [actix-raft](https://github.com/railgun-rs/actix-raft) - An implementation of the Raft consensus protocol using the actix Actor framework.
 - [ropey](https://github.com/cessen/ropey) - A utf8 text rope for manipulating and editing large texts.
+- [wasmer](https://github.com/wasmerio/wasmer) - 🚀 The leading WebAssembly Runtime supporting WASI and Emscripten
 - [cask](https://github.com/andresilva/cask) - A fast key-value store written in Rust
 - [paxos](https://github.com/nwtnni/paxos) - Distributed consensus protocol for replicated state machines
 - [rustlings](https://github.com/rust-lang/rustlings) - :crab: Small exercises to get you used to reading and writing Rust code!
@@ -1028,7 +1031,6 @@
 
 ## WebAssembly 
 
-- [wasmer](https://github.com/wasmerio/wasmer) - 🚀 The leading WebAssembly Runtime supporting WASI and Emscripten
 - [cppwasm-book](https://github.com/3dgen/cppwasm-book) - :books: WebAssembly friendly programming with C/C++ -- Emscripten practice
 
 

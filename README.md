@@ -168,6 +168,7 @@
 
 ## C++ 
 
+- [panda3d](https://github.com/panda3d/panda3d) - Powerful, mature open-source cross-platform game engine for Python and C++, developed by Disney and CMU
 - [hat-trie](https://github.com/Tessil/hat-trie) - C++ implementation of a fast and memory efficient HAT-trie
 - [vcpkg](https://github.com/microsoft/vcpkg) - C++ Library Manager for Windows, Linux, and MacOS
 - [LearnOpenGL](https://github.com/JoeyDeVries/LearnOpenGL) - Code repository of all OpenGL chapters from the book and its accompanying website https://learnopengl.com
@@ -700,6 +701,9 @@
 
 ## Rust 
 
+- [raft-frp](https://github.com/MarinPostma/raft-frp) - raft,  for regular people
+- [tikv](https://github.com/tikv/tikv) - Distributed transactional key-value database, originally created to complement TiDB
+- [dialoguer](https://github.com/mitsuhiko/dialoguer) - Rust utility library for nice command line prompts and similar things
 - [simplejit-demo](https://github.com/bytecodealliance/simplejit-demo) - JIT compiler and runtime for a toy language, using Cranelift
 - [libavif-rs](https://github.com/njaard/libavif-rs) - Rust AVIF Decoder and Encoder crate
 - [neovide](https://github.com/Kethku/neovide) - No Nonsense Neovim Client in Rust

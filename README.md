@@ -168,6 +168,7 @@
 
 ## C++ 
 
+- [drogon](https://github.com/an-tao/drogon) - Drogon: A C++14/17 based HTTP web application framework running on Linux/macOS/Unix/Windows
 - [panda3d](https://github.com/panda3d/panda3d) - Powerful, mature open-source cross-platform game engine for Python and C++, developed by Disney and CMU
 - [hat-trie](https://github.com/Tessil/hat-trie) - C++ implementation of a fast and memory efficient HAT-trie
 - [vcpkg](https://github.com/microsoft/vcpkg) - C++ Library Manager for Windows, Linux, and MacOS
@@ -226,6 +227,7 @@
 
 ## CSS 
 
+- [halfmoon](https://github.com/halfmoonui/halfmoon) - Front-end framework with a built-in dark mode, designed for rapidly building beautiful dashboards and product pages.
 - [zola-theme-terminimal](https://github.com/pawroman/zola-theme-terminimal) - A simple, minimal retro theme for Zola
 - [course-starter-python](https://github.com/ines/course-starter-python) - 👩‍🏫🐍 Starter repo for building interactive Python courses
 - [ocaml-book](https://github.com/dmbaturin/ocaml-book) - A free culture OCaml textbook
@@ -570,6 +572,7 @@
 
 ## Python 
 
+- [sharp](https://github.com/revalo/sharp) - Automatic REST API code generation for Python Flask and JavaScript 🕸
 - [raft](https://github.com/hjwp/raft) - Raft consensus algorithm toy project
 - [crumby](https://github.com/bmweiner/crumby) - 🍪 A Flask based web analytics app.
 - [denite.nvim](https://github.com/Shougo/denite.nvim) - :dragon: Dark powered asynchronous unite all interfaces for Neovim/Vim8
@@ -701,6 +704,9 @@
 
 ## Rust 
 
+- [tracing](https://github.com/tokio-rs/tracing) - Application level tracing for Rust.
+- [rust-shell-script](https://github.com/rust-shell-script/rust-shell-script) - Rustlike shell scripting language; Resilient & robust shell script, compiling to rust code/bash script
+- [rust_cmd_lib](https://github.com/rust-shell-script/rust_cmd_lib) - Common rust command-line macros and utilities, to write shell-script like tasks in a clean, natural and rusty way
 - [raft-frp](https://github.com/MarinPostma/raft-frp) - raft,  for regular people
 - [tikv](https://github.com/tikv/tikv) - Distributed transactional key-value database, originally created to complement TiDB
 - [dialoguer](https://github.com/mitsuhiko/dialoguer) - Rust utility library for nice command line prompts and similar things

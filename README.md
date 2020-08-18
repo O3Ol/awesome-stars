@@ -68,6 +68,8 @@
 
 ## C 
 
+- [some_tiny_interpreters](https://github.com/Adancurusul/some_tiny_interpreters) - some interpreters with high protability
+- [gd32vf103-vga-ps2keyboard](https://github.com/Adancurusul/gd32vf103-vga-ps2keyboard) - 
 - [umka-lang](https://github.com/vtereshkov/umka-lang) - Umka: a statically typed embeddable scripting language
 - [renderer](https://github.com/zauonlok/renderer) - A shader-based software renderer written from scratch in C89
 - [hat-trie](https://github.com/dcjones/hat-trie) - An efficient trie implementation.
@@ -158,6 +160,7 @@
 - [lua](https://github.com/lua/lua) - The Lua repo, as seen by the Lua team. Mirrored irregularly. Please DO NOT send pull requests. Send issues/patches to the Lua mailing list https://www.lua.org/lua-l.html
 - [mpc](https://github.com/orangeduck/mpc) - A Parser Combinator library for C
 - [db_tutorial](https://github.com/cstack/db_tutorial) - Writing a sqlite clone from scratch in C
+- [oni2](https://github.com/onivim/oni2) - Native, lightweight modal code editor
 - [nnn](https://github.com/jarun/nnn) - n³ The missing terminal file manager for X.
 - [os-tutorial](https://github.com/cfenollosa/os-tutorial) - How to create an OS from scratch
 
@@ -688,7 +691,6 @@
 ## Reason 
 
 - [revery](https://github.com/revery-ui/revery) - :zap: Native, high-performance, cross-platform desktop apps - built with Reason!
-- [oni2](https://github.com/onivim/oni2) - Native, lightweight modal code editor
 
 ## Ruby 
 
@@ -704,6 +706,7 @@
 
 ## Rust 
 
+- [gitoxide](https://github.com/Byron/gitoxide) - An idiomatic, modern, lean, fast, safe & pure rust implementation of git
 - [tracing](https://github.com/tokio-rs/tracing) - Application level tracing for Rust.
 - [rust-shell-script](https://github.com/rust-shell-script/rust-shell-script) - Rustlike shell scripting language; Resilient & robust shell script, compiling to rust code/bash script
 - [rust_cmd_lib](https://github.com/rust-shell-script/rust_cmd_lib) - Common rust command-line macros and utilities, to write shell-script like tasks in a clean, natural and rusty way
@@ -732,7 +735,7 @@
 - [async-graphql-sqlx-example](https://github.com/danbruder/async-graphql-sqlx-example) - Minimal example using async_graphql, sqlx, warp, and sqlite
 - [warp-api-starter-template](https://github.com/rusty-crab/warp-api-starter-template) - A boilerplate template for starting a web services using Warp + SQLx (PostgreSQL) + Redis + Juniper (GraphQL). ❤️
 - [futures-lite](https://github.com/stjepang/futures-lite) - A lightweight async prelude
-- [uniffi-rs](https://github.com/mozilla/uniffi-rs) - A little experiment in more easily building cross-platform components in rust
+- [uniffi-rs](https://github.com/mozilla/uniffi-rs) - a multi-language bindings generator for rust
 - [rust-design-pattern](https://github.com/lpxxn/rust-design-pattern) - rust design patterns
 - [viz](https://github.com/viz-rs/viz) - Fast, flexible, minimalist web framework for Rust
 - [image](https://github.com/image-rs/image) - Encoding and decoding images in Rust
@@ -831,7 +834,7 @@
 - [dashmap](https://github.com/xacrimon/dashmap) - Blazing fast concurrent HashMap for Rust.
 - [canduma](https://github.com/clifinger/canduma) - A Rust Boilerplate server with GraphQL API, Diesel, PostgreSQL, session authentication and JWT
 - [iced](https://github.com/hecrj/iced) - A cross-platform GUI library for Rust, inspired by Elm
-- [actix-raft](https://github.com/railgun-rs/actix-raft) - An implementation of the Raft consensus protocol using the actix Actor framework.
+- [async-raft](https://github.com/async-raft/async-raft) - An implementation of the Raft distributed consensus protocol using the Tokio framework.
 - [ropey](https://github.com/cessen/ropey) - A utf8 text rope for manipulating and editing large texts.
 - [wasmer](https://github.com/wasmerio/wasmer) - 🚀 The leading WebAssembly Runtime supporting WASI and Emscripten
 - [cask](https://github.com/andresilva/cask) - A fast key-value store written in Rust

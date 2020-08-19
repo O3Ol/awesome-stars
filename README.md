@@ -171,6 +171,7 @@
 
 ## C++ 
 
+- [incubator-brpc](https://github.com/apache/incubator-brpc) - Industrial-grade RPC framework used throughout Baidu, with 1,000,000+ instances and thousands kinds of services, called "baidu-rpc" inside Baidu.
 - [drogon](https://github.com/an-tao/drogon) - Drogon: A C++14/17 based HTTP web application framework running on Linux/macOS/Unix/Windows
 - [panda3d](https://github.com/panda3d/panda3d) - Powerful, mature open-source cross-platform game engine for Python and C++, developed by Disney and CMU
 - [hat-trie](https://github.com/Tessil/hat-trie) - C++ implementation of a fast and memory efficient HAT-trie
@@ -185,7 +186,7 @@
 - [winget-cli](https://github.com/microsoft/winget-cli) - Windows Package Manager CLI (aka winget)
 - [replxx](https://github.com/AmokHuginnsson/replxx) - A readline and libedit replacement that supports UTF-8, syntax highlighting, hints and Windows and is BSD licensed.
 - [seastar](https://github.com/scylladb/seastar) - High performance server-side application framework
-- [Project_LemonLime](https://github.com/iotang/Project_LemonLime) - 为了 OI 比赛而生的基于 Lemon + LemonPlus 的轻量评测系统 | 三大桌面系统支持
+- [Project_LemonLime](https://github.com/Project-LemonLime/Project_LemonLime) - 为了 OI 比赛而生的基于 Lemon + LemonPlus 的轻量评测系统 | 三大桌面系统支持
 - [build_system_tools](https://github.com/asartori86/build_system_tools) - Gentle introduction to the basics of CMake and meson, and unit-testing with gtest.
 - [rust-bindgen](https://github.com/rust-lang/rust-bindgen) - Automatically generates Rust FFI bindings to C (and some C++) libraries.
 - [leela-zero](https://github.com/leela-zero/leela-zero) - Go engine with no human-provided knowledge, modeled after the AlphaGo Zero paper.
@@ -281,6 +282,7 @@
 
 ## Go 
 
+- [Golang_Puzzlers](https://github.com/hyper0x/Golang_Puzzlers) - An example project, for my column named "Core Golang - 36 lessons"
 - [coredns](https://github.com/coredns/coredns) - CoreDNS is a DNS server that chains plugins
 - [gbt](https://github.com/jtyr/gbt) - Highly configurable prompt builder for Bash, ZSH and PowerShell written in Go.
 - [vault](https://github.com/hashicorp/vault) - A tool for secrets management, encryption as a service, and privileged access management
@@ -358,7 +360,7 @@
 - [neovis.js](https://github.com/neo4j-contrib/neovis.js) - Neo4j + vis.js = neovis.js. Graph visualizations in the browser with data from Neo4j.
 - [mouselog](https://github.com/microsoft/mouselog) - 🐾 A web-based tool for logging, visualizing and analyzing mouse events like movement and clicks.
 - [redwood](https://github.com/redwoodjs/redwood) - Bringing full-stack to the Jamstack.
-- [rust-search-extension](https://github.com/huhu/rust-search-extension) - 🦀The ultimate search extension for Rust
+- [rust-search-extension](https://github.com/huhu/rust-search-extension) - 🦀 The ultimate search extension for Rust
 - [hapi](https://github.com/hapijs/hapi) - The Simple, Secure Framework Developers Trust
 - [AutoKnowledge](https://github.com/GuitarmonYz/AutoKnowledge) - a full-stack bundle of a implementation of knowledge graph with graph database, using VUE, Echarts, Django, Neo4j
 - [snowpack](https://github.com/pikapkg/snowpack) - The faster frontend build tool. Unbundled web development ✌️
@@ -1024,7 +1026,7 @@
 
 ## Verilog 
 
-- [darkriscv](https://github.com/darklife/darkriscv) - opensouce RISC-V implemented from scratch in one night!
+- [darkriscv](https://github.com/darklife/darkriscv) - opensouce RISC-V cpu core implemented in Verilog from scratch in one night!
 - [picorv32](https://github.com/cliffordwolf/picorv32) - PicoRV32 - A Size-Optimized RISC-V CPU
 - [e200_opensource](https://github.com/SI-RISCV/e200_opensource) - The Ultra-Low Power RISC Core
 

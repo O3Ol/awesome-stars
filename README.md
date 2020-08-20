@@ -171,6 +171,7 @@
 
 ## C++ 
 
+- [llvm-project](https://github.com/llvm/llvm-project) - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies. Note: the repository does not accept github pull requests at this moment. Please submit your patches at http://reviews.llvm.org.
 - [incubator-brpc](https://github.com/apache/incubator-brpc) - Industrial-grade RPC framework used throughout Baidu, with 1,000,000+ instances and thousands kinds of services, called "baidu-rpc" inside Baidu.
 - [drogon](https://github.com/an-tao/drogon) - Drogon: A C++14/17 based HTTP web application framework running on Linux/macOS/Unix/Windows
 - [panda3d](https://github.com/panda3d/panda3d) - Powerful, mature open-source cross-platform game engine for Python and C++, developed by Disney and CMU
@@ -282,6 +283,7 @@
 
 ## Go 
 
+- [fiber](https://github.com/gofiber/fiber) - ⚡️ Fiber is an Express inspired web framework written in Go with ☕️
 - [Golang_Puzzlers](https://github.com/hyper0x/Golang_Puzzlers) - An example project, for my column named "Core Golang - 36 lessons"
 - [coredns](https://github.com/coredns/coredns) - CoreDNS is a DNS server that chains plugins
 - [gbt](https://github.com/jtyr/gbt) - Highly configurable prompt builder for Bash, ZSH and PowerShell written in Go.
@@ -470,6 +472,7 @@
 
 ## Others 
 
+- [cs420](https://github.com/kaist-cp/cs420) - KAIST CS420: Compiler Design (2020 Spring)
 - [architecture.of.internet-product](https://github.com/davideuler/architecture.of.internet-product) - 互联网公司技术架构，微信/淘宝/微博/腾讯/阿里/美团点评/百度/Google/Facebook/Amazon/eBay的架构，欢迎PR补充
 - [blockchain-papers](https://github.com/decrypto-org/blockchain-papers) - A curated list of academic blockchain-related papers
 - [raft-zh_cn](https://github.com/maemual/raft-zh_cn) - Raft一致性算法论文的中文翻译
@@ -577,6 +580,7 @@
 
 ## Python 
 
+- [platform-gd32v](https://github.com/sipeed/platform-gd32v) - GD32V: development platform for PlatformIO
 - [sharp](https://github.com/revalo/sharp) - Automatic REST API code generation for Python Flask and JavaScript 🕸
 - [raft](https://github.com/hjwp/raft) - Raft consensus algorithm toy project
 - [crumby](https://github.com/bmweiner/crumby) - 🍪 A Flask based web analytics app.
@@ -708,6 +712,7 @@
 
 ## Rust 
 
+- [kecc-public](https://github.com/kaist-cp/kecc-public) - KECC: KAIST Educational C Compiler.  IMPORTANT: DON'T FORK!
 - [gitoxide](https://github.com/Byron/gitoxide) - An idiomatic, modern, lean, fast, safe & pure rust implementation of git
 - [tracing](https://github.com/tokio-rs/tracing) - Application level tracing for Rust.
 - [rust-shell-script](https://github.com/rust-shell-script/rust-shell-script) - Rustlike shell scripting language; Resilient & robust shell script, compiling to rust code/bash script

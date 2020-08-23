@@ -712,6 +712,8 @@
 
 ## Rust 
 
+- [vega](https://github.com/rajasekarv/vega) - A new arguably faster implementation of Apache Spark from scratch in Rust
+- [amadeus](https://github.com/constellation-rs/amadeus) - Harmonious distributed data analysis in Rust.
 - [kecc-public](https://github.com/kaist-cp/kecc-public) - KECC: KAIST Educational C Compiler.  IMPORTANT: DON'T FORK!
 - [gitoxide](https://github.com/Byron/gitoxide) - An idiomatic, modern, lean, fast, safe & pure rust implementation of git
 - [tracing](https://github.com/tokio-rs/tracing) - Application level tracing for Rust.
@@ -862,7 +864,7 @@
 - [leftwm](https://github.com/leftwm/leftwm) - LeftWM - A tiling window manager for Adventurers
 - [spotify-tui](https://github.com/Rigellute/spotify-tui) - Spotify for the terminal written in Rust 🚀
 - [rubble](https://github.com/Kilerd/rubble) - a lightweight blog engine written in Rust.
-- [Plume](https://github.com/Plume-org/Plume) - Federated blogging application, thanks to ActivityPub (now on git.joinplu.me, this is just a mirror)
+- [Plume](https://github.com/Plume-org/Plume) - Federated blogging application, thanks to ActivityPub (now on https://git.joinplu.me/ — this is just a mirror)
 - [webapp.rs](https://github.com/saschagrunert/webapp.rs) - A web application completely written in Rust. 🌍
 - [ripalt](https://github.com/fuchsi/ripalt) - An Anti-Leech Torrent Tracker CMS based on actix-web
 - [actix-realworld-example-app](https://github.com/fairingrey/actix-realworld-example-app) - Implementation of the RealWorld backend API spec in Actix, Rust's powerful actor system and most fun web framework.

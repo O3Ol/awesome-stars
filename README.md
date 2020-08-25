@@ -975,7 +975,7 @@
 - [rocon](https://github.com/uhyo/rocon) - Router Library with Ultimate Type Safety
 - [artipub](https://github.com/crawlab-team/artipub) - Article publishing platform that automatically distributes your articles to various media channels
 - [ext-saladict](https://github.com/crimx/ext-saladict) - Feature-rich professional inline translator.
-- [fast](https://github.com/microsoft/fast) - The adaptive interface system  for modern web experiences.
+- [fast](https://github.com/microsoft/fast) - The adaptive interface system for modern web experiences.
 - [StaticScript](https://github.com/ovr/StaticScript) - :rocket: TypeScript compiler on top of TypeScript as frontend and LLVM as backend
 - [berial](https://github.com/berialjs/berial) - 😈 Simple micro-front-end framework.
 - [nativefier](https://github.com/jiahaog/nativefier) - Make any web page a desktop application

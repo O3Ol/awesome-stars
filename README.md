@@ -130,7 +130,7 @@
 - [simple.vm](https://github.com/skx/simple.vm) - Simple virtual machine which inteprets bytecode.
 - [bitwise](https://github.com/pervognsen/bitwise) - Bitwise is an educational project where we create the software/hardware stack for a computer from scratch.
 - [libuv](https://github.com/libuv/libuv) - Cross-platform asynchronous I/O
-- [wren](https://github.com/wren-lang/wren) - The Wren Programming Language
+- [wren](https://github.com/wren-lang/wren) - The Wren Programming Language. Wren is a small, fast, class-based concurrent scripting language.
 - [q3vm](https://github.com/jnz/q3vm) - Q3VM - Single file (vm.c) bytecode virtual machine/interpreter for C-language input
 - [MoarVM](https://github.com/MoarVM/MoarVM) - A VM with adaptive optimization and JIT compilation, built for Rakudo
 - [parrot](https://github.com/parrot/parrot) - Parrot Virtual Machine
@@ -366,7 +366,6 @@
 - [rust-search-extension](https://github.com/huhu/rust-search-extension) - 🦀 The ultimate search extension for Rust
 - [hapi](https://github.com/hapijs/hapi) - The Simple, Secure Framework Developers Trust
 - [AutoKnowledge](https://github.com/GuitarmonYz/AutoKnowledge) - a full-stack bundle of a implementation of knowledge graph with graph database, using VUE, Echarts, Django, Neo4j
-- [snowpack](https://github.com/pikapkg/snowpack) - The faster frontend build tool. Unbundled web development ✌️
 - [community-edition](https://github.com/ramboxapp/community-edition) - Free and Open Source messaging and emailing app that combines common web applications into one.
 - [degoogle](https://github.com/tycrek/degoogle) - A huge list of alternatives to Google products. Privacy tips, tricks, and links.
 - [1on1-questions](https://github.com/VGraupera/1on1-questions) - Mega list of 1 on 1 meeting questions compiled from a variety to sources
@@ -414,7 +413,7 @@
 - [KaTeX](https://github.com/KaTeX/KaTeX) - Fast math typesetting for the web.
 - [Gitter](https://github.com/huangjianke/Gitter) - Gitter for GitHub - 可能是目前颜值最高的GitHub微信小程序客户端
 - [500lines](https://github.com/aosabook/500lines) - 500 Lines or Less
-- [chinese-poetry](https://github.com/chinese-poetry/chinese-poetry) - The most comprehensive database of Chinese poetry 🧶最全中华古诗词数据库,  唐宋两朝近一万四千古诗人,  接近5.5万首唐诗加26万宋诗.  两宋时期1564位词人，21050首词。
+- [chinese-poetry](https://github.com/chinese-poetry/chinese-poetry) - The most comprehensive database of Chinese poetry 🧶最全中华古诗词数据库,  唐宋两朝近一万四千古诗人,  接近5.5万首唐诗加26万宋诗.  两宋时期1564位词人，21050首词。    阿里招 Python P6/P7 上海张江, gaojunqi@outlook.com
 - [dayjs](https://github.com/iamkun/dayjs) - ⏰ Day.js 2KB immutable date library alternative to Moment.js with the same modern API
 - [30-seconds-of-interviews](https://github.com/30-seconds/30-seconds-of-interviews) - A curated collection of common interview questions to help you prepare for your next interview.
 - [carbon](https://github.com/carbon-app/carbon) - :black_heart: Create and share beautiful images of your source code
@@ -703,7 +702,7 @@
 ## Ruby 
 
 - [forem](https://github.com/forem/forem) - For empowering community 🌱
-- [chatwoot](https://github.com/chatwoot/chatwoot) - Open-source live chat software 🔥💬
+- [chatwoot](https://github.com/chatwoot/chatwoot) - Open-source live chat software, an alternative to Intercom, Zendesk, Drift, Crisp etc. 🔥💬
 - [fresh](https://github.com/freshshell/fresh) - Keep your dotfiles fresh.
 - [betty](https://github.com/pickhardt/betty) - Friendly English-like interface for your command line. Don't remember a command? Ask Betty.
 - [remote-working](https://github.com/greatghoul/remote-working) - 收集整理远程工作相关的资料
@@ -991,6 +990,7 @@
 - [gh-card](https://github.com/nwtgck/gh-card) - :octocat: GitHub Repository Card for Any Web Site
 - [destiny](https://github.com/benawad/destiny) - Prettier for File Structures
 - [playwright](https://github.com/microsoft/playwright) - Node.js library to automate Chromium, Firefox and WebKit with a single API
+- [snowpack](https://github.com/pikapkg/snowpack) - The faster frontend build tool. Unbundled web development ✌️
 - [sigi](https://github.com/sigi-framework/sigi) - Well designed effect management framework for complex frontend app
 - [rust-playground](https://github.com/integer32llc/rust-playground) - The Rust Playground
 - [webiny-js](https://github.com/webiny/webiny-js) - Platform for building serverless applications and APIs (Node.js, React, GraphQL)

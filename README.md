@@ -68,6 +68,7 @@
 
 ## C 
 
+- [Hermes](https://github.com/ease-lab/Hermes) - Hermes: a fault-tolerant replication protocol, implemented over RDMA, guaranteeing linearizability and achieving low latency and high throughput.
 - [some_tiny_interpreters](https://github.com/Adancurusul/some_tiny_interpreters) - some interpreters with high protability
 - [gd32vf103-vga-ps2keyboard](https://github.com/Adancurusul/gd32vf103-vga-ps2keyboard) - 
 - [umka-lang](https://github.com/vtereshkov/umka-lang) - Umka: a statically typed embeddable scripting language
@@ -172,7 +173,7 @@
 ## C++ 
 
 - [llvm-project](https://github.com/llvm/llvm-project) - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies. Note: the repository does not accept github pull requests at this moment. Please submit your patches at http://reviews.llvm.org.
-- [incubator-brpc](https://github.com/apache/incubator-brpc) - Industrial-grade RPC framework used throughout Baidu, with 1,000,000+ instances and thousands kinds of services, called "baidu-rpc" inside Baidu.
+- [incubator-brpc](https://github.com/apache/incubator-brpc) - Industrial-grade RPC framework used throughout Baidu, with 1,000,000+ instances and thousands kinds of services. "brpc" means "better RPC".
 - [drogon](https://github.com/an-tao/drogon) - Drogon: A C++14/17 based HTTP web application framework running on Linux/macOS/Unix/Windows
 - [panda3d](https://github.com/panda3d/panda3d) - Powerful, mature open-source cross-platform game engine for Python and C++, developed by Disney and CMU
 - [hat-trie](https://github.com/Tessil/hat-trie) - C++ implementation of a fast and memory efficient HAT-trie
@@ -284,6 +285,7 @@
 
 ## Go 
 
+- [LeetCode-Go](https://github.com/halfrost/LeetCode-Go) - ✅ Solutions to LeetCode by Go, 100% test coverage, runtime beats 100% / LeetCode 题解
 - [fiber](https://github.com/gofiber/fiber) - ⚡️ Fiber is an Express inspired web framework written in Go with ☕️
 - [Golang_Puzzlers](https://github.com/hyper0x/Golang_Puzzlers) - An example project, for my column named "Core Golang - 36 lessons"
 - [coredns](https://github.com/coredns/coredns) - CoreDNS is a DNS server that chains plugins
@@ -713,6 +715,7 @@
 
 ## Rust 
 
+- [cavif](https://github.com/kornelski/cavif) - png2avif converter in pure Rust
 - [bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
 - [vega](https://github.com/rajasekarv/vega) - A new arguably faster implementation of Apache Spark from scratch in Rust
 - [amadeus](https://github.com/constellation-rs/amadeus) - Harmonious distributed data analysis in Rust.

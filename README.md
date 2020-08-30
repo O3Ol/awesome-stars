@@ -68,6 +68,7 @@
 
 ## C 
 
+- [x11clipboard](https://github.com/exebook/x11clipboard) - Two minimal "hello worlds" for X11 clipboard, one to COPY, one to PASTE
 - [Hermes](https://github.com/ease-lab/Hermes) - Hermes: a fault-tolerant replication protocol, implemented over RDMA, guaranteeing linearizability and achieving low latency and high throughput.
 - [some_tiny_interpreters](https://github.com/Adancurusul/some_tiny_interpreters) - some interpreters with high protability
 - [gd32vf103-vga-ps2keyboard](https://github.com/Adancurusul/gd32vf103-vga-ps2keyboard) - 
@@ -485,7 +486,7 @@
 - [ml-system-design-pattern](https://github.com/mercari/ml-system-design-pattern) - System design patterns for machine learning
 - [lox-language](https://github.com/danman113/lox-language) - Syntax highlighting for Lox, everyone's favorite interpreted learning-language
 - [awesome-c](https://github.com/kozross/awesome-c) - A curated list of awesome C frameworks, libraries, resources and other shiny things. Inspired by all the other awesome-... projects out there.
-- [jshistory-cn](https://github.com/doodlewind/jshistory-cn) - 🇨🇳 《JavaScript 20 年史》中文版
+- [jshistory-cn](https://github.com/doodlewind/jshistory-cn) - 🇨🇳 《JavaScript 20 年》中文版
 - [tech-radar](https://github.com/zalando/tech-radar) - Visualizing our technology choices
 - [book.rvemu](https://github.com/d0iasm/book.rvemu) - The book "Writing a RISC-V Emulator from Scratch in 10 Steps".
 - [typedoc](https://github.com/denodev/typedoc) - Deno API - Simplified Chinese
@@ -715,7 +716,9 @@
 
 ## Rust 
 
-- [cavif](https://github.com/kornelski/cavif) - png2avif converter in pure Rust
+- [TuringDB](https://github.com/charleschege/TuringDB) - A simple distributed document database backed by Sled Key/Value store
+- [stateright](https://github.com/stateright/stateright) - A model checker for implementing distributed systems.
+- [cavif](https://github.com/kornelski/cavif) - AVIF image creator in pure Rust
 - [bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
 - [vega](https://github.com/rajasekarv/vega) - A new arguably faster implementation of Apache Spark from scratch in Rust
 - [amadeus](https://github.com/constellation-rs/amadeus) - Harmonious distributed data analysis in Rust.

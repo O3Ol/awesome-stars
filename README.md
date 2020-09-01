@@ -716,6 +716,8 @@
 
 ## Rust 
 
+- [rust-peg](https://github.com/kevinmehall/rust-peg) - Parsing Expression Grammar (PEG) parser generator for Rust
+- [lang-c](https://github.com/vickenty/lang-c) - Lightweight C parser for Rust
 - [TuringDB](https://github.com/charleschege/TuringDB) - A simple distributed document database backed by Sled Key/Value store
 - [stateright](https://github.com/stateright/stateright) - A model checker for implementing distributed systems.
 - [cavif](https://github.com/kornelski/cavif) - AVIF image creator in pure Rust
@@ -980,7 +982,7 @@
 
 - [rocon](https://github.com/uhyo/rocon) - Router Library with Ultimate Type Safety
 - [artipub](https://github.com/crawlab-team/artipub) - Article publishing platform that automatically distributes your articles to various media channels
-- [ext-saladict](https://github.com/crimx/ext-saladict) - Feature-rich professional inline translator.
+- [ext-saladict](https://github.com/crimx/ext-saladict) - All-in-one professional inline translator.
 - [fast](https://github.com/microsoft/fast) - The adaptive interface system for modern web experiences.
 - [StaticScript](https://github.com/ovr/StaticScript) - :rocket: TypeScript compiler on top of TypeScript as frontend and LLVM as backend
 - [berial](https://github.com/berialjs/berial) - 😈 Simple micro-front-end framework.

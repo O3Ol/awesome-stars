@@ -68,6 +68,7 @@
 
 ## C 
 
+- [darknet-ocr](https://github.com/chineseocr/darknet-ocr) - darknet text detect and darknet cnn ocr
 - [x11clipboard](https://github.com/exebook/x11clipboard) - Two minimal "hello worlds" for X11 clipboard, one to COPY, one to PASTE
 - [Hermes](https://github.com/ease-lab/Hermes) - Hermes: a fault-tolerant replication protocol, implemented over RDMA, guaranteeing linearizability and achieving low latency and high throughput.
 - [some_tiny_interpreters](https://github.com/Adancurusul/some_tiny_interpreters) - some interpreters with high protability
@@ -716,6 +717,7 @@
 
 ## Rust 
 
+- [async-net](https://github.com/stjepang/async-net) - Async networking primitives for TCP/UDP/Unix communication
 - [rust-peg](https://github.com/kevinmehall/rust-peg) - Parsing Expression Grammar (PEG) parser generator for Rust
 - [lang-c](https://github.com/vickenty/lang-c) - Lightweight C parser for Rust
 - [TuringDB](https://github.com/charleschege/TuringDB) - A simple distributed document database backed by Sled Key/Value store

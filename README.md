@@ -170,7 +170,7 @@
 ## C# # 
 
 - [minsk](https://github.com/terrajobst/minsk) - This repo contains Minsk, a handwritten compiler in C#. It illustrates basic concepts of compiler construction and how one can tool the language inside of an IDE by exposing APIs for parsing and type checking.
-- [FASTER](https://github.com/microsoft/FASTER) - Fast persistent recoverable log and key-value store, in C# and C++, from Microsoft Research.
+- [FASTER](https://github.com/microsoft/FASTER) - Fast persistent recoverable log and key-value store + cache, in C# and C++, from Microsoft Research.
 
 ## C++ 
 
@@ -287,6 +287,7 @@
 
 ## Go 
 
+- [go-micro](https://github.com/micro/go-micro) - A Go standard library for microservices
 - [7days-golang](https://github.com/geektutu/7days-golang) - 7 days golang apps from scratch (web framework Gee, distributed cache GeeCache, object relational mapping ORM framework GeeORM etc)  7天用Go动手写/从零实现系列
 - [LeetCode-Go](https://github.com/halfrost/LeetCode-Go) - ✅ Solutions to LeetCode by Go, 100% test coverage, runtime beats 100% / LeetCode 题解
 - [fiber](https://github.com/gofiber/fiber) - ⚡️ Fiber is an Express inspired web framework written in Go with ☕️
@@ -718,6 +719,7 @@
 
 ## Rust 
 
+- [tao](https://github.com/zesterer/tao) - A statically-typed functional programming language
 - [async-net](https://github.com/stjepang/async-net) - Async networking primitives for TCP/UDP/Unix communication
 - [rust-peg](https://github.com/kevinmehall/rust-peg) - Parsing Expression Grammar (PEG) parser generator for Rust
 - [lang-c](https://github.com/vickenty/lang-c) - Lightweight C parser for Rust

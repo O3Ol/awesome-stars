@@ -719,6 +719,9 @@
 
 ## Rust 
 
+- [bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust
+- [casbin-rs](https://github.com/casbin/casbin-rs) - An authorization library that supports access control models like ACL, RBAC, ABAC in Rust.
+- [LearningRust](https://github.com/Kreedzt/LearningRust) - 
 - [tao](https://github.com/zesterer/tao) - A statically-typed functional programming language
 - [async-net](https://github.com/stjepang/async-net) - Async networking primitives for TCP/UDP/Unix communication
 - [rust-peg](https://github.com/kevinmehall/rust-peg) - Parsing Expression Grammar (PEG) parser generator for Rust

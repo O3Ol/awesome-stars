@@ -479,6 +479,7 @@
 
 ## Others 
 
+- [patterns](https://github.com/rust-unofficial/patterns) - A catalogue of Rust design patterns
 - [cs420](https://github.com/kaist-cp/cs420) - KAIST CS420: Compiler Design (2020 Spring)
 - [architecture.of.internet-product](https://github.com/davideuler/architecture.of.internet-product) - 互联网公司技术架构，微信/淘宝/微博/腾讯/阿里/美团点评/百度/Google/Facebook/Amazon/eBay的架构，欢迎PR补充
 - [blockchain-papers](https://github.com/decrypto-org/blockchain-papers) - A curated list of academic blockchain-related papers

@@ -78,7 +78,7 @@
 - [hat-trie](https://github.com/dcjones/hat-trie) - An efficient trie implementation.
 - [Hurlex-II](https://github.com/hurley25/Hurlex-II) - 第二版重新设计和构思，参考一些优秀的实现进行补充设计和编码。
 - [termbox](https://github.com/nsf/termbox) - Library for writing text-based user interfaces
-- [fastvm](https://github.com/baikaishiuc/fastvm) - arm virtual engine
+- [fastvm](https://github.com/baikaishiuc/fastvm) - deobfuse compiler
 - [StepFC](https://github.com/dustpg/StepFC) - Make FC(NES) Emulator Step-by-Step 一步一步模拟红白机
 - [mpc-hc](https://github.com/clsid2/mpc-hc) - Media Player Classic
 - [numpy](https://github.com/numpy/numpy) - The fundamental package for scientific computing with Python.
@@ -872,7 +872,7 @@
 - [talent-plan](https://github.com/pingcap/talent-plan) - open source training courses about distributed database and distributed systemes
 - [sled](https://github.com/spacejam/sled) - the champagne of beta embedded databases
 - [tinysearch](https://github.com/tinysearch/tinysearch) - 🔍 Tiny, full-text search engine for static websites built with Rust and Wasm
-- [examples](https://github.com/actix/examples) - Actix web examples
+- [examples](https://github.com/actix/examples) - Examples of Actix ecosystem usage.
 - [esp32](https://github.com/esp-rs/esp32) - Peripheral access crate for the ESP32
 - [svd2rust](https://github.com/rust-embedded/svd2rust) - Generate Rust register maps (`struct`s) from SVD files
 - [rdf-rs](https://github.com/scholtzan/rdf-rs) - RDF library implemented in Rust

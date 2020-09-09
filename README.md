@@ -111,7 +111,7 @@
 - [minunit](https://github.com/siu/minunit) - Minimal unit testing framework for C
 - [Unity](https://github.com/ThrowTheSwitch/Unity) - Simple Unit Testing for C
 - [write_a_c_compiler](https://github.com/nlsandler/write_a_c_compiler) - Test suite to help you write your own C compiler
-- [Tagha](https://github.com/Nirari-Technologies/Tagha) - Minimal, fast, and self-contained register-based virtual machine-based runtime environment for the C programming language.
+- [Tagha](https://github.com/Nirari-Technologies/Tagha) - Minimal, low-level, fast, and self-contained register-based virtual machine-based runtime environment.
 - [bytecode-interpreters-post](https://github.com/vkazanov/bytecode-interpreters-post) - A few basic bytecode interpreters used as example code in a series of articles
 - [Crossline](https://github.com/jcwangxp/Crossline) - A small, self-contained, zero-config, MIT licensed, cross-platform, readline and libedit replacement.
 - [lalloc](https://github.com/cloudwu/lalloc) - A allocator  for lua
@@ -588,6 +588,7 @@
 
 ## Python 
 
+- [hummingbird](https://github.com/microsoft/hummingbird) - Hummingbird compiles trained ML models into tensor computation for faster inference.
 - [platform-gd32v](https://github.com/sipeed/platform-gd32v) - GD32V: development platform for PlatformIO
 - [sharp](https://github.com/revalo/sharp) - Automatic REST API code generation for Python Flask and JavaScript 🕸
 - [raft](https://github.com/hjwp/raft) - Raft consensus algorithm toy project
@@ -720,6 +721,7 @@
 
 ## Rust 
 
+- [generic-simd](https://github.com/calebzulawski/generic-simd) - Generic SIMD abstractions for Rust.
 - [bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust
 - [casbin-rs](https://github.com/casbin/casbin-rs) - An authorization library that supports access control models like ACL, RBAC, ABAC in Rust.
 - [LearningRust](https://github.com/Kreedzt/LearningRust) - 

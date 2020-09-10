@@ -39,6 +39,7 @@
   - [Reason](#reason)
   - [Ruby](#ruby)
   - [Rust](#rust)
+  - [SCSS](#scss)
   - [Scala](#scala)
   - [Scheme](#scheme)
   - [Shell](#shell)
@@ -241,7 +242,6 @@
 - [ocaml-book](https://github.com/dmbaturin/ocaml-book) - A free culture OCaml textbook
 - [the-unix-workbench](https://github.com/seankross/the-unix-workbench) - :house_with_garden: A Book for Anyone to Get Started with Unix
 - [2019-Slides](https://github.com/PyConChina/2019-Slides) - PyCon China 2019 幻灯片
-- [stylesheet](https://github.com/elementary/stylesheet) - The GTK Stylesheet for elementary OS
 - [css](https://github.com/primer/css) - The CSS design system that powers GitHub
 - [icono](https://github.com/saeedalipoor/icono) - One tag One icon, no font or svg, Pure CSS
 - [machine-learning-yearning-cn](https://github.com/deeplearning-ai/machine-learning-yearning-cn) - Machine Learning Yearning 中文版 - 《机器学习训练秘籍》 - Andrew Ng 著
@@ -731,7 +731,7 @@
 - [lang-c](https://github.com/vickenty/lang-c) - Lightweight C parser for Rust
 - [TuringDB](https://github.com/charleschege/TuringDB) - A simple distributed document database backed by Sled Key/Value store
 - [stateright](https://github.com/stateright/stateright) - A model checker for implementing distributed systems.
-- [cavif](https://github.com/kornelski/cavif) - AVIF image creator in pure Rust
+- [cavif-rs](https://github.com/kornelski/cavif-rs) - AVIF image creator in pure Rust
 - [bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
 - [vega](https://github.com/rajasekarv/vega) - A new arguably faster implementation of Apache Spark from scratch in Rust
 - [amadeus](https://github.com/constellation-rs/amadeus) - Harmonious distributed data analysis in Rust.
@@ -925,6 +925,10 @@
 - [iota](https://github.com/gchp/iota) - A terminal-based text editor written in Rust
 - [rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
 - [servo](https://github.com/servo/servo) - The Servo Browser Engine
+
+## SCSS 
+
+- [stylesheet](https://github.com/elementary/stylesheet) - The GTK Stylesheet for elementary OS
 
 ## Scala 
 

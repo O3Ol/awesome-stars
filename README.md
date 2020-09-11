@@ -479,6 +479,7 @@
 
 ## Others 
 
+- [ddia](https://github.com/Vonng/ddia) - 《Designing Data-Intensive Application》DDIA中文翻译
 - [patterns](https://github.com/rust-unofficial/patterns) - A catalogue of Rust design patterns
 - [cs420](https://github.com/kaist-cp/cs420) - KAIST CS420: Compiler Design (2020 Spring)
 - [architecture.of.internet-product](https://github.com/davideuler/architecture.of.internet-product) - 互联网公司技术架构，微信/淘宝/微博/腾讯/阿里/美团点评/百度/Google/Facebook/Amazon/eBay的架构，欢迎PR补充
@@ -721,6 +722,8 @@
 
 ## Rust 
 
+- [s3-server](https://github.com/Nugine/s3-server) - 
+- [Project-47](https://github.com/Pr47/Project-47) - A single workspace repository
 - [generic-simd](https://github.com/calebzulawski/generic-simd) - Generic SIMD abstractions for Rust.
 - [bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust
 - [casbin-rs](https://github.com/casbin/casbin-rs) - An authorization library that supports access control models like ACL, RBAC, ABAC in Rust.

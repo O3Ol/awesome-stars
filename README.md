@@ -360,7 +360,7 @@
 - [shepherd](https://github.com/shipshapecode/shepherd) - Guide your users through a tour of your app
 - [ieaseMusic](https://github.com/trazyn/ieaseMusic) - 网易云音乐第三方
 - [PaperWM](https://github.com/paperwm/PaperWM) - Tiled scrollable window management for Gnome Shell
-- [userbase](https://github.com/encrypted-dev/userbase) - Create secure and private web apps using only static JavaScript, HTML, and CSS.
+- [userbase](https://github.com/smallbets/userbase) - Create secure and private web apps using only static JavaScript, HTML, and CSS.
 - [flask-twilio-video](https://github.com/miguelgrinberg/flask-twilio-video) - A small video conference application using Flask and Twilio Programmable Video
 - [tailwindcss-custom-forms](https://github.com/tailwindlabs/tailwindcss-custom-forms) - A better base for styling form elements with Tailwind CSS.
 - [toolbox](https://github.com/CyberZHG/toolbox) - https://cyberzhg.github.io/toolbox/
@@ -722,6 +722,8 @@
 
 ## Rust 
 
+- [puffin](https://github.com/EmbarkStudios/puffin) - 🐦 Simple instrumentation profiler for Rust 🦀
+- [sqlx](https://github.com/launchbadge/sqlx) - 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite.
 - [s3-server](https://github.com/Nugine/s3-server) - 
 - [Project-47](https://github.com/Pr47/Project-47) - A single workspace repository
 - [generic-simd](https://github.com/calebzulawski/generic-simd) - Generic SIMD abstractions for Rust.

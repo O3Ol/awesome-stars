@@ -722,6 +722,7 @@
 
 ## Rust 
 
+- [fathom](https://github.com/yeslogic/fathom) - 🚧 (Alpha stage software) A declarative data definition language for formally specifying binary data formats. 🚧
 - [puffin](https://github.com/EmbarkStudios/puffin) - 🐦 Simple instrumentation profiler for Rust 🦀
 - [sqlx](https://github.com/launchbadge/sqlx) - 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite.
 - [s3-server](https://github.com/Nugine/s3-server) - 

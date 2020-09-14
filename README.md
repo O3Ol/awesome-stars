@@ -726,7 +726,7 @@
 - [puffin](https://github.com/EmbarkStudios/puffin) - 🐦 Simple instrumentation profiler for Rust 🦀
 - [sqlx](https://github.com/launchbadge/sqlx) - 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite.
 - [s3-server](https://github.com/Nugine/s3-server) - 
-- [Project-47](https://github.com/Pr47/Project-47) - A single workspace repository
+- [Project-47](https://github.com/Pr47/Project-47) - Home for programming language Project-47
 - [generic-simd](https://github.com/calebzulawski/generic-simd) - Generic SIMD abstractions for Rust.
 - [bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust
 - [casbin-rs](https://github.com/casbin/casbin-rs) - An authorization library that supports access control models like ACL, RBAC, ABAC in Rust.
@@ -742,7 +742,7 @@
 - [vega](https://github.com/rajasekarv/vega) - A new arguably faster implementation of Apache Spark from scratch in Rust
 - [amadeus](https://github.com/constellation-rs/amadeus) - Harmonious distributed data analysis in Rust.
 - [kecc-public](https://github.com/kaist-cp/kecc-public) - KECC: KAIST Educational C Compiler.  IMPORTANT: DON'T FORK!
-- [gitoxide](https://github.com/Byron/gitoxide) - An idiomatic, modern, lean, fast, safe & pure rust implementation of git
+- [gitoxide](https://github.com/Byron/gitoxide) - An idiomatic, lean, fast & safe pure Rust implementation of Git
 - [tracing](https://github.com/tokio-rs/tracing) - Application level tracing for Rust.
 - [rust-shell-script](https://github.com/rust-shell-script/rust-shell-script) - Rustlike shell scripting language; Resilient & robust shell script, compiling to rust code/bash script
 - [rust_cmd_lib](https://github.com/rust-shell-script/rust_cmd_lib) - Common rust command-line macros and utilities, to write shell-script like tasks in a clean, natural and rusty way

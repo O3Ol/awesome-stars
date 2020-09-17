@@ -235,7 +235,7 @@
 
 ## CSS 
 
-- [halfmoon](https://github.com/halfmoonui/halfmoon) - Front-end framework with a built-in dark mode, designed for rapidly building beautiful dashboards and product pages.
+- [halfmoon](https://github.com/halfmoonui/halfmoon) - Front-end framework with a built-in dark mode and full customizability using CSS variables; great for building dashboards and tools.
 - [zola-theme-terminimal](https://github.com/pawroman/zola-theme-terminimal) - A simple, minimal retro theme for Zola
 - [course-starter-python](https://github.com/ines/course-starter-python) - 👩‍🏫🐍 Starter repo for building interactive Python courses
 - [ocaml-book](https://github.com/dmbaturin/ocaml-book) - A free culture OCaml textbook
@@ -297,7 +297,7 @@
 - [raft](https://github.com/hashicorp/raft) - Golang implementation of the Raft consensus protocol
 - [bolt](https://github.com/boltdb/bolt) - An embedded key/value database for Go.
 - [dgraph](https://github.com/dgraph-io/dgraph) - Native GraphQL Database with graph backend
-- [traefik](https://github.com/containous/traefik) - The Cloud Native Edge Router
+- [traefik](https://github.com/traefik/traefik) - The Cloud Native Edge Router
 - [cayley](https://github.com/cayleygraph/cayley) - An open-source graph database
 - [glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻
 - [gogs](https://github.com/gogs/gogs) - Gogs is a painless self-hosted Git service

@@ -16,7 +16,6 @@
   - [Clojure](#clojure)
   - [CoffeeScript](#coffeescript)
   - [Crystal](#crystal)
-  - [D](#d)
   - [Dart](#dart)
   - [Dockerfile](#dockerfile)
   - [Emacs Lisp](#emacs-lisp)
@@ -35,6 +34,7 @@
   - [PHP](#php)
   - [PowerShell](#powershell)
   - [Python](#python)
+  - [Q#](#q#)
   - [Racket](#racket)
   - [Reason](#reason)
   - [Ruby](#ruby)
@@ -259,10 +259,6 @@
 - [kemal](https://github.com/kemalcr/kemal) - Fast, Effective, Simple Web Framework
 - [crystal](https://github.com/crystal-lang/crystal) - The Crystal Programming Language
 
-## D 
-
-- [silq](https://github.com/eth-sri/silq) - 
-
 ## Dart 
 
 - [TWallet](https://github.com/tw-bc-group/TWallet) - 
@@ -285,6 +281,7 @@
 
 ## Go 
 
+- [dumpling](https://github.com/pingcap/dumpling) - Dumpling is a fast, easy-to-use tool written by Go for dumping data from the database(MySQL, TiDB...) to local/cloud in multifarious formats(SQL, CSV...).
 - [go-micro](https://github.com/micro/go-micro) - A Go standard library for microservices
 - [7days-golang](https://github.com/geektutu/7days-golang) - 7 days golang apps from scratch (web framework Gee, distributed cache GeeCache, object relational mapping ORM framework GeeORM etc)  7天用Go动手写/从零实现系列
 - [LeetCode-Go](https://github.com/halfrost/LeetCode-Go) - ✅ Solutions to LeetCode by Go, 100% test coverage, runtime beats 100% / LeetCode 题解
@@ -699,6 +696,10 @@
 - [gluon-nlp](https://github.com/dmlc/gluon-nlp) - NLP made easy
 - [pywonderland](https://github.com/neozhaoliang/pywonderland) - A tour in the wonderland of math with python.
 
+## Q# # 
+
+- [silq](https://github.com/eth-sri/silq) - 
+
 ## Racket 
 
 - [SICP-Magical-Book](https://github.com/lfkdsk/SICP-Magical-Book) - Magical Book The book uses dialects Scheme in the programming language Lisp to explain the core concepts of computer science, including abstraction, recursion, interpreters, and metalinguistic abstraction. Specific and micro-macroscopical to microcosmic to give a clear outline and context.
@@ -783,7 +784,7 @@
 - [xmlinfoset-rs](https://github.com/crlf0710/xmlinfoset-rs) - Implementation of W3C XML Information Set API. (WIP)
 - [meteora](https://github.com/meteora-kvs/meteora) - Distributed key-value store.
 - [craft](https://github.com/TobiasGSmollett/craft) - 
-- [napi-rs](https://github.com/napi-rs/napi-rs) - A minimal library for building compiled Node add-ons in Rust
+- [napi-rs](https://github.com/napi-rs/napi-rs) - A minimal library for building compiled NodeJS add-ons in Rust
 - [tunnelto](https://github.com/agrinman/tunnelto) - Expose your local web server to the internet with a public URL.
 - [cannyls](https://github.com/frugalos/cannyls) - An embedded persistent key-value storage for Rust that is optimized for random-access workload and huge-capacity HDD
 - [jvm.rust](https://github.com/rapilab/jvm.rust) - Learning rust for build a simple jvm

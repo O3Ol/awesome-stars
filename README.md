@@ -824,7 +824,7 @@
 - [ckb-vm](https://github.com/nervosnetwork/ckb-vm) - CKB's vm, based on open source RISC-V ISA
 - [LemonVM](https://github.com/LemonVM/LemonVM) - A Register Based VM. 柠檬手写的看起来像栈机的寄存器机
 - [linefeed](https://github.com/murarth/linefeed) - Configurable, extensible, interactive line reader
-- [xtensa-lx6-rt](https://github.com/esp-rs/xtensa-lx6-rt) - 
+- [xtensa-lx-rt](https://github.com/esp-rs/xtensa-lx-rt) - 
 - [esp32-hal](https://github.com/esp-rs/esp32-hal) - 
 - [smol](https://github.com/stjepang/smol) - A small and fast async runtime for Rust
 - [lalrpop](https://github.com/lalrpop/lalrpop) - LR(1) parser generator for Rust

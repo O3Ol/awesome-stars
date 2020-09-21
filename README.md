@@ -474,6 +474,7 @@
 
 ## Others 
 
+- [Ludo](https://github.com/QianLabUCSC/Ludo) - 
 - [ddia](https://github.com/Vonng/ddia) - 《Designing Data-Intensive Application》DDIA中文翻译
 - [patterns](https://github.com/rust-unofficial/patterns) - A catalogue of Rust design patterns
 - [cs420](https://github.com/kaist-cp/cs420) - KAIST CS420: Compiler Design (2020 Spring)
@@ -584,6 +585,7 @@
 
 ## Python 
 
+- [justpy](https://github.com/elimintz/justpy) - An object oriented high-level Python Web Framework that requires no frontend programming
 - [hummingbird](https://github.com/microsoft/hummingbird) - Hummingbird compiles trained ML models into tensor computation for faster inference.
 - [platform-gd32v](https://github.com/sipeed/platform-gd32v) - GD32V: development platform for PlatformIO
 - [sharp](https://github.com/revalo/sharp) - Automatic REST API code generation for Python Flask and JavaScript 🕸
@@ -722,6 +724,8 @@
 
 ## Rust 
 
+- [be-tree](https://github.com/orac/be-tree) - B𝛆-tree implementation in Rust
+- [agatedb](https://github.com/tikv/agatedb) - A persistent key-value storage in rust.
 - [may](https://github.com/Xudong-Huang/may) - rust stackful coroutine library
 - [fathom](https://github.com/yeslogic/fathom) - 🚧 (Alpha stage software) A declarative data definition language for formally specifying binary data formats. 🚧
 - [puffin](https://github.com/EmbarkStudios/puffin) - 🐦 Simple instrumentation profiler for Rust 🦀

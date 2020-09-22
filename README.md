@@ -281,6 +281,7 @@
 
 ## Go 
 
+- [MIT-6.824](https://github.com/andrewlee302/MIT-6.824) - Implementation of MIT 6.824: Distributed Systems
 - [dumpling](https://github.com/pingcap/dumpling) - Dumpling is a fast, easy-to-use tool written by Go for dumping data from the database(MySQL, TiDB...) to local/cloud in multifarious formats(SQL, CSV...).
 - [go-micro](https://github.com/micro/go-micro) - A Go standard library for microservices
 - [7days-golang](https://github.com/geektutu/7days-golang) - 7 days golang apps from scratch (web framework Gee, distributed cache GeeCache, object relational mapping ORM framework GeeORM etc)  7天用Go动手写/从零实现系列
@@ -441,7 +442,7 @@
 
 ## Julia 
 
-- [julia](https://github.com/JuliaLang/julia) - The Julia Language: A fresh approach to technical computing.
+- [julia](https://github.com/JuliaLang/julia) - The Julia Programming Language
 
 ## Jupyter Notebook 
 

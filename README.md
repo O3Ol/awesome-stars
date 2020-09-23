@@ -69,6 +69,7 @@
 
 ## C 
 
+- [herbe](https://github.com/dudik/herbe) - Daemon-less notifications without D-Bus. Minimal and lightweight.
 - [darknet-ocr](https://github.com/chineseocr/darknet-ocr) - darknet text detect and darknet cnn ocr
 - [x11clipboard](https://github.com/exebook/x11clipboard) - Two minimal "hello worlds" for X11 clipboard, one to COPY, one to PASTE
 - [Hermes](https://github.com/ease-lab/Hermes) - Hermes: a fault-tolerant replication protocol, implemented over RDMA, guaranteeing linearizability and achieving low latency and high throughput.
@@ -281,6 +282,7 @@
 
 ## Go 
 
+- [caddy](https://github.com/caddyserver/caddy) - Fast, multi-platform web server with automatic HTTPS
 - [MIT-6.824](https://github.com/andrewlee302/MIT-6.824) - Implementation of MIT 6.824: Distributed Systems
 - [dumpling](https://github.com/pingcap/dumpling) - Dumpling is a fast, easy-to-use tool written by Go for dumping data from the database(MySQL, TiDB...) to local/cloud in multifarious formats(SQL, CSV...).
 - [go-micro](https://github.com/micro/go-micro) - A Go standard library for microservices
@@ -304,6 +306,7 @@
 
 ## HTML 
 
+- [proposal-do-expressions](https://github.com/tc39/proposal-do-expressions) - Proposal for `do` expressions
 - [Setzer](https://github.com/cvfosammmm/Setzer) - LaTeX editor written in Python with Gtk
 - [rust-tropes](https://github.com/Enet4/rust-tropes) - A dictionary of jargon and tropes around the community of Rust developers.
 - [mvp](https://github.com/andybrewer/mvp) - MVP.css — Minimalist stylesheet for HTML elements
@@ -725,6 +728,9 @@
 
 ## Rust 
 
+- [talent_plan_dss](https://github.com/GITHUBear/talent_plan_dss) - An Implementation for Raft Lab
+- [talent-kvs](https://github.com/Luffbee/talent-kvs) - Rust project of pingcap/talent-plan
+- [polonius](https://github.com/rust-lang/polonius) - Defines the Rust borrow checker.
 - [be-tree](https://github.com/orac/be-tree) - B𝛆-tree implementation in Rust
 - [agatedb](https://github.com/tikv/agatedb) - A persistent key-value storage in rust.
 - [may](https://github.com/Xudong-Huang/may) - rust stackful coroutine library
@@ -827,7 +833,7 @@
 - [rsc](https://github.com/cgswords/rsc) - Rust-based Scheme Compiler, written in the Nanopass style
 - [WaffleLink](https://github.com/jazz-lang/WaffleLink) - Runtime with fast GC and easy concurrency.
 - [ckb-vm](https://github.com/nervosnetwork/ckb-vm) - CKB's vm, based on open source RISC-V ISA
-- [LemonVM](https://github.com/LemonVM/LemonVM) - A Register Based VM. 柠檬手写的看起来像栈机的寄存器机
+- [LemonVMAlpha](https://github.com/LemonVM/LemonVMAlpha) - A Register Based VM. 柠檬手写的看起来像栈机的寄存器机
 - [linefeed](https://github.com/murarth/linefeed) - Configurable, extensible, interactive line reader
 - [xtensa-lx-rt](https://github.com/esp-rs/xtensa-lx-rt) - 
 - [esp32-hal](https://github.com/esp-rs/esp32-hal) - 

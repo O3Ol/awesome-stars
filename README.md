@@ -69,6 +69,8 @@
 
 ## C 
 
+- [KVell](https://github.com/BLepers/KVell) - KVell: the Design and Implementation of a Fast Persistent Key-Value Store
+- [sparkey](https://github.com/spotify/sparkey) - Simple constant key/value storage library, for read-heavy systems with infrequent large bulk inserts.
 - [herbe](https://github.com/dudik/herbe) - Daemon-less notifications without D-Bus. Minimal and lightweight.
 - [darknet-ocr](https://github.com/chineseocr/darknet-ocr) - darknet text detect and darknet cnn ocr
 - [x11clipboard](https://github.com/exebook/x11clipboard) - Two minimal "hello worlds" for X11 clipboard, one to COPY, one to PASTE
@@ -730,6 +732,7 @@
 
 ## Rust 
 
+- [betree_storage_stack](https://github.com/Nilix007/betree_storage_stack) - Be-Tree Storage Stack (part of my MSc. thesis)
 - [sled](https://github.com/spacejam/sled) - the champagne of beta embedded databases
 - [talent_plan_dss](https://github.com/GITHUBear/talent_plan_dss) - An Implementation for Raft Lab
 - [talent-kvs](https://github.com/Luffbee/talent-kvs) - Rust project of pingcap/talent-plan

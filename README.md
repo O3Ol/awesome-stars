@@ -456,7 +456,7 @@
 - [computervision-recipes](https://github.com/microsoft/computervision-recipes) - Best Practices, code samples, and documentation for Computer Vision.
 - [data-science-complete-tutorial](https://github.com/edyoda/data-science-complete-tutorial) - For extensive instructor led learning
 - [interpretable-ml-book](https://github.com/christophM/interpretable-ml-book) - Book about interpretable machine learning
-- [Dive-into-DL-TensorFlow2.0](https://github.com/TrickyGo/Dive-into-DL-TensorFlow2.0) - 本项目将《动手学深度学习》(Dive into Deep Learning)原书中的MXNet实现改为TensorFlow 2.0实现，项目已得到李沐老师的同意
+- [Dive-into-DL-TensorFlow2.0](https://github.com/TrickyGo/Dive-into-DL-TensorFlow2.0) - 本项目将《动手学深度学习》(Dive into Deep Learning)原书中的MXNet实现改为TensorFlow 2.0实现，项目已得到李沐老师的认可
 - [CodeSearchNet](https://github.com/github/CodeSearchNet) - Datasets, tools, and benchmarks for representation learning of code.
 - [Dive-into-DL-PyTorch](https://github.com/ShusenTang/Dive-into-DL-PyTorch) - 本项目将《动手学深度学习》(Dive into Deep Learning)原书中的MXNet实现改为PyTorch实现。
 - [nlp-tutorial](https://github.com/graykode/nlp-tutorial) - Natural Language Processing Tutorial for Deep Learning Researchers
@@ -732,6 +732,7 @@
 
 ## Rust 
 
+- [lucid](https://github.com/lucid-kv/lucid) - High performance and distributed KV store w/ REST API. 🦀
 - [betree_storage_stack](https://github.com/Nilix007/betree_storage_stack) - Be-Tree Storage Stack (part of my MSc. thesis)
 - [sled](https://github.com/spacejam/sled) - the champagne of beta embedded databases
 - [talent_plan_dss](https://github.com/GITHUBear/talent_plan_dss) - An Implementation for Raft Lab

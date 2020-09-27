@@ -69,6 +69,7 @@
 
 ## C 
 
+- [RIOT](https://github.com/RIOT-OS/RIOT) - RIOT -  The friendly OS for IoT
 - [KVell](https://github.com/BLepers/KVell) - KVell: the Design and Implementation of a Fast Persistent Key-Value Store
 - [sparkey](https://github.com/spotify/sparkey) - Simple constant key/value storage library, for read-heavy systems with infrequent large bulk inserts.
 - [herbe](https://github.com/dudik/herbe) - Daemon-less notifications without D-Bus. Minimal and lightweight.
@@ -732,6 +733,9 @@
 
 ## Rust 
 
+- [sucredb](https://github.com/arthurprs/sucredb) - Distributed KV database with causality tracking
+- [avl_tree_rust](https://github.com/MarceloBRN/avl_tree_rust) - Safe AVL Tree written in rust with rebalance under the main root.
+- [generational-arena](https://github.com/fitzgen/generational-arena) - A safe arena allocator that allows deletion without suffering from the ABA problem by using generational indices.
 - [lucid](https://github.com/lucid-kv/lucid) - High performance and distributed KV store w/ REST API. 🦀
 - [betree_storage_stack](https://github.com/Nilix007/betree_storage_stack) - Be-Tree Storage Stack (part of my MSc. thesis)
 - [sled](https://github.com/spacejam/sled) - the champagne of beta embedded databases

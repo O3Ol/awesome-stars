@@ -248,6 +248,7 @@
 - [the-unix-workbench](https://github.com/seankross/the-unix-workbench) - :house_with_garden: A Book for Anyone to Get Started with Unix
 - [2019-Slides](https://github.com/PyConChina/2019-Slides) - PyCon China 2019 幻灯片
 - [icono](https://github.com/saeedalipoor/icono) - One tag One icon, no font or svg, Pure CSS
+- [algo-zh](https://github.com/apachecn/algo-zh) - 结构化算法刷题训练指南
 - [machine-learning-yearning-cn](https://github.com/deeplearning-ai/machine-learning-yearning-cn) - Machine Learning Yearning 中文版 - 《机器学习训练秘籍》 - Andrew Ng 著
 - [basic-book](https://github.com/evanwill/basic-book) - jekyll project template to create web book, aimed at OER textbook
 - [photon-book-creator](https://github.com/cedricss/photon-book-creator) - A light documentation and book template based on Jekyll.
@@ -702,7 +703,6 @@
 - [puput](https://github.com/APSL/puput) - A Django blog app implemented in Wagtail
 - [django-admin-honeypot](https://github.com/dmpayton/django-admin-honeypot) - :honey_pot: A fake Django admin login screen page.
 - [django-graphql-apollo-react-demo](https://github.com/mbrochh/django-graphql-apollo-react-demo) - Code for a workshop about my Django, GraphQL, ReactJS, Apollo-stack
-- [awesome-algorithm](https://github.com/apachecn/awesome-algorithm) - 项目永久冻结，迁移至新地址：
 - [wtfpython](https://github.com/satwikkansal/wtfpython) - What the f*ck Python?
 - [gluon-nlp](https://github.com/dmlc/gluon-nlp) - NLP made easy
 - [pywonderland](https://github.com/neozhaoliang/pywonderland) - A tour in the wonderland of math with python.

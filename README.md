@@ -178,6 +178,7 @@
 
 ## C++ 
 
+- [Jungle](https://github.com/eBay/Jungle) - An embedded key-value store library specialized for building state machine and log store
 - [Be-Tree](https://github.com/oscarlab/Be-Tree) - A simple, reference implementation of a B^e-tree
 - [octopus](https://github.com/thustorage/octopus) - A RDMA-enabled Distributed Persistent Memory File System
 - [llvm-project](https://github.com/llvm/llvm-project) - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies. Note: the repository does not accept github pull requests at this moment. Please submit your patches at http://reviews.llvm.org.

@@ -69,6 +69,7 @@
 
 ## C 
 
+- [TIC-80](https://github.com/nesbox/TIC-80) - TIC-80 is a fantasy computer for making, playing and sharing tiny games.
 - [RIOT](https://github.com/RIOT-OS/RIOT) - RIOT -  The friendly OS for IoT
 - [KVell](https://github.com/BLepers/KVell) - KVell: the Design and Implementation of a Fast Persistent Key-Value Store
 - [sparkey](https://github.com/spotify/sparkey) - Simple constant key/value storage library, for read-heavy systems with infrequent large bulk inserts.
@@ -359,6 +360,7 @@
 
 ## JavaScript 
 
+- [rust](https://github.com/lezer-parser/rust) - Rust grammar for Lezer
 - [LCRH](https://github.com/LCTT/LCRH) - LCRH - SIG
 - [ohm](https://github.com/harc/ohm) - A library and language for building parsers, interpreters, compilers, etc.
 - [cml](https://github.com/iterative/cml) - ♾️ CML - Continuous Machine Learning | CI/CD for ML
@@ -498,7 +500,6 @@
 - [ml-system-design-pattern](https://github.com/mercari/ml-system-design-pattern) - System design patterns for machine learning
 - [lox-language](https://github.com/danman113/lox-language) - Syntax highlighting for Lox, everyone's favorite interpreted learning-language
 - [awesome-c](https://github.com/kozross/awesome-c) - A curated list of awesome C frameworks, libraries, resources and other shiny things. Inspired by all the other awesome-... projects out there.
-- [jshistory-cn](https://github.com/doodlewind/jshistory-cn) - 🇨🇳 《JavaScript 20 年》中文版
 - [tech-radar](https://github.com/zalando/tech-radar) - Visualizing our technology choices
 - [book.rvemu](https://github.com/d0iasm/book.rvemu) - The book "Writing a RISC-V Emulator from Scratch in 10 Steps".
 - [typedoc](https://github.com/denodev/typedoc) - Deno API - Simplified Chinese
@@ -588,6 +589,7 @@
 
 ## PHP 
 
+- [PrivateBin](https://github.com/PrivateBin/PrivateBin) - A minimalist, open source online pastebin where the server has zero knowledge of pasted data. Data is encrypted/decrypted in the browser using 256 bits AES.
 - [howto-make-more-money](https://github.com/easychen/howto-make-more-money) - 程序员如何优雅的挣零花钱，2.0版，升级为小书了。Most of this not work outside China , so no English translate
 
 ## PowerShell 
@@ -1036,6 +1038,7 @@
 - [knboard](https://github.com/rrebase/knboard) - Kanban boards with React & Django.
 - [foam](https://github.com/foambubble/foam) - A personal knowledge management and sharing system for VSCode
 - [simplenote-electron](https://github.com/Automattic/simplenote-electron) - Simplenote for Web, Windows, and Linux
+- [jshistory-cn](https://github.com/doodlewind/jshistory-cn) - 🇨🇳 《JavaScript 20 年》中文版
 - [github-action-benchmark](https://github.com/rhysd/github-action-benchmark) - GitHub Action for continuous benchmarking to keep performance
 - [excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 - [ts-llvm](https://github.com/ts-llvm/ts-llvm) - Work-in-progress TypeScript to LLVM compiler

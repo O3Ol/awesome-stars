@@ -69,6 +69,7 @@
 
 ## C 
 
+- [chibicc](https://github.com/rui314/chibicc) - A small C compiler
 - [TIC-80](https://github.com/nesbox/TIC-80) - TIC-80 is a fantasy computer for making, playing and sharing tiny games.
 - [RIOT](https://github.com/RIOT-OS/RIOT) - RIOT -  The friendly OS for IoT
 - [KVell](https://github.com/BLepers/KVell) - KVell: the Design and Implementation of a Fast Persistent Key-Value Store
@@ -360,6 +361,7 @@
 
 ## JavaScript 
 
+- [Marker](https://github.com/fabiocolacio/Marker) - 🖊 A gtk3 markdown editor
 - [rust](https://github.com/lezer-parser/rust) - Rust grammar for Lezer
 - [LCRH](https://github.com/LCTT/LCRH) - LCRH - SIG
 - [ohm](https://github.com/harc/ohm) - A library and language for building parsers, interpreters, compilers, etc.

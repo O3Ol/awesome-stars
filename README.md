@@ -180,6 +180,7 @@
 
 ## C++ 
 
+- [llvm-tutor](https://github.com/banach-space/llvm-tutor) - A collection of out-of-tree LLVM passes for teaching and learning
 - [Jungle](https://github.com/eBay/Jungle) - An embedded key-value store library specialized for building state machine and log store
 - [Be-Tree](https://github.com/oscarlab/Be-Tree) - A simple, reference implementation of a B^e-tree
 - [octopus](https://github.com/thustorage/octopus) - A RDMA-enabled Distributed Persistent Memory File System

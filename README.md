@@ -296,7 +296,7 @@
 - [MIT-6.824](https://github.com/andrewlee302/MIT-6.824) - Implementation of MIT 6.824: Distributed Systems
 - [dumpling](https://github.com/pingcap/dumpling) - Dumpling is a fast, easy-to-use tool written by Go for dumping data from the database(MySQL, TiDB...) to local/cloud in multifarious formats(SQL, CSV...).
 - [go-micro](https://github.com/micro/go-micro) - A Go standard library for microservices
-- [7days-golang](https://github.com/geektutu/7days-golang) - 7 days golang apps from scratch (web framework Gee, distributed cache GeeCache, object relational mapping ORM framework GeeORM etc)  7天用Go动手写/从零实现系列
+- [7days-golang](https://github.com/geektutu/7days-golang) - 7 days golang apps from scratch (web framework Gee, distributed cache GeeCache, object relational mapping ORM framework GeeORM, rpc framework GeeRPC etc)  7天用Go动手写/从零实现系列
 - [LeetCode-Go](https://github.com/halfrost/LeetCode-Go) - ✅ Solutions to LeetCode by Go, 100% test coverage, runtime beats 100% / LeetCode 题解
 - [fiber](https://github.com/gofiber/fiber) - ⚡️ Fiber is an Express inspired web framework written in Go with ☕️
 - [Golang_Puzzlers](https://github.com/hyper0x/Golang_Puzzlers) - An example project, for my column named "Core Golang - 36 lessons"

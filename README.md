@@ -116,7 +116,7 @@
 - [minunit](https://github.com/siu/minunit) - Minimal unit testing framework for C
 - [Unity](https://github.com/ThrowTheSwitch/Unity) - Simple Unit Testing for C
 - [write_a_c_compiler](https://github.com/nlsandler/write_a_c_compiler) - Test suite to help you write your own C compiler
-- [Tagha](https://github.com/Nirari-Technologies/Tagha) - Minimal, low-level, fast, and self-contained register-based virtual machine-based runtime environment.
+- [Tagha](https://github.com/Nirari-Technologies/Tagha) - Minimal, low-level, fast, and self-contained register-based bytecode virtual machine/runtime environment.
 - [bytecode-interpreters-post](https://github.com/vkazanov/bytecode-interpreters-post) - A few basic bytecode interpreters used as example code in a series of articles
 - [Crossline](https://github.com/jcwangxp/Crossline) - A small, self-contained, zero-config, MIT licensed, cross-platform, readline and libedit replacement.
 - [lalloc](https://github.com/cloudwu/lalloc) - A allocator  for lua
@@ -667,7 +667,7 @@
 - [signature_algorithm](https://github.com/gadfly0x/signature_algorithm) - 各种App、小程序、网站的请求签名或加密算法。 现已有：自如、小红书、蛋壳公寓、luckin coffee(瑞幸咖啡)、bangkokair(曼谷航空)
 - [mlcourse.ai](https://github.com/Yorko/mlcourse.ai) - Open Machine Learning Course
 - [nardis](https://github.com/yoongkang/nardis) - A small web framework based on ASGI
-- [falcon](https://github.com/falconry/falcon) - The no-nonsense, minimalist web services and app backend framework for Python developers, with a focus on reliability, correctness, and performance at scale.
+- [falcon](https://github.com/falconry/falcon) - The no-nonsense, minimalist REST services and app backend framework for Python developers, with a focus on reliability, correctness, and performance at scale.
 - [poetry](https://github.com/python-poetry/poetry) - Python dependency management and packaging made easy.
 - [aioquic](https://github.com/aiortc/aioquic) - QUIC and HTTP/3 implementation in Python
 - [Computer-Networking-A-Top-Down-Approach-NOTES](https://github.com/moranzcw/Computer-Networking-A-Top-Down-Approach-NOTES) - 《计算机网络－自顶向下方法(原书第6版)》编程作业，Wireshark实验文档的翻译和解答。
@@ -740,6 +740,7 @@
 
 ## Rust 
 
+- [fancy-regex](https://github.com/fancy-regex/fancy-regex) - Rust library for regular expressions using "fancy" features like look-around and backreferences
 - [rust-kvstore-bench](https://github.com/nervosnetwork/rust-kvstore-bench) - 
 - [sucredb](https://github.com/arthurprs/sucredb) - Distributed KV database with causality tracking
 - [avl_tree_rust](https://github.com/MarceloBRN/avl_tree_rust) - Safe AVL Tree written in rust with rebalance under the main root.

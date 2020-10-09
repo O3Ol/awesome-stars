@@ -740,6 +740,7 @@
 
 ## Rust 
 
+- [boa](https://github.com/boa-dev/boa) - Boa is an embeddable and experimental Javascript engine written in Rust. Currently, it has support for some of the language.
 - [fancy-regex](https://github.com/fancy-regex/fancy-regex) - Rust library for regular expressions using "fancy" features like look-around and backreferences
 - [rust-kvstore-bench](https://github.com/nervosnetwork/rust-kvstore-bench) - 
 - [sucredb](https://github.com/arthurprs/sucredb) - Distributed KV database with causality tracking
@@ -926,7 +927,7 @@
 - [webapp.rs](https://github.com/saschagrunert/webapp.rs) - A web application completely written in Rust. 🌍
 - [ripalt](https://github.com/fuchsi/ripalt) - An Anti-Leech Torrent Tracker CMS based on actix-web
 - [actix-realworld-example-app](https://github.com/fairingrey/actix-realworld-example-app) - Implementation of the RealWorld backend API spec in Actix, Rust's powerful actor system and most fun web framework.
-- [libhermit-rs](https://github.com/hermitcore/libhermit-rs) - libhermit-rs: A Rust-based library operting system
+- [libhermit-rs](https://github.com/hermitcore/libhermit-rs) - libhermit-rs: A Rust-based library operating system
 - [halt](https://github.com/augustl/halt) - OS where everything is immutable! (Experimental)
 - [os_kernel_lab](https://github.com/chyyuu/os_kernel_lab) - OS kernel labs based on Rust Lang & RISC-V 64
 - [WASI](https://github.com/WebAssembly/WASI) - WebAssembly System Interface

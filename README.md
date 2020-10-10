@@ -489,6 +489,7 @@
 
 ## Others 
 
+- [awesome-os](https://github.com/jubalh/awesome-os) - A list of operating systems and stuff
 - [Ludo](https://github.com/QianLabUCSC/Ludo) - 
 - [ddia](https://github.com/Vonng/ddia) - 《Designing Data-Intensive Application》DDIA中文翻译
 - [patterns](https://github.com/rust-unofficial/patterns) - A catalogue of Rust design patterns
@@ -803,7 +804,7 @@
 - [rust-realworld-example-app](https://github.com/jetli/rust-realworld-example-app) - Exemplary real world app built with Rust + Actix/Hyper/Warp/Tide/Roa + Diesel/SQLx
 - [async-graphql-sqlx-example](https://github.com/danbruder/async-graphql-sqlx-example) - Minimal example using async_graphql, sqlx, warp, and sqlite
 - [warp-api-starter-template](https://github.com/rusty-crab/warp-api-starter-template) - A boilerplate template for starting a web services using Warp + SQLx (PostgreSQL) + Redis + Juniper (GraphQL). ❤️
-- [futures-lite](https://github.com/stjepang/futures-lite) - A lightweight async prelude
+- [futures-lite](https://github.com/stjepang/futures-lite) - Futures, streams, and async I/O combinators.
 - [uniffi-rs](https://github.com/mozilla/uniffi-rs) - a multi-language bindings generator for rust
 - [rust-design-pattern](https://github.com/lpxxn/rust-design-pattern) - rust design patterns
 - [viz](https://github.com/viz-rs/viz) - Fast, flexible, minimalist web framework for Rust
@@ -1037,7 +1038,7 @@
 
 - [rocon](https://github.com/uhyo/rocon) - Router Library with Ultimate Type Safety
 - [artipub](https://github.com/crawlab-team/artipub) - Article publishing platform that automatically distributes your articles to various media channels
-- [ext-saladict](https://github.com/crimx/ext-saladict) - All-in-one professional translator.
+- [ext-saladict](https://github.com/crimx/ext-saladict) - All-in-one professional pop-up dictionary and page translator which supports multiple search modes, page translations, new word notebook and PDF selection searching.
 - [fast](https://github.com/microsoft/fast) - The adaptive interface system for modern web experiences.
 - [StaticScript](https://github.com/ovr/StaticScript) - :rocket: TypeScript compiler on top of TypeScript as frontend and LLVM as backend
 - [berial](https://github.com/berialjs/berial) - 😈 Simple micro-front-end framework.
@@ -1054,7 +1055,7 @@
 - [gh-card](https://github.com/nwtgck/gh-card) - :octocat: GitHub Repository Card for Any Web Site
 - [destiny](https://github.com/benawad/destiny) - Prettier for File Structures
 - [playwright](https://github.com/microsoft/playwright) - Node.js library to automate Chromium, Firefox and WebKit with a single API
-- [snowpack](https://github.com/pikapkg/snowpack) - A new kind of frontend build tool. Fast, lightweight, unbundled. ✌️
+- [snowpack](https://github.com/pikapkg/snowpack) - WASM-powered frontend build tool. Fast, lightweight, unbundled ESM. ✌️
 - [sigi](https://github.com/sigi-framework/sigi) - Well designed effect management framework for complex frontend app
 - [rust-playground](https://github.com/integer32llc/rust-playground) - The Rust Playground
 - [webiny-js](https://github.com/webiny/webiny-js) - Platform for building serverless applications and APIs (Node.js, React, GraphQL)

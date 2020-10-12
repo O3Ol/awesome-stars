@@ -489,6 +489,7 @@
 
 ## Others 
 
+- [awesome-database-learning](https://github.com/pingcap/awesome-database-learning) - A list of learning materials to understand databases internals
 - [awesome-os](https://github.com/jubalh/awesome-os) - A list of operating systems and stuff
 - [Ludo](https://github.com/QianLabUCSC/Ludo) - 
 - [ddia](https://github.com/Vonng/ddia) - 《Designing Data-Intensive Application》DDIA中文翻译

@@ -224,7 +224,7 @@
 - [PAT](https://github.com/liuchuo/PAT) - 🍭 浙江大学PAT题解(C/C++/Java/Python) - 努力成为萌萌的程序媛～
 - [Algorithms](https://github.com/Thuva4/Algorithms) - Collection of algorithms in multiple programming languages.
 - [terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
-- [GuiLite](https://github.com/idea4good/GuiLite) - ✔️The smallest header-only GUI library(5 KLOC) for all platforms
+- [GuiLite](https://github.com/idea4good/GuiLite) - ✔️The smallest header-only GUI library(4 KLOC) for all platforms
 - [Stacer](https://github.com/oguzhaninan/Stacer) - Linux System Optimizer and Monitoring - https://oguzhaninan.github.io/Stacer-Web
 - [simdjson](https://github.com/simdjson/simdjson) - Parsing gigabytes of JSON per second
 - [tinymoe](https://github.com/vczh/tinymoe) - English-like dynamic typing programming language
@@ -292,7 +292,7 @@
 
 ## Go 
 
-- [boundary](https://github.com/hashicorp/boundary) - 
+- [boundary](https://github.com/hashicorp/boundary) - Boundary enables identity-based access management for dynamic infrastructure.
 - [act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
 - [caddy](https://github.com/caddyserver/caddy) - Fast, multi-platform web server with automatic HTTPS
 - [MIT-6.824](https://github.com/andrewlee302/MIT-6.824) - Implementation of MIT 6.824: Distributed Systems

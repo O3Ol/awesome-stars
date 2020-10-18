@@ -491,6 +491,7 @@
 
 ## Others 
 
+- [applied-ml](https://github.com/eugeneyan/applied-ml) - 📚 Papers by organizations sharing their work on applied data science & machine learning.
 - [awesome-database-learning](https://github.com/pingcap/awesome-database-learning) - A list of learning materials to understand databases internals
 - [awesome-os](https://github.com/jubalh/awesome-os) - A list of operating systems and stuff
 - [Ludo](https://github.com/QianLabUCSC/Ludo) - 

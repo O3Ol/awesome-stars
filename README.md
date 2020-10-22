@@ -179,6 +179,7 @@
 
 ## C++ 
 
+- [noname-linux](https://github.com/xhebox/noname-linux) - musl based, x86_64 only, lightweight, personal distro
 - [llvm-tutor](https://github.com/banach-space/llvm-tutor) - A collection of out-of-tree LLVM passes for teaching and learning
 - [Jungle](https://github.com/eBay/Jungle) - An embedded key-value store library specialized for building state machine and log store
 - [Be-Tree](https://github.com/oscarlab/Be-Tree) - A simple, reference implementation of a B^e-tree
@@ -746,6 +747,9 @@
 
 ## Rust 
 
+- [TTstack](https://github.com/ktmlm/TTstack) - Private cloud solutions written in Rust
+- [dataloader-rs](https://github.com/cksac/dataloader-rs) - Rust implementation of Facebook's DataLoader using async-await.
+- [rs-nuid](https://github.com/casualjim/rs-nuid) - NATS unique identifiers
 - [eden](https://github.com/facebookexperimental/eden) - A virtual filesystem for speeding up the performance of source control checkouts.
 - [rust-libp2p](https://github.com/libp2p/rust-libp2p) - The Rust Implementation of libp2p networking stack.
 - [types-and-programming-languages](https://github.com/lazear/types-and-programming-languages) - Exercises from Benjamin Pierce's "Types and Programming Languages" textbook + extras!

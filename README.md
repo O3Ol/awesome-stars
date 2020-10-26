@@ -69,6 +69,7 @@
 
 ## C 
 
+- [yyjson](https://github.com/ibireme/yyjson) - The fastest JSON library in C
 - [chibicc](https://github.com/rui314/chibicc) - A small C compiler
 - [TIC-80](https://github.com/nesbox/TIC-80) - TIC-80 is a fantasy computer for making, playing and sharing tiny games.
 - [RIOT](https://github.com/RIOT-OS/RIOT) - RIOT -  The friendly OS for IoT
@@ -293,6 +294,7 @@
 
 ## Go 
 
+- [tinykv](https://github.com/pingcap-incubator/tinykv) - A course to build distributed key-value service based on TiKV model
 - [boundary](https://github.com/hashicorp/boundary) - Boundary enables identity-based access management for dynamic infrastructure.
 - [act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
 - [caddy](https://github.com/caddyserver/caddy) - Fast, multi-platform web server with automatic HTTPS
@@ -747,6 +749,7 @@
 
 ## Rust 
 
+- [tex-rs](https://github.com/crlf0710/tex-rs) - A port of TeX82 to Rust. (WIP)
 - [ringbahn](https://github.com/ringbahn/ringbahn) - safe bindings to io-uring
 - [TTstack](https://github.com/ktmlm/TTstack) - Private cloud solutions written in Rust
 - [dataloader-rs](https://github.com/cksac/dataloader-rs) - Rust implementation of Facebook's DataLoader using async-await.

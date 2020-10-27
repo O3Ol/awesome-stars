@@ -27,6 +27,7 @@
   - [JavaScript](#javascript)
   - [Julia](#julia)
   - [Jupyter Notebook](#jupyter-notebook)
+  - [LLVM](#llvm)
   - [Lua](#lua)
   - [Makefile](#makefile)
   - [OCaml](#ocaml)
@@ -303,7 +304,7 @@
 - [go-micro](https://github.com/asim/go-micro) - A Go framework for distributed systems development
 - [7days-golang](https://github.com/geektutu/7days-golang) - 7 days golang programs from scratch (web framework Gee, distributed cache GeeCache, object relational mapping ORM framework GeeORM, rpc framework GeeRPC etc)  7天用Go动手写/从零实现系列
 - [LeetCode-Go](https://github.com/halfrost/LeetCode-Go) - ✅ Solutions to LeetCode by Go, 100% test coverage, runtime beats 100% / LeetCode 题解
-- [fiber](https://github.com/gofiber/fiber) - ⚡️ Fiber is an Express inspired web framework written in Go with ☕️
+- [fiber](https://github.com/gofiber/fiber) - ⚡️ Express inspired web framework written in Go
 - [Golang_Puzzlers](https://github.com/hyper0x/Golang_Puzzlers) - An example project, for my column named "Core Golang - 36 lessons"
 - [coredns](https://github.com/coredns/coredns) - CoreDNS is a DNS server that chains plugins
 - [gbt](https://github.com/jtyr/gbt) - Highly configurable prompt builder for Bash, ZSH and PowerShell written in Go.
@@ -477,6 +478,10 @@
 - [homemade-machine-learning](https://github.com/trekhleb/homemade-machine-learning) - 🤖 Python examples of popular machine learning algorithms with interactive Jupyter demos and math being explained
 - [PythonDataScienceHandbook](https://github.com/jakevdp/PythonDataScienceHandbook) - Python Data Science Handbook: full text in Jupyter Notebooks
 - [100-Days-Of-ML-Code](https://github.com/MLEveryday/100-Days-Of-ML-Code) - 100-Days-Of-ML-Code中文版
+
+## LLVM 
+
+- [llvm-ir-tutorial](https://github.com/Evian-Zhang/llvm-ir-tutorial) - LLVM IR入门指南
 
 ## Lua 
 
@@ -749,6 +754,8 @@
 
 ## Rust 
 
+- [nalgebra](https://github.com/dimforge/nalgebra) - Linear algebra library for Rust.
+- [sqlparser-rs](https://github.com/ballista-compute/sqlparser-rs) - Extensible SQL Lexer and Parser for Rust
 - [tex-rs](https://github.com/crlf0710/tex-rs) - A port of TeX82 to Rust. (WIP)
 - [ringbahn](https://github.com/ringbahn/ringbahn) - safe bindings to io-uring
 - [TTstack](https://github.com/ktmlm/TTstack) - Private cloud solutions written in Rust

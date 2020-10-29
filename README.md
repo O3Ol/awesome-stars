@@ -754,6 +754,8 @@
 
 ## Rust 
 
+- [nuclei](https://github.com/vertexclique/nuclei) - Proactive IO & Runtime system
+- [agnostik](https://github.com/bastion-rs/agnostik) - Executor Agnostic Runtime that can run your futures with your favourite Executor
 - [nalgebra](https://github.com/dimforge/nalgebra) - Linear algebra library for Rust.
 - [sqlparser-rs](https://github.com/ballista-compute/sqlparser-rs) - Extensible SQL Lexer and Parser for Rust
 - [tex-rs](https://github.com/crlf0710/tex-rs) - A port of TeX82 to Rust. (WIP)

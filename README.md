@@ -368,6 +368,7 @@
 
 ## JavaScript 
 
+- [micromark](https://github.com/micromark/micromark) - the smallest commonmark compliant markdown parser that exists; new basis for @unifiedjs (hundreds of projects w/ billions of downloads for dealing w/ content)
 - [Marker](https://github.com/fabiocolacio/Marker) - 🖊 A gtk3 markdown editor
 - [rust](https://github.com/lezer-parser/rust) - Rust grammar for Lezer
 - [LCRH](https://github.com/LCTT/LCRH) - LCRH - SIG
@@ -754,6 +755,7 @@
 
 ## Rust 
 
+- [netease-cloud-music-gtk](https://github.com/gmg137/netease-cloud-music-gtk) - Linux 平台下基于 Rust + GTK 开发的网易云音乐播放器
 - [nuclei](https://github.com/vertexclique/nuclei) - Proactive IO & Runtime system
 - [agnostik](https://github.com/bastion-rs/agnostik) - Executor Agnostic Runtime that can run your futures with your favourite Executor
 - [nalgebra](https://github.com/dimforge/nalgebra) - Linear algebra library for Rust.
@@ -1130,6 +1132,7 @@
 
 ## Vim script 
 
+- [rust.vim](https://github.com/rust-lang/rust.vim) - Vim configuration for Rust.
 - [vim-config](https://github.com/rafi/vim-config) - Lean mean (Neo)Vim machine, carefully crafted with :heart: Use with latest Neovim or Vim 8
 - [vim-polyglot](https://github.com/sheerun/vim-polyglot) - A solid language pack for Vim.
 - [ThinkVim](https://github.com/hardcoreplayers/ThinkVim) - Vim configuration in the 21st century

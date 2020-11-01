@@ -653,7 +653,7 @@
 - [vulkn](https://github.com/VulknData/vulkn) - Love your Data. Love the Environment. Love VULKИ.
 - [aioch](https://github.com/mymarilyn/aioch) - aioch - is a library for accessing a ClickHouse database over native interface from the asyncio
 - [clickhouse-driver](https://github.com/mymarilyn/clickhouse-driver) - ClickHouse Python Driver with native interface support
-- [d2l-zh](https://github.com/d2l-ai/d2l-zh) - 《动手学深度学习》：面向中文读者、能运行、可讨论。英文版即伯克利“深度学习导论”教材。
+- [d2l-zh](https://github.com/d2l-ai/d2l-zh) - 《动手学深度学习》：面向中文读者、能运行、可讨论。中英文版被全球140所大学采用教学。
 - [meson](https://github.com/mesonbuild/meson) - The Meson Build System
 - [goblet](https://github.com/seveas/goblet) - Git webinterface using libgit2 and flask
 - [rentomatic](https://github.com/lgiordani/rentomatic) - A demo implementation of a clean architecture in Python
@@ -756,6 +756,7 @@
 
 ## Rust 
 
+- [xorfilter](https://github.com/bnclabs/xorfilter) - Rust library implementing xor-filters
 - [netease-cloud-music-gtk](https://github.com/gmg137/netease-cloud-music-gtk) - Linux 平台下基于 Rust + GTK 开发的网易云音乐播放器
 - [nuclei](https://github.com/vertexclique/nuclei) - Proactive IO & Runtime system
 - [agnostik](https://github.com/bastion-rs/agnostik) - Executor Agnostic Runtime that can run your futures with your favourite Executor
@@ -793,7 +794,7 @@
 - [casbin-rs](https://github.com/casbin/casbin-rs) - An authorization library that supports access control models like ACL, RBAC, ABAC in Rust.
 - [LearningRust](https://github.com/Kreedzt/LearningRust) - 
 - [tao](https://github.com/zesterer/tao) - A statically-typed functional programming language
-- [async-net](https://github.com/stjepang/async-net) - Async networking primitives for TCP/UDP/Unix communication
+- [async-net](https://github.com/smol-rs/async-net) - Async networking primitives for TCP/UDP/Unix communication
 - [rust-peg](https://github.com/kevinmehall/rust-peg) - Parsing Expression Grammar (PEG) parser generator for Rust
 - [lang-c](https://github.com/vickenty/lang-c) - Lightweight C parser for Rust
 - [TuringDB](https://github.com/charleschege/TuringDB) - A simple distributed document database backed by Sled Key/Value store
@@ -816,7 +817,7 @@
 - [futures-micro](https://github.com/irrustible/futures-micro) - To futures-lite as futures-lite is to futures: smaller.
 - [muta](https://github.com/nervosnetwork/muta) - Muta is a high-performance blockchain framework.
 - [amiya](https://github.com/7sDream/amiya) - experimental middleware-based minimalism async HTTP server framework
-- [polling](https://github.com/stjepang/polling) - Portable interface to epoll, kqueue, event ports, and wepoll
+- [polling](https://github.com/smol-rs/polling) - Portable interface to epoll, kqueue, event ports, and wepoll
 - [kv-log-macro](https://github.com/yoshuawuyts/kv-log-macro) - Log macro for logs kv-unstable backend
 - [femme](https://github.com/lrlna/femme) - Not just a pretty (inter)face: pretty-printer + ndjson logger for log crate.
 - [colortty](https://github.com/shuhei/colortty) - 🎨 A utility to generate color schemes for alacritty
@@ -831,7 +832,7 @@
 - [rust-realworld-example-app](https://github.com/jetli/rust-realworld-example-app) - Exemplary real world app built with Rust + Actix/Hyper/Warp/Tide/Roa + Diesel/SQLx
 - [async-graphql-sqlx-example](https://github.com/danbruder/async-graphql-sqlx-example) - Minimal example using async_graphql, sqlx, warp, and sqlite
 - [warp-api-starter-template](https://github.com/rusty-crab/warp-api-starter-template) - A boilerplate template for starting a web services using Warp + SQLx (PostgreSQL) + Redis + Juniper (GraphQL). ❤️
-- [futures-lite](https://github.com/stjepang/futures-lite) - Futures, streams, and async I/O combinators.
+- [futures-lite](https://github.com/smol-rs/futures-lite) - Futures, streams, and async I/O combinators.
 - [uniffi-rs](https://github.com/mozilla/uniffi-rs) - a multi-language bindings generator for rust
 - [rust-design-pattern](https://github.com/lpxxn/rust-design-pattern) - rust design patterns
 - [viz](https://github.com/viz-rs/viz) - Fast, flexible, minimalist web framework for Rust
@@ -886,7 +887,7 @@
 - [linefeed](https://github.com/murarth/linefeed) - Configurable, extensible, interactive line reader
 - [xtensa-lx-rt](https://github.com/esp-rs/xtensa-lx-rt) - 
 - [esp32-hal](https://github.com/esp-rs/esp32-hal) - 
-- [smol](https://github.com/stjepang/smol) - A small and fast async runtime for Rust
+- [smol](https://github.com/smol-rs/smol) - A small and fast async runtime for Rust
 - [lalrpop](https://github.com/lalrpop/lalrpop) - LR(1) parser generator for Rust
 - [ntex](https://github.com/ntex-rs/ntex) - framework for composable networking services
 - [rstest](https://github.com/la10736/rstest) - Fixture-based test framework for Rust

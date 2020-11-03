@@ -502,6 +502,8 @@
 
 ## Others 
 
+- [fast-rust](https://github.com/mbrubeck/fast-rust) - A book about performance optimization in the Rust programming language
+- [awesome-sustainable-technology](https://github.com/protontypes/awesome-sustainable-technology) - Open source projects sustaining stable climate, energy supply and vital natural resources
 - [applied-ml](https://github.com/eugeneyan/applied-ml) - 📚 Papers by organizations sharing their work on applied data science & machine learning.
 - [awesome-database-learning](https://github.com/pingcap/awesome-database-learning) - A list of learning materials to understand databases internals
 - [awesome-os](https://github.com/jubalh/awesome-os) - A list of operating systems and stuff
@@ -757,6 +759,8 @@
 
 ## Rust 
 
+- [Rust-Full-Stack](https://github.com/steadylearner/Rust-Full-Stack) - Rust projects here are easy to use. There are blog posts for them also.
+- [xous-core](https://github.com/betrusted-io/xous-core) - Core modules for the Xous microkernel
 - [xorfilter](https://github.com/bnclabs/xorfilter) - Rust library implementing xor-filters
 - [netease-cloud-music-gtk](https://github.com/gmg137/netease-cloud-music-gtk) - Linux 平台下基于 Rust + GTK 开发的网易云音乐播放器
 - [nuclei](https://github.com/vertexclique/nuclei) - Proactive IO & Runtime system

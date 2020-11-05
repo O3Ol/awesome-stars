@@ -295,6 +295,7 @@
 
 ## Go 
 
+- [dragonboat](https://github.com/lni/dragonboat) - A feature complete and high performance multi-group Raft library in Go.
 - [unistore](https://github.com/ngaut/unistore) - A fun project for evaluating some new optimizations quickly, do not use it in production
 - [tinykv](https://github.com/pingcap-incubator/tinykv) - A course to build distributed key-value service based on TiKV model
 - [boundary](https://github.com/hashicorp/boundary) - Boundary enables identity-based access management for dynamic infrastructure.
@@ -369,6 +370,7 @@
 
 ## JavaScript 
 
+- [colfer](https://github.com/pascaldekloe/colfer) - binary serialization format
 - [micromark](https://github.com/micromark/micromark) - the smallest commonmark compliant markdown parser that exists; new basis for @unifiedjs (hundreds of projects w/ billions of downloads for dealing w/ content)
 - [Marker](https://github.com/fabiocolacio/Marker) - 🖊 A gtk3 markdown editor
 - [rust](https://github.com/lezer-parser/rust) - Rust grammar for Lezer
@@ -759,6 +761,9 @@
 
 ## Rust 
 
+- [miniserde](https://github.com/dtolnay/miniserde) - Data structure serialization library with several opposite design goals from Serde
+- [prost](https://github.com/danburkert/prost) - PROST! a Protocol Buffers implementation for the Rust Language
+- [pprof-rs](https://github.com/tikv/pprof-rs) - A Rust CPU profiler implemented with the help of backtrace-rs
 - [Rust-Full-Stack](https://github.com/steadylearner/Rust-Full-Stack) - Rust projects here are easy to use. There are blog posts for them also.
 - [xous-core](https://github.com/betrusted-io/xous-core) - Core modules for the Xous microkernel
 - [xorfilter](https://github.com/bnclabs/xorfilter) - Rust library implementing xor-filters

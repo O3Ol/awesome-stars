@@ -302,7 +302,7 @@
 - [act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
 - [caddy](https://github.com/caddyserver/caddy) - Fast, multi-platform web server with automatic HTTPS
 - [MIT-6.824](https://github.com/andrewlee302/MIT-6.824) - Implementation of MIT 6.824: Distributed Systems
-- [dumpling](https://github.com/pingcap/dumpling) - Dumpling is a fast, easy-to-use tool written by Go for dumping data from the database(MySQL, TiDB...) to local/cloud in multifarious formats(SQL, CSV...).
+- [dumpling](https://github.com/pingcap/dumpling) - Dumpling is a fast, easy-to-use tool written by Go for dumping data from the database(MySQL, TiDB...) to local/cloud(S3, GCP...) in multifarious formats(SQL, CSV...).
 - [nitro](https://github.com/asim/nitro) - Nitro (formerly known as Go Micro) is a blazingly fast framework for distributed app development.
 - [7days-golang](https://github.com/geektutu/7days-golang) - 7 days golang programs from scratch (web framework Gee, distributed cache GeeCache, object relational mapping ORM framework GeeORM, rpc framework GeeRPC etc)  7天用Go动手写/从零实现系列
 - [LeetCode-Go](https://github.com/halfrost/LeetCode-Go) - ✅ Solutions to LeetCode by Go, 100% test coverage, runtime beats 100% / LeetCode 题解
@@ -504,6 +504,7 @@
 
 ## Others 
 
+- [SuperTinyIcons](https://github.com/edent/SuperTinyIcons) - Under 1KB each! Super Tiny Icons are miniscule SVG versions of your favourite website and app logos
 - [fast-rust](https://github.com/mbrubeck/fast-rust) - A book about performance optimization in the Rust programming language
 - [awesome-sustainable-technology](https://github.com/protontypes/awesome-sustainable-technology) - Open source projects sustaining stable climate, energy supply and vital natural resources
 - [applied-ml](https://github.com/eugeneyan/applied-ml) - 📚 Papers by organizations sharing their work on applied data science & machine learning.

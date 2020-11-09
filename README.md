@@ -370,6 +370,7 @@
 
 ## JavaScript 
 
+- [SuperTinyIcons](https://github.com/edent/SuperTinyIcons) - Under 1KB each! Super Tiny Icons are miniscule SVG versions of your favourite website and app logos
 - [colfer](https://github.com/pascaldekloe/colfer) - binary serialization format
 - [micromark](https://github.com/micromark/micromark) - the smallest commonmark compliant markdown parser that exists; new basis for @unifiedjs (hundreds of projects w/ billions of downloads for dealing w/ content)
 - [Marker](https://github.com/fabiocolacio/Marker) - 🖊 A gtk3 markdown editor
@@ -504,7 +505,6 @@
 
 ## Others 
 
-- [SuperTinyIcons](https://github.com/edent/SuperTinyIcons) - Under 1KB each! Super Tiny Icons are miniscule SVG versions of your favourite website and app logos
 - [fast-rust](https://github.com/mbrubeck/fast-rust) - A book about performance optimization in the Rust programming language
 - [awesome-sustainable-technology](https://github.com/protontypes/awesome-sustainable-technology) - Open source projects sustaining stable climate, energy supply and vital natural resources
 - [applied-ml](https://github.com/eugeneyan/applied-ml) - 📚 Papers by organizations sharing their work on applied data science & machine learning.

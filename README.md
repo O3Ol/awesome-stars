@@ -764,6 +764,7 @@
 
 ## Rust 
 
+- [deadpool](https://github.com/bikeshedder/deadpool) - Dead simple pool implementation for rust with async-await
 - [kes-rs](https://github.com/Riey/kes-rs) - 
 - [bumpalo](https://github.com/fitzgen/bumpalo) - A fast bump allocation arena for Rust
 - [rust-sstb](https://github.com/ikatson/rust-sstb) - Pure Rust SSTable implementation

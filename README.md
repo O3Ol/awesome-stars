@@ -621,6 +621,7 @@
 
 ## Python 
 
+- [kobe24](https://github.com/bukseng/kobe24) - programming language for learning and teaching the basics programming
 - [sheet-music-normalization](https://github.com/sonovice/sheet-music-normalization) - Correction of rotation and scaling of sheet music images
 - [justpy](https://github.com/elimintz/justpy) - An object oriented high-level Python Web Framework that requires no frontend programming
 - [ddia](https://github.com/Vonng/ddia) - 《Designing Data-Intensive Application》DDIA中文翻译
@@ -690,7 +691,7 @@
 - [signature_algorithm](https://github.com/gadfly0x/signature_algorithm) - 各种App、小程序、网站的请求签名或加密算法。 现已有：自如、小红书、蛋壳公寓、luckin coffee(瑞幸咖啡)、bangkokair(曼谷航空)
 - [mlcourse.ai](https://github.com/Yorko/mlcourse.ai) - Open Machine Learning Course
 - [nardis](https://github.com/yoongkang/nardis) - A small web framework based on ASGI
-- [falcon](https://github.com/falconry/falcon) - The no-nonsense, minimalist REST services and app backend framework for Python developers, with a focus on reliability, correctness, and performance at scale.
+- [falcon](https://github.com/falconry/falcon) - The no-nonsense, minimalist REST and app backend framework for Python developers, with a focus on reliability, correctness, and performance at scale.
 - [poetry](https://github.com/python-poetry/poetry) - Python dependency management and packaging made easy.
 - [aioquic](https://github.com/aiortc/aioquic) - QUIC and HTTP/3 implementation in Python
 - [Computer-Networking-A-Top-Down-Approach-NOTES](https://github.com/moranzcw/Computer-Networking-A-Top-Down-Approach-NOTES) - 《计算机网络－自顶向下方法(原书第6版)》编程作业，Wireshark实验文档的翻译和解答。

@@ -372,6 +372,7 @@
 
 ## JavaScript 
 
+- [translatium](https://github.com/webcatalog/translatium) - Official Translatium app.
 - [SuperTinyIcons](https://github.com/edent/SuperTinyIcons) - Under 1KB each! Super Tiny Icons are miniscule SVG versions of your favourite website and app logos
 - [colfer](https://github.com/pascaldekloe/colfer) - binary serialization format
 - [micromark](https://github.com/micromark/micromark) - the smallest commonmark compliant markdown parser that exists; new basis for @unifiedjs (hundreds of projects w/ billions of downloads for dealing w/ content)
@@ -765,6 +766,7 @@
 
 ## Rust 
 
+- [bustle](https://github.com/jonhoo/bustle) - A benchmarking harness for concurrent key-value collections
 - [deadpool](https://github.com/bikeshedder/deadpool) - Dead simple pool implementation for rust with async-await
 - [kes-rs](https://github.com/Riey/kes-rs) - 
 - [bumpalo](https://github.com/fitzgen/bumpalo) - A fast bump allocation arena for Rust

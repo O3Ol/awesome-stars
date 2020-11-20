@@ -785,7 +785,6 @@
 - [sqlparser-rs](https://github.com/ballista-compute/sqlparser-rs) - Extensible SQL Lexer and Parser for Rust
 - [tex-rs](https://github.com/crlf0710/tex-rs) - A port of TeX82 to Rust. (WIP)
 - [ringbahn](https://github.com/ringbahn/ringbahn) - safe bindings to io-uring
-- [TTstack](https://github.com/ktmlm/TTstack) - Private cloud solutions written in Rust
 - [dataloader-rs](https://github.com/cksac/dataloader-rs) - Rust implementation of Facebook's DataLoader using async-await.
 - [rs-nuid](https://github.com/casualjim/rs-nuid) - NATS unique identifiers
 - [eden](https://github.com/facebookexperimental/eden) - EdenSCM is a cross-platform, highly scalable source control management system.
@@ -1023,7 +1022,7 @@
 
 - [source-han-serif](https://github.com/adobe-fonts/source-han-serif) - Source Han Serif | 思源宋体 | 思源宋體 | 源ノ明朝 | 본명조
 - [CM-Well](https://github.com/CM-Well/CM-Well) - CM-Well - a data warehouse for your knowledge graph
-- [chisel3](https://github.com/freechipsproject/chisel3) - Chisel 3: A Modern Hardware Design Language
+- [chisel3](https://github.com/chipsalliance/chisel3) - Chisel 3: A Modern Hardware Design Language
 
 ## Scheme 
 

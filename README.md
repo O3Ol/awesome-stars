@@ -754,6 +754,7 @@
 
 ## Ruby 
 
+- [sonic-pi](https://github.com/sonic-pi-net/sonic-pi) - Code. Music. Live.
 - [forem](https://github.com/forem/forem) - For empowering community 🌱
 - [chatwoot](https://github.com/chatwoot/chatwoot) - Open-source live chat software, an alternative to Intercom, Zendesk, Drift, Crisp etc. 🔥💬
 - [fresh](https://github.com/freshshell/fresh) - Keep your dotfiles fresh.
@@ -766,6 +767,7 @@
 
 ## Rust 
 
+- [zedis](https://github.com/drbh/zedis) - A tiny embedded, lock free, redis-like, pub+sub, brokerless, key value datastore. ømq+sled
 - [bustle](https://github.com/jonhoo/bustle) - A benchmarking harness for concurrent key-value collections
 - [deadpool](https://github.com/bikeshedder/deadpool) - Dead simple pool implementation for rust with async-await
 - [kes-rs](https://github.com/Riey/kes-rs) - 

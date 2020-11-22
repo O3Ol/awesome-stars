@@ -253,7 +253,7 @@
 - [halfmoon](https://github.com/halfmoonui/halfmoon) - Front-end framework with a built-in dark mode and full customizability using CSS variables; great for building dashboards and tools.
 - [zola-theme-terminimal](https://github.com/pawroman/zola-theme-terminimal) - A simple, minimal retro theme for Zola
 - [course-starter-python](https://github.com/ines/course-starter-python) - 👩‍🏫🐍 Starter repo for building interactive Python courses
-- [ocaml-book](https://github.com/dmbaturin/ocaml-book) - A free culture OCaml textbook
+- [ocamlbook.org](https://github.com/dmbaturin/ocamlbook.org) - A free culture OCaml textbook
 - [the-unix-workbench](https://github.com/seankross/the-unix-workbench) - :house_with_garden: A Book for Anyone to Get Started with Unix
 - [2019-Slides](https://github.com/PyConChina/2019-Slides) - PyCon China 2019 幻灯片
 - [icono](https://github.com/saeedalipoor/icono) - One tag One icon, no font or svg, Pure CSS

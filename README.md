@@ -252,6 +252,7 @@
 - [augmented-ui](https://github.com/propjockey/augmented-ui) - Cyberpunk-inspired web UI made easy. Get augmented.
 - [halfmoon](https://github.com/halfmoonui/halfmoon) - Front-end framework with a built-in dark mode and full customizability using CSS variables; great for building dashboards and tools.
 - [zola-theme-terminimal](https://github.com/pawroman/zola-theme-terminimal) - A simple, minimal retro theme for Zola
+- [book.rvemu](https://github.com/d0iasm/book.rvemu) - The book "Writing a RISC-V Emulator from Scratch in 10 Steps".
 - [course-starter-python](https://github.com/ines/course-starter-python) - 👩‍🏫🐍 Starter repo for building interactive Python courses
 - [ocamlbook.org](https://github.com/dmbaturin/ocamlbook.org) - A free culture OCaml textbook
 - [the-unix-workbench](https://github.com/seankross/the-unix-workbench) - :house_with_garden: A Book for Anyone to Get Started with Unix
@@ -525,7 +526,6 @@
 - [lox-language](https://github.com/danman113/lox-language) - Syntax highlighting for Lox, everyone's favorite interpreted learning-language
 - [awesome-c](https://github.com/oz123/awesome-c) - A curated list of awesome C frameworks, libraries, resources and other shiny things. Inspired by all the other awesome-... projects out there.
 - [tech-radar](https://github.com/zalando/tech-radar) - Visualizing our technology choices
-- [book.rvemu](https://github.com/d0iasm/book.rvemu) - The book "Writing a RISC-V Emulator from Scratch in 10 Steps".
 - [typedoc](https://github.com/denodev/typedoc) - Deno API - Simplified Chinese
 - [browser-2020](https://github.com/luruke/browser-2020) - Things you can do with a browser in 2020 ☕️
 - [becoming-a-compiler-engineer](https://github.com/lazyparser/becoming-a-compiler-engineer) - 编译器入门课程的配套教学资料
@@ -767,6 +767,9 @@
 
 ## Rust 
 
+- [leveldb-rs](https://github.com/dermesser/leveldb-rs) - A reimplementation of LevelDB in Rust (no bindings).
+- [sstable](https://github.com/dermesser/sstable) - sstable stores key-value pairs on disk
+- [routerify](https://github.com/routerify/routerify) - A lightweight, idiomatic, composable and modular router implementation with middleware support for the Rust HTTP library hyper.rs
 - [zedis](https://github.com/drbh/zedis) - A tiny embedded, lock free, redis-like, pub+sub, brokerless, key value datastore. ømq+sled
 - [bustle](https://github.com/jonhoo/bustle) - A benchmarking harness for concurrent key-value collections
 - [deadpool](https://github.com/bikeshedder/deadpool) - Dead simple pool implementation for rust with async-await

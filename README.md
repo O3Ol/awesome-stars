@@ -258,7 +258,6 @@
 - [the-unix-workbench](https://github.com/seankross/the-unix-workbench) - :house_with_garden: A Book for Anyone to Get Started with Unix
 - [2019-Slides](https://github.com/PyConChina/2019-Slides) - PyCon China 2019 幻灯片
 - [icono](https://github.com/saeedalipoor/icono) - One tag One icon, no font or svg, Pure CSS
-- [apachecn-algo-zh](https://github.com/apachecn/apachecn-algo-zh) - ApacheCN 数据结构与算法译文集
 - [machine-learning-yearning-cn](https://github.com/deeplearning-ai/machine-learning-yearning-cn) - Machine Learning Yearning 中文版 - 《机器学习训练秘籍》 - Andrew Ng 著
 - [basic-book](https://github.com/evanwill/basic-book) - jekyll project template to create web book, aimed at OER textbook
 - [photon-book-creator](https://github.com/cedricss/photon-book-creator) - A light documentation and book template based on Jekyll.
@@ -306,7 +305,7 @@
 - [caddy](https://github.com/caddyserver/caddy) - Fast, multi-platform web server with automatic HTTPS
 - [MIT-6.824](https://github.com/andrewlee302/MIT-6.824) - Implementation of MIT 6.824: Distributed Systems
 - [dumpling](https://github.com/pingcap/dumpling) - Dumpling is a fast, easy-to-use tool written by Go for dumping data from the database(MySQL, TiDB...) to local/cloud(S3, GCP...) in multifarious formats(SQL, CSV...).
-- [nitro](https://github.com/asim/nitro) - Nitro (formerly known as Go Micro) is a blazingly fast framework for distributed app development, IoT, edge and p2p.
+- [nitro](https://github.com/asim/nitro) - Nitro is a futuristic blazingly fast framework for distributed app development, IoT, edge and p2p.
 - [7days-golang](https://github.com/geektutu/7days-golang) - 7 days golang programs from scratch (web framework Gee, distributed cache GeeCache, object relational mapping ORM framework GeeORM, rpc framework GeeRPC etc)  7天用Go动手写/从零实现系列
 - [LeetCode-Go](https://github.com/halfrost/LeetCode-Go) - ✅ Solutions to LeetCode by Go, 100% test coverage, runtime beats 100% / LeetCode 题解
 - [fiber](https://github.com/gofiber/fiber) - ⚡️ Express inspired web framework written in Go
@@ -464,6 +463,7 @@
 - [gatsby](https://github.com/gatsbyjs/gatsby) - Build blazing fast, modern apps and websites with React
 - [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted locally. Selfhosting is the process of hosting and managing applications instead of renting from Software-as-a-Service providers
 - [particles.js](https://github.com/VincentGarreau/particles.js) - A lightweight JavaScript library for creating particles
+- [apachecn-algo-zh](https://github.com/apachecn/apachecn-algo-zh) - ApacheCN 数据结构与算法译文集
 - [vuepress](https://github.com/vuejs/vuepress) - 📝 Minimalistic Vue-powered static site generator
 - [Eloquent-JavaScript](https://github.com/marijnh/Eloquent-JavaScript) - The sources for the Eloquent JavaScript book
 - [learnxinyminutes-docs](https://github.com/adambard/learnxinyminutes-docs) - Code documentation written as code! How novel and totally my idea!
@@ -509,8 +509,9 @@
 
 ## Others 
 
+- [google-10000-english](https://github.com/first20hours/google-10000-english) - This repo contains a list of the 10,000 most common English words in order of frequency, as determined by n-gram frequency analysis of the Google's Trillion Word Corpus.
 - [fast-rust](https://github.com/mbrubeck/fast-rust) - A book about performance optimization in the Rust programming language
-- [awesome-sustainable-technology](https://github.com/protontypes/awesome-sustainable-technology) - Open source projects sustaining stable climate, energy supply and vital natural resources
+- [awesome-sustainable-technology](https://github.com/protontypes/awesome-sustainable-technology) - Open technology projects sustaining stable climate, energy supply and vital natural resources
 - [applied-ml](https://github.com/eugeneyan/applied-ml) - 📚 Papers by organizations sharing their work on applied data science & machine learning.
 - [awesome-database-learning](https://github.com/pingcap/awesome-database-learning) - A list of learning materials to understand databases internals
 - [awesome-os](https://github.com/jubalh/awesome-os) - A list of operating systems and stuff
@@ -646,7 +647,7 @@
 - [covid-api](https://github.com/andreagrandi/covid-api) - COVID19 Api based on Johns Hopkins CSSE data
 - [manim](https://github.com/3b1b/manim) - Animation engine for explanatory math videos
 - [QASystemOnMedicalKG](https://github.com/liuhuanyong/QASystemOnMedicalKG) - A tutorial and implement of disease centered Medical knowledge graph and qa system based on it。知识图谱构建，自动问答，基于kg的自动问答。以疾病为中心的一定规模医药领域知识图谱，并以该知识图谱完成自动问答与分析服务。
-- [kedro](https://github.com/quantumblacklabs/kedro) - A Python library that implements software engineering best-practice for data and ML pipelines.
+- [kedro](https://github.com/quantumblacklabs/kedro) - A Python library that helps you create reproducible, maintainable and modular data science code.
 - [datasette](https://github.com/simonw/datasette) - An open source multi-tool for exploring and publishing data
 - [interview_internal_reference](https://github.com/0voice/interview_internal_reference) - 2020年最新总结，阿里，腾讯，百度，美团，头条等技术面试题目，以及答案，专家出题人分析汇总。
 - [system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
@@ -767,6 +768,8 @@
 
 ## Rust 
 
+- [kiro-editor](https://github.com/rhysd/kiro-editor) - A terminal UTF-8 text editor written in Rust 📝🦀
+- [ox](https://github.com/curlpipe/ox) - An independent Rust text editor that runs in your terminal!
 - [leveldb-rs](https://github.com/dermesser/leveldb-rs) - A reimplementation of LevelDB in Rust (no bindings).
 - [sstable](https://github.com/dermesser/sstable) - sstable stores key-value pairs on disk
 - [routerify](https://github.com/routerify/routerify) - A lightweight, idiomatic, composable and modular router implementation with middleware support for the Rust HTTP library hyper.rs
